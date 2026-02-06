@@ -1,0 +1,27 @@
+{
+  "name": "Gotour 語音導覽",
+  "short_name": "Gotour",
+  "description": "語音導覽應用程式",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#667eea",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/pwa-icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/pwa-icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["education", "entertainment"],
+  "lang": "zh-TW",
+  "dir": "ltr"
+}

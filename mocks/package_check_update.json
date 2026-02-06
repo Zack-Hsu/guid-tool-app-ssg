@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "status_code": 200,
+  "status_key": "success",
+  "message": "Success with response",
+  "data": {
+    "update_available": false,
+    "package_version": "100000000",
+    "package_size": 157367,
+    "update_description": "Mock data - no update available"
+  },
+  "meta": {
+    "requestId": "mock-check-update-001",
+    "timestamp": 1723372173851
+  }
+}
