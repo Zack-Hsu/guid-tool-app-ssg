@@ -1,0 +1,1384 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "337io8e4t2ax",
+        "name": "經典巡禮-精華導覽",
+        "start_date": "2020-01-01T00:00:00.000Z",
+        "end_date": "2050-01-01T00:00:00.000Z",
+        "description": "若您對各類型文物抱持興趣，也想透過文物感受華夏歷史的更迭，建議您選擇此參觀路線，從三樓逛至一樓，賞析16件故宮常設展精品。",
+        "target_audience": "adult_student",
+        "duration_sec": 3600,
+        "img_key_vision": {
+            "id": "ba2c081fbc07",
+            "name": "exhibition_kv",
+            "type": "photo",
+            "alt_text": "經典巡禮-精華導覽",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/337io8e4t2ax_kv.png",
+                    "media_sources": [
+                        {
+                            "width": 2752,
+                            "height": 1536,
+                            "format": "png",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/337io8e4t2ax_kv.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        "medias": [
+            {
+                "id": "0678b82204f0",
+                "name": "相關影片",
+                "type": "youtube",
+                "alt_text": "相關影片",
+                "info": [
+                    {
+                        "type": "youtube",
+                        "value": "https://youtu.be/YD6FS6qrvNU?si=cTloiKOs2y5wVjhP",
+                        "media_sources": []
+                    }
+                ]
+            }
+        ],
+        "categories": [
+            {
+                "uid": "t8lcj07wxkj5",
+                "name": "經典巡禮"
+            },
+            {
+                "uid": "0pk4zo04mdoz",
+                "name": "精華導覽"
+            }
+        ],
+        "work_binding": [
+            {
+                "uid": "y3qguke0s1i6",
+                "name": "恭請聖安並請赴京見江寧織造郎中曹寅奏摺",
+                "category": {
+                    "uid": "t8lcj07wxkj5",
+                    "name": "經典巡禮"
+                }
+            },
+            {
+                "uid": "unrlx51h5scy",
+                "name": "紅樓夢圖詠",
+                "category": {
+                    "uid": "t8lcj07wxkj5",
+                    "name": "經典巡禮"
+                }
+            },
+            {
+                "uid": "ji9heodooe28",
+                "name": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂",
+                "category": {
+                    "uid": "t8lcj07wxkj5",
+                    "name": "經典巡禮"
+                }
+            },
+            {
+                "uid": "3r4vuoy3hxto",
+                "name": "明晚期至清 銅夔紋爐、瓶、盒",
+                "category": {
+                    "uid": "t8lcj07wxkj5",
+                    "name": "經典巡禮"
+                }
+            },
+            {
+                "uid": "xe75pn1ho6th",
+                "name": "以宋為韻—汝窯與定窯",
+                "category": {
+                    "uid": "t8lcj07wxkj5",
+                    "name": "經典巡禮"
+                }
+            },
+            {
+                "uid": "a54lijv97e5g",
+                "name": "時鐘｜William Carpenter製｜英國倫敦 1770-1805｜故雜726",
+                "category": {
+                    "uid": "0pk4zo04mdoz",
+                    "name": "精華導覽"
+                }
+            },
+            {
+                "uid": "czk3olxxvffo",
+                "name": "瓷糖罐｜賽弗爾瓷器廠｜法國 1783年",
+                "category": {
+                    "uid": "0pk4zo04mdoz",
+                    "name": "精華導覽"
+                }
+            },
+            {
+                "uid": "pkv3tlgfp5nk",
+                "name": "鑲金玻璃香水瓶｜英國倫敦 約1760年｜故雜1658",
+                "category": {
+                    "uid": "0pk4zo04mdoz",
+                    "name": "精華導覽"
+                }
+            },
+            {
+                "uid": "6qid5gpesqjp",
+                "name": "放大鏡｜英國 約1760-1770年｜故雜103",
+                "category": {
+                    "uid": "0pk4zo04mdoz",
+                    "name": "精華導覽"
+                }
+            },
+            {
+                "uid": "5xy30hyye6vu",
+                "name": "鑲金瑪瑙鼻煙盒｜歐洲 18世紀｜故雜1634",
+                "category": {
+                    "uid": "0pk4zo04mdoz",
+                    "name": "精華導覽"
+                }
+            },
+            {
+                "uid": "8ltp57y7v4gw",
+                "name": "修妝盒｜歐洲 18世紀｜故琺000902",
+                "category": {
+                    "uid": "0pk4zo04mdoz",
+                    "name": "精華導覽"
+                }
+            },
+            {
+                "uid": "pzf8t3dn6bsv",
+                "name": "琺瑯香水瓶｜歐洲 18世紀｜故琺94",
+                "category": {
+                    "uid": "0pk4zo04mdoz",
+                    "name": "精華導覽"
+                }
+            }
+        ],
+        "works": [
+            {
+                "uid": "y3qguke0s1i6",
+                "exhibit_number": "611",
+                "name": "恭請聖安並請赴京見江寧織造郎中曹寅奏摺",
+                "description": "清 康熙四十三年（1704）七月二十九日\n故宮002712\n長20.5公分 寬48.2公分\n\n詩禮簪纓之族，指的是追求禮教、世代讀詩習禮的貴族，曹雪芹就是生長於這樣的貴族世家。祖父曹寅，善寫詩，好校勘，奉敕編《御定全唐詩》。自曾祖父曹璽始，曹家三代四任襲替江寧織造——由皇帝親信擔任的要職，負責織造、買辦皇家所需絲織及各類用品，如《龍藏經》經衣。如此特殊的生命經驗，感染著曹雪芹，體現在《紅樓夢》裡優美的詩詞曲賦、精緻物品的細膩描述。",
+                "order": 1,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2392,
+                    "y": -0.2321
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "f41bce3216af",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "恭請聖安並請赴京見江寧織造郎中曹寅奏摺：這是一幅以文字為主的書法作品，呈長條橫幅。畫面主要以黑色文字直行書寫，自右向左排列；左側另有一段以紅色文字書寫的直行內容，與黑字並列。文字整齊下垂，行距均勻。最左端可見一方小型紅色印章。整體構圖簡潔，留白寬廣。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "d56fafb84550",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/d56fafb84550.mp3",
+                                "transcript": "清 康熙四十三年（1704）七月二十九日\n故宮002712\n長20.5公分 寬48.2公分\n\n詩禮簪纓之族，指的是追求禮教、世代讀詩習禮的貴族，曹雪芹就是生長於這樣的貴族世家。祖父曹寅，善寫詩，好校勘，奉敕編《御定全唐詩》。自曾祖父曹璽始，曹家三代四任襲替江寧織造——由皇帝親信擔任的要職，負責織造、買辦皇家所需絲織及各類用品，如《龍藏經》經衣。如此特殊的生命經驗，感染著曹雪芹，體現在《紅樓夢》裡優美的詩詞曲賦、精緻物品的細膩描述。",
+                                "caption_url": null,
+                                "duration": 66900
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "f8fa07b3046c",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "da13a1a9dced",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/da13a1a9dced.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 41091
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "4a7faa2f3e79",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "unrlx51h5scy",
+                "exhibit_number": "612",
+                "name": "紅樓夢圖詠",
+                "description": "清 改琦撰\n清 光緒五年（1879）刊圖繪本\n故觀003571—003574\n高22.5公分 寬15公分\n\n關於曹雪芹，有許多解不開的謎。曹家經抄滅敗亡，曹雪芹陷溺於悲痛之中返回北京，及至乾隆二十七年（1762）「壬午除夕，書未成，芹為淚盡而逝。」對於他「年未五旬而卒」短暫的一生，對於他未完成的《紅樓夢》，認識與理解往往是破碎且殘缺的，彷彿他的存在本身就是一個謎。《紅樓夢》未完，不減其迷人之處。或許也正因未完，而產生了許多的版本、點評乃至圖詠。",
+                "order": 2,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1292,
+                    "y": -0.2858
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "8fe2f14b202b",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "紅樓夢圖詠：這是一幅書冊封面式的作品。畫面中央偏左是一幅細筆線描圖，描繪兩名身著古代服飾的人物站立在一塊大石旁，姿態端靜。右側是一條直立的標籤欄，背景為淺色，四角帶有黑色三角形裝飾。欄內以黑字書寫書名和卷次，排列自上而下。整體布局左為人物插畫，右為題簽，構圖清楚分明。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "dc2accd6633b",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/dc2accd6633b.mp3",
+                                "transcript": "清 改琦撰\n清 光緒五年（1879）刊圖繪本\n故觀003571—003574\n高22.5公分 寬15公分\n\n關於曹雪芹，有許多解不開的謎。曹家經抄滅敗亡，曹雪芹陷溺於悲痛之中返回北京，及至乾隆二十七年（1762）「壬午除夕，書未成，芹為淚盡而逝。」對於他「年未五旬而卒」短暫的一生，對於他未完成的《紅樓夢》，認識與理解往往是破碎且殘缺的，彷彿他的存在本身就是一個謎。《紅樓夢》未完，不減其迷人之處。或許也正因未完，而產生了許多的版本、點評乃至圖詠。",
+                                "caption_url": null,
+                                "duration": 70217
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d630a2e60cb0",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "16cbbcf3579c",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/16cbbcf3579c.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 38217
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "870cf486c883",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "ji9heodooe28",
+                "exhibit_number": "613",
+                "name": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂",
+                "description": "故雜4837\n長16公分 座徑4.8公分\n\n元妃，本名賈元春，是賈寶玉的長姊。十三、四歲時入宮，後晉封為貴妃，使賈府的榮耀達到鼎盛；省親，宮裡嬪妃獲准返家，探望父母或其他尊親，以盡孝道。賈府為了迎接元妃歸來，特別修建了省親別院—大觀園。大觀園，是元妃失去青春、與家人短暫相聚的樂園，也是賈寶玉與眾金釵們，在其權力的庇護下，彷彿遺世獨立的青春樂園，也是曹雪芹緬懷過去，繁華已逝的失樂園。",
+                "order": 3,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1651,
+                    "y": -0.199
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "4043c7406cd7",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂：這是一件以金質為主的立體飾件，自底座向上呈層層堆疊的構造。底部為半球形的金色基座，表面密布細緻的花紋。其上伸出多層細工打造的鳥形與枝葉造型，金片以鏤空與捲曲方式組成，層次複雜。作品上點綴多顆圓形白色珍珠，排列於各層之間。最頂端是一顆橢圓形的光滑寶石，色澤偏棕黃。整體造型輕盈繁複，向上呈開展姿態。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7bc0c3f38dac",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7bc0c3f38dac.mp3",
+                                "transcript": "故雜4837\n長16公分 座徑4.8公分\n\n元妃，本名賈元春，是賈寶玉的長姊。十三、四歲時入宮，後晉封為貴妃，使賈府的榮耀達到鼎盛；省親，宮裡嬪妃獲准返家，探望父母或其他尊親，以盡孝道。賈府為了迎接元妃歸來，特別修建了省親別院—大觀園。大觀園，是元妃失去青春、與家人短暫相聚的樂園，也是賈寶玉與眾金釵們，在其權力的庇護下，彷彿遺世獨立的青春樂園，也是曹雪芹緬懷過去，繁華已逝的失樂園。",
+                                "caption_url": null,
+                                "duration": 60500
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "06e983c12619",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "84d5766879b6",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/84d5766879b6.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 48640
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "3208d4039051",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "3r4vuoy3hxto",
+                "exhibit_number": "614",
+                "name": "明晚期至清 銅夔紋爐、瓶、盒",
+                "description": "中銅1565、1820、1819\n爐高15公分 瓶高13.8公分 盒高7.9公分\n\n《紅樓夢》總是透著一縷幽香。重要儀式場合焚香，日常起居坐臥也焚香。元妃省親，大觀園內鼎焚百合之香；賈府家宴，几上設爐瓶三事，焚御賜百合宮香。爐瓶三事，以香爐、香盒及箸瓶組成。爐以焚香，盒以貯香，瓶以置箸與匙。爐置中，盒、瓶置側，顯見爐為主角。小說中提到的香爐—文王鼎，源自周公祭祀周文王的祭器，明清時期多有模仿，是仿古風雅之器，宜齋室清賞。",
+                "order": 4,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2101,
+                    "y": -0.264
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "23e5509f2bc6",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "明晚期至清 銅夔紋爐、瓶、盒：畫面展示一組擺放在木座上的金屬器物。木座呈弧形，表面雕有細緻的紋飾。上方依序擺放三件器物：左側是一件細頸的器具，頸口插著三根細棒與一片圓形的金屬葉片；器身以金與綠色相間的裝飾構成。中央是一個三足的小型鼎形容器，金色外表並帶有藍綠色的幾何紋帶。右側是一件帶蓋的小圓盒，蓋面中央有一個小握鈕，盒身同樣帶有藍綠色裝飾。整組器物呈現禮器般的對稱陳列。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "ebe3b3d62263",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ebe3b3d62263.mp3",
+                                "transcript": "中銅1565、1820、1819\n爐高15公分 瓶高13.8公分 盒高7.9公分\n\n《紅樓夢》總是透著一縷幽香。重要儀式場合焚香，日常起居坐臥也焚香。元妃省親，大觀園內鼎焚百合之香；賈府家宴，几上設爐瓶三事，焚御賜百合宮香。爐瓶三事，以香爐、香盒及箸瓶組成。爐以焚香，盒以貯香，瓶以置箸與匙。爐置中，盒、瓶置側，顯見爐為主角。小說中提到的香爐—文王鼎，源自周公祭祀周文王的祭器，明清時期多有模仿，是仿古風雅之器，宜齋室清賞。",
+                                "caption_url": null,
+                                "duration": 64757
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "17718020bde3",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9d407ef2c546",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9d407ef2c546.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 55850
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "ea904d2cb846",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "xe75pn1ho6th",
+                "exhibit_number": "615",
+                "name": "以宋為韻—汝窯與定窯",
+                "description": "故瓷17854\n口徑15.7公分 高3.7公分\n\n《紅樓夢》居家生活瓷器的描述，提到宋代名窯，像汝窯，像定窯，也提到明代官窯，像宣窯，像成窯，妝點著賈府、大觀園的日常。曹雪芹將這份日常，包裹在精緻講究的古董瓷器裡，以及清代仿古的當代瓷器中。汝窯，「晨星真可貴」，卻數次出現於書中，有盤、美人觚與花囊；定窯，「顏色天下白」，寶玉生日開夜宴，就以四十個定窯碟盛酒饌果菜。低調奢華，令人印象深刻。",
+                "order": 5,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2284,
+                    "y": -0.3495
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "aa8c95984f71",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "以宋為韻—汝窯與定窯：這是一件淺盤式的陶瓷器。盤面寬而平緩，中央略向下凹。整體覆蓋淡青灰色釉，表面佈滿細密的開片紋。盤緣圓滑，外側曲線簡潔。底部呈圈足狀，使盤身略微墊起。整體外觀清雅端整。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "47ce022bd381",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/47ce022bd381.mp3",
+                                "transcript": "故瓷17854\n口徑15.7公分 高3.7公分\n\n《紅樓夢》居家生活瓷器的描述，提到宋代名窯，像汝窯，像定窯，也提到明代官窯，像宣窯，像成窯，妝點著賈府、大觀園的日常。曹雪芹將這份日常，包裹在精緻講究的古董瓷器裡，以及清代仿古的當代瓷器中。汝窯，「晨星真可貴」，卻數次出現於書中，有盤、美人觚與花囊；定窯，「顏色天下白」，寶玉生日開夜宴，就以四十個定窯碟盛酒饌果菜。低調奢華，令人印象深刻。",
+                                "caption_url": null,
+                                "duration": 58253
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "a596886e1fb5",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9b1af276d469",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9b1af276d469.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 30981
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "3a25d587df6c",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "a54lijv97e5g",
+                "exhibit_number": "716",
+                "name": "時鐘｜William Carpenter製｜英國倫敦 1770-1805｜故雜726",
+                "description": "圓形錶面，以羅馬數字標示時，阿拉伯數字標示分、秒，錶面周圍裝飾太陽形光芒，上有橢圓形玻璃罩，橢圓形錶體，周圍裝飾一圈花瓣紋，上方裝飾劍筒、火炬及彩帶，下方以莨苕葉紋為托，下接獸足，後方有一發條旋鈕，置於二層臺座上，上層為雙層座面，下接四鷹鳥座足，下層為花葉紋裝飾。背有文字「Willm Carpenter London」及速度調整刻度：「FASTER」、「1~9」、「SLOWER」，附鑰匙二把。",
+                "order": 1,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0567,
+                    "y": 0.0398
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "2aab5cb38027",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "時鐘：這是一座以金色為主的裝飾時計。鐘面位於中央的橢圓形框內，白色錶盤上有羅馬數字刻度，外圍環繞放射狀的金色光芒圖案。橢圓框的頂部飾有精緻的蝴蝶結與花葉雕飾。整座時鐘由華麗繁複的金屬支架托起，下方底座呈不規則的卷草與曲線構成。整體風格華麗細緻，具有強烈的裝飾性。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 1028,
+                                        "height": 1371,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7712f22491dd",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7712f22491dd.mp3",
+                                "transcript": "圓形錶面，以羅馬數字標示時，阿拉伯數字標示分、秒，錶面周圍裝飾太陽形光芒，上有橢圓形玻璃罩，橢圓形錶體，周圍裝飾一圈花瓣紋，上方裝飾劍筒、火炬及彩帶，下方以莨苕葉紋為托，下接獸足，後方有一發條旋鈕，置於二層臺座上，上層為雙層座面，下接四鷹鳥座足，下層為花葉紋裝飾。背有文字「Willm Carpenter London」及速度調整刻度：「FASTER」、「1~9」、「SLOWER」，附鑰匙二把。",
+                                "caption_url": null,
+                                "duration": 53212
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "c23079d9217f",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "d819db635fc2",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/d819db635fc2.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 40124
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "db1280f81153",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "czk3olxxvffo",
+                "exhibit_number": "717",
+                "name": "瓷糖罐｜賽弗爾瓷器廠｜法國 1783年",
+                "description": "金彩動人的法國賽佛爾瓷糖罐，底部同時存在款識和原始販售標籤，透露出整件作品繪製與流通的淵遠流長經過。款識標記中間互為交叉的雙「L」，意指十八世紀的法王路易十四或路易十五，而雙「L」中心出現的雙「f」，其實是出產時間的記號。透過此一記號對照賽佛爾瓷廠紀錄，可以追溯出這件作品產燒於1783 年。此一事實又能回頭說明款識中間的雙「L」代表路易十五。法國賽佛爾瓷廠最初只能生產軟瓷胎瓷器（soft-paste），一直到了1770 年代才總算掌握了生產硬瓷胎瓷器（hard-paste）的技術。在西方人眼中硬瓷代表足以和中國瓷器比美的高品質瓷器，出現在款識最上方的金彩皇冠即是硬瓷燒成的標記。最下方的「LF」，則是彩繪師 La France 名字字母的縮寫。這位技藝高超的畫師在1783 年的四、五月之間，曾經把相同的紋樣，裝飾到一系列茶壺、牛奶壺和杯碟等成套的作品上。由於十八世紀下半葉負責賽佛爾瓷廠的首相Henry Leonard Jean-Baptiste Bertin 對遙遠的中國充滿憧憬，為了向乾隆皇帝表達友好，他以18 livres 的價格買下這件瓷糖罐做為禮物，請人千里迢迢地帶到清宮送給乾隆皇帝，至今依然清晰可辨的販售標籤，清楚地記錄了這段鮮為人知的塵封往事。",
+                "order": 2,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0174,
+                    "y": 0.0582
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "731f9bfeb050",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "瓷糖罐：這是一件帶蓋的白色陶瓷罐。罐身飽滿圓潤，外表以金色描繪細緻的花葉圖案，分布均勻。罐口上方有一道金色飾線。蓋子同樣以白底金紋呈現，中央有一個小巧的金色圓鈕作為握柄。整體造型端正，色調雅緻，以白底與金色線條形成亮麗的對比。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/czk3olxxvffo_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 600,
+                                        "height": 450,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/czk3olxxvffo_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "1d9f80b52861",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/1d9f80b52861.mp3",
+                                "transcript": "金彩動人的法國賽佛爾瓷糖罐，底部同時存在款識和原始販售標籤，透露出整件作品繪製與流通的淵遠流長經過。款識標記中間互為交叉的雙「L」，意指十八世紀的法王路易十四或路易十五，而雙「L」中心出現的雙「f」，其實是出產時間的記號。透過此一記號對照賽佛爾瓷廠紀錄，可以追溯出這件作品產燒於1783 年。此一事實又能回頭說明款識中間的雙「L」代表路易十五。法國賽佛爾瓷廠最初只能生產軟瓷胎瓷器（soft-paste），一直到了1770 年代才總算掌握了生產硬瓷胎瓷器（hard-paste）的技術。在西方人眼中硬瓷代表足以和中國瓷器比美的高品質瓷器，出現在款識最上方的金彩皇冠即是硬瓷燒成的標記。最下方的「LF」，則是彩繪師 La France 名字字母的縮寫。這位技藝高超的畫師在1783 年的四、五月之間，曾經把相同的紋樣，裝飾到一系列茶壺、牛奶壺和杯碟等成套的作品上。由於十八世紀下半葉負責賽佛爾瓷廠的首相Henry Leonard Jean-Baptiste Bertin 對遙遠的中國充滿憧憬，為了向乾隆皇帝表達友好，他以18 livres 的價格買下這件瓷糖罐做為禮物，請人千里迢迢地帶到清宮送給乾隆皇帝，至今依然清晰可辨的販售標籤，清楚地記錄了這段鮮為人知的塵封往事。",
+                                "caption_url": null,
+                                "duration": 122358
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "4b8f06404206",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "0b42a96c254b",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/0b42a96c254b.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 33959
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "5738a5505f39",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "pkv3tlgfp5nk",
+                "exhibit_number": "718",
+                "name": "鑲金玻璃香水瓶｜英國倫敦 約1760年｜故雜1658",
+                "description": "長形切割玻璃扁瓶，外鑲刻渦捲式花葉紋金框，有玻璃蓋，外有雕金花旋紐蓋。瓶蓋口緣白色琺瑯金字法文「VOTRE AMITIÉ ENRETOUR」。這類多曲線且華麗的鑲金框玻璃小瓶，多為英皇喬治三世時製品。",
+                "order": 3,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0089,
+                    "y": 0.0643
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "2d74b579d2a3",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "鑲金玻璃香水瓶：這是一件透明容器外加金屬包飾的小瓶。瓶身由清透材質構成，外層覆有繁複的金色金屬框架，形成卷草、花朵與欄杆般的裝飾線條。瓶頸部分包覆金屬雕飾，瓶蓋呈圓頂形，帶有細密紋樣，頸部環繞一圈小型飾帶。整體外觀華麗精巧，突顯金屬工藝的細緻。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 375,
+                                        "height": 500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "ff96b4a4caf1",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ff96b4a4caf1.mp3",
+                                "transcript": "長形切割玻璃扁瓶，外鑲刻渦捲式花葉紋金框，有玻璃蓋，外有雕金花旋紐蓋。瓶蓋口緣白色琺瑯金字法文「VOTRE AMITIÉ ENRETOUR」。這類多曲線且華麗的鑲金框玻璃小瓶，多為英皇喬治三世時製品。",
+                                "caption_url": null,
+                                "duration": 24581
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "95983dfe4a5a",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "6a37913e266c",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/6a37913e266c.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 38087
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "dc0744a283c9",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "6qid5gpesqjp",
+                "exhibit_number": "719",
+                "name": "放大鏡｜英國 約1760-1770年｜故雜103",
+                "description": "西洋製，可開闔，雙片式目鏡，瑪瑙鑲雕金花外框為柄，二片圓形透明玻璃鏡片可自兩側展開。金色鏤空紋飾具歐洲巴洛克式裝飾風格，線條迴旋律動且對稱呼應，整體設計精巧華美。",
+                "order": 4,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0026,
+                    "y": 0.0679
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "33d6eb6882fc",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "放大鏡：這是一件金屬製的細長工具，外形帶有精緻裝飾。上端是一個圓形的開口框，與下方手柄以兩條細長的金屬線條相連。手柄部分呈水滴形，中央填有藍色底板，外覆金色鏤空花葉與卷草圖案。底部收成尖端狀。整體造型纖細優雅，裝飾華麗。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 450,
+                                        "height": 600,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "fc6352b0b68a",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/fc6352b0b68a.mp3",
+                                "transcript": "西洋製，可開闔，雙片式目鏡，瑪瑙鑲雕金花外框為柄，二片圓形透明玻璃鏡片可自兩側展開。金色鏤空紋飾具歐洲巴洛克式裝飾風格，線條迴旋律動且對稱呼應，整體設計精巧華美。",
+                                "caption_url": null,
+                                "duration": 25287
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "46037cc5675d",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "42cfb3360963",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/42cfb3360963.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 33567
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "bd95fcbdb64d",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "5xy30hyye6vu",
+                "exhibit_number": "720",
+                "name": "鑲金瑪瑙鼻煙盒｜歐洲 18世紀｜故雜1634",
+                "description": "有上下掀蓋之方盒，上蓋掀開為儲放鼻煙之處，蓋及盒身以雕金渦捲式花葉紋為裝飾框，內嵌草蕨瑪瑙，上蓋開闔處有銀嵌鑲鑽石、紅寶、祖母綠之花葉。底蓋嵌亦有雕花框，嵌石兩片，內有秘戲圖。與院藏另一件James Cox的鑲錶金鼻煙盒相似，為十八世紀後半英國製品。",
+                "order": 5,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1315,
+                    "y": -0.0742
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "44b9dee9fdf3",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "鑲金瑪瑙鼻煙盒：這是一個小型金屬盒，外形呈長方體。整個盒身覆蓋華麗的金色框飾，框內嵌入多塊色調柔和、帶雲紋或人物剪影的半透明材質，排列成整齊的圖框。盒蓋與四側皆有同樣的嵌飾設計。盒前方中央還鑲有一排小型寶石，增添亮點。整體造型精巧，裝飾繁複而對稱。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 600,
+                                        "height": 450,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7a348d7c4a36",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7a348d7c4a36.mp3",
+                                "transcript": "有上下掀蓋之方盒，上蓋掀開為儲放鼻煙之處，蓋及盒身以雕金渦捲式花葉紋為裝飾框，內嵌草蕨瑪瑙，上蓋開闔處有銀嵌鑲鑽石、紅寶、祖母綠之花葉。底蓋嵌亦有雕花框，嵌石兩片，內有秘戲圖。與院藏另一件James Cox的鑲錶金鼻煙盒相似，為十八世紀後半英國製品。",
+                                "caption_url": null,
+                                "duration": 36572
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "283c32bee592",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "b4d4d79776c4",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/b4d4d79776c4.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36650
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "c53241ef3411",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "8ltp57y7v4gw",
+                "exhibit_number": "721",
+                "name": "修妝盒｜歐洲 18世紀｜故琺000902",
+                "description": "盒裝修容組件，以袖珍便攜形式組裝。此類匣盒內大多配置小鏡、盛裝香水或香料的玻璃瓶，刀、剪、鑷子等。盒之外壁或鑲嵌畫琺瑯片，或嵌螺鈿、瑪瑙、各色寶石，呈現歐洲十八世紀華麗裝飾風格。",
+                "order": 6,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1302,
+                    "y": -0.0665
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "ba0a4cd1eb38",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "修妝盒：這是一個小型長方形裝飾盒。盒身以白色面板為主，其上以彩色琺瑯描繪花朵與葉片，圖案細緻。盒的邊框與角落均為金色金屬鑲邊，呈捲曲與浮雕般的裝飾。蓋子上方有一個弧形的金色提把，造型如小型花紋架構。盒底有四個小巧的金色足座，使整件器物略微抬起。整體外觀雅緻華麗。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 600,
+                                        "height": 450,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "71c21f4d944d",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/71c21f4d944d.mp3",
+                                "transcript": "盒裝修容組件，以袖珍便攜形式組裝。此類匣盒內大多配置小鏡、盛裝香水或香料的玻璃瓶，刀、剪、鑷子等。盒之外壁或鑲嵌畫琺瑯片，或嵌螺鈿、瑪瑙、各色寶石，呈現歐洲十八世紀華麗裝飾風格。",
+                                "caption_url": null,
+                                "duration": 26880
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "9e926fa418c8",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "3ca6d2adcd8f",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/3ca6d2adcd8f.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 40647
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "fc4d12615b4e",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "pzf8t3dn6bsv",
+                "exhibit_number": "722",
+                "name": "琺瑯香水瓶｜歐洲 18世紀｜故琺94",
+                "description": "花瓶形，有鍍金雕刻嵌瓷花蓋，瓶身上下各一圈花瓣紋，瓶身粉地畫琺瑯，雙面開光琺瑯畫小童嬉戲，為轉印法製作，有緞帶花串為飾，以器形、琺瑯、蓋上雕刻，應為十八世紀後半英國製品。",
+                "order": 7,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1274,
+                    "y": -0.0724
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "0c14f4954c88",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "琺瑯香水瓶：這是一件帶蓋的小型陶瓷器，外形呈弧形的瓶狀。器身以粉彩色為主，並覆有層層凸起的羽狀裝飾。瓶身中央開有一個橢圓形畫框，框內為細緻的彩繪人物場景。瓶口上方的蓋子飾有立體的花朵與葉片，色彩鮮豔。整體風格華麗，細節繁複。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 213,
+                                        "height": 237,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "9c90a898e790",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/9c90a898e790.mp3",
+                                "transcript": "花瓶形，有鍍金雕刻嵌瓷花蓋，瓶身上下各一圈花瓣紋，瓶身粉地畫琺瑯，雙面開光琺瑯畫小童嬉戲，為轉印法製作，有緞帶花串為飾，以器形、琺瑯、蓋上雕刻，應為十八世紀後半英國製品。",
+                                "caption_url": null,
+                                "duration": 26802
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "4c76510dd6a0",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "f4c4f5d3ca25",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/f4c4f5d3ca25.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 34743
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "edd7f297e929",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

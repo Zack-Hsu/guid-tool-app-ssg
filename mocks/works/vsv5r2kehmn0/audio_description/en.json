@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "vsv5r2kehmn0",
+        "exhibit_number": "501",
+        "name": "Tang Dynasty: Sancai Polo Lady Figurine",
+        "description": "During the Tang dynasty, women admired a healthy and active appearance. They often wore narrow-sleeved jackets with turned-down collars and soft boots—light and practical outfits suitable for various equestrian activities. Polo, introduced from Persia, was especially popular among the upper classes of Tang society, and many tombs have yielded painted pottery or sancai figurines depicting polo players. This piece portrays a fashionable lady engaged in a polo match. She turns her torso to the side, her head leaning slightly forward. Her left hand is raised near the horse’s head as if holding the reins, while her right arm bends as though grasping a stick to strike the ball. A vivid red pigment remains on her chest, indicating the use of precious coloring materials.",
+        "order": 1,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1311,
+            "y": -0.0539
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": true,
+        "medias": [
+            {
+                "id": "5f7fd08399c9",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Tang Dynasty Sancai Polo Lady Figurine: A ceramic sculpture of a mounted female rider. The composition is balanced, with dominant hues of yellow, green, and brown. The horse stands firmly with legs apart and head slightly lowered. The rider sits upright at the center, with a high coiffed hairstyle and hands positioned as if holding reins. The flowing sancai glazes create a glossy surface, giving the figure a calm and steady presence.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2244,
+                                "height": 2992,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "3c3cd908a601",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/3c3cd908a601.mp3",
+                        "transcript": "During the Tang dynasty, women admired a healthy and active appearance. They often wore narrow-sleeved jackets with turned-down collars and soft boots—light and practical outfits suitable for various equestrian activities. Polo, introduced from Persia, was especially popular among the upper classes of Tang society, and many tombs have yielded painted pottery or sancai figurines depicting polo players. This piece portrays a fashionable lady engaged in a polo match. She turns her torso to the side, her head leaning slightly forward. Her left hand is raised near the horse’s head as if holding the reins, while her right arm bends as though grasping a stick to strike the ball. A vivid red pigment remains on her chest, indicating the use of precious coloring materials.",
+                        "caption_url": null,
+                        "duration": 39132
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "2a6983b2733a",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "592693246707",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/592693246707.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 40647
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "21aca35d2a6e",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

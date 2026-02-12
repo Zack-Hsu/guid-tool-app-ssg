@@ -1,0 +1,128 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "2o6awyzgkatu",
+        "exhibit_number": "510",
+        "name": "南宋　龍泉窯　青瓷鳳耳瓶",
+        "description": "青瓷鳳耳瓶直腹、長頸、盤口，長頸兩側貼飾鳳形耳，器形端整大方，是南宋時期龍泉窯的代表作之一。龍泉窯位於浙江南部，瓷場分佈廣泛，產品種類多樣，南宋之後，成為供應海內外器用的重要窯場。不僅在許多宋、元時期的墓葬及窖藏中頻繁出現，在海外的貿易遺址也經常可見其蹤跡。長頸盤口瓶由北宋汝窯首度燒造，南宋官窯的作品中也多所繼承，可以說是官方瓷器喜愛的瓷瓶樣式。龍泉窯開始，則在長頸兩側加上魚形耳或鳳形耳。這件龍泉窯鳳耳青瓷瓶的雙耳印紋細緻，鳳紋的頭部及羽翅清晰可見。釉色粉青，釉質瑩潤光亮，勻淨無瑕，與日本所藏受到天皇勅銘「千聲」、「萬聲」的青瓷鳳耳瓶相似，都是龍泉窯中最精美絕倫的作品。",
+        "order": 10,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1287,
+            "y": -0.0713
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": true,
+        "medias": [
+            {
+                "id": "dc85bc19fcc5",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "南宋 龍泉窯　青瓷鳳耳瓶：這是一件淡青色釉面的陶瓷瓶，造型筆直對稱。瓶身下半部呈圓柱狀，上方收束成短頸，並外展成寬而平的瓶口。頸部兩側各附有一個裝飾性的柄，形狀如彎曲的動物或雲紋線條，呈鏤空的對稱造型。整體表面光滑，釉色均勻。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "6f4149791ac5",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "南宋 龍泉窯　青瓷鳳耳瓶",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "9aa2e67c120d",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/9aa2e67c120d.mp3",
+                        "transcript": "青瓷鳳耳瓶直腹、長頸、盤口，長頸兩側貼飾鳳形耳，器形端整大方，是南宋時期龍泉窯的代表作之一。龍泉窯位於浙江南部，瓷場分佈廣泛，產品種類多樣，南宋之後，成為供應海內外器用的重要窯場。不僅在許多宋、元時期的墓葬及窖藏中頻繁出現，在海外的貿易遺址也經常可見其蹤跡。長頸盤口瓶由北宋汝窯首度燒造，南宋官窯的作品中也多所繼承，可以說是官方瓷器喜愛的瓷瓶樣式。龍泉窯開始，則在長頸兩側加上魚形耳或鳳形耳。這件龍泉窯鳳耳青瓷瓶的雙耳印紋細緻，鳳紋的頭部及羽翅清晰可見。釉色粉青，釉質瑩潤光亮，勻淨無瑕，與日本所藏受到天皇勅銘「千聲」、「萬聲」的青瓷鳳耳瓶相似，都是龍泉窯中最精美絕倫的作品。",
+                        "caption_url": null,
+                        "duration": 86178
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "e56ec971d53a",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "050d0b2bed9d",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 30041
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "8aece7d49cae",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

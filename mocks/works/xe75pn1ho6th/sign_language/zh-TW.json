@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "xe75pn1ho6th",
+        "exhibit_number": "615",
+        "name": "以宋為韻—汝窯與定窯",
+        "description": "故瓷17854\n口徑15.7公分 高3.7公分\n\n《紅樓夢》居家生活瓷器的描述，提到宋代名窯，像汝窯，像定窯，也提到明代官窯，像宣窯，像成窯，妝點著賈府、大觀園的日常。曹雪芹將這份日常，包裹在精緻講究的古董瓷器裡，以及清代仿古的當代瓷器中。汝窯，「晨星真可貴」，卻數次出現於書中，有盤、美人觚與花囊；定窯，「顏色天下白」，寶玉生日開夜宴，就以四十個定窯碟盛酒饌果菜。低調奢華，令人印象深刻。",
+        "order": 5,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "06953b4mgzad",
+                    "name": "203",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.2284,
+            "y": -0.3495
+        },
+        "exhibition_uid": "21lsxrf1aznj",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "aa8c95984f71",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "以宋為韻—汝窯與定窯：這是一件淺盤式的陶瓷器。盤面寬而平緩，中央略向下凹。整體覆蓋淡青灰色釉，表面佈滿細密的開片紋。盤緣圓滑，外側曲線簡潔。底部呈圈足狀，使盤身略微墊起。整體外觀清雅端整。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 740,
+                                "height": 986,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "47ce022bd381",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/47ce022bd381.mp3",
+                        "transcript": "故瓷17854\n口徑15.7公分 高3.7公分\n\n《紅樓夢》居家生活瓷器的描述，提到宋代名窯，像汝窯，像定窯，也提到明代官窯，像宣窯，像成窯，妝點著賈府、大觀園的日常。曹雪芹將這份日常，包裹在精緻講究的古董瓷器裡，以及清代仿古的當代瓷器中。汝窯，「晨星真可貴」，卻數次出現於書中，有盤、美人觚與花囊；定窯，「顏色天下白」，寶玉生日開夜宴，就以四十個定窯碟盛酒饌果菜。低調奢華，令人印象深刻。",
+                        "caption_url": null,
+                        "duration": 58253
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "a596886e1fb5",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "9b1af276d469",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9b1af276d469.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 30981
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "3a25d587df6c",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

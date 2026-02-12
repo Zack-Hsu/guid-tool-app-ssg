@@ -1,0 +1,554 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "exhibitions": [
+            {
+                "uid": "cdoirk5wxrn9",
+                "name": "摶泥幻化—院藏陶瓷精華展",
+                "start_date": "2025-01-01T00:00:00.000Z",
+                "end_date": "2025-12-31T23:59:59.000Z",
+                "description": "陶瓷就像一種會變身的魔法！\n一開始，它只是揉起來軟軟的泥巴，\n經過「搓一搓、拉一拉、上顏色、畫花紋」，\n最後進到超級熱的魔法窯烤箱裡，\n就變成又硬又漂亮的陶瓷寶物啦！\n\n每一件陶瓷都有自己的故事：\n有人負責做泥巴、有人設計形狀、有人畫上色彩，\n還有皇帝和使用它的人，都一起讓陶瓷變得特別。\n\n陶瓷最神奇的地方是——\n它們不只能告訴我們很久以前發生的事情，\n還偷偷記錄了不同文化、不同地方\n是怎麼互相認識、互相影響的。\n\n陶瓷就像穿越時空的小小信使，\n把古老的故事一路帶到我們面前！",
+                "img_key_vision": {
+                    "id": "3eojte26ta53",
+                    "name": "exhibition_kv",
+                    "type": "photo",
+                    "alt_text": "摶泥幻化—院藏陶瓷精華展主視覺圖片",
+                    "info": [
+                        {
+                            "type": "jpeg",
+                            "value": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg",
+                            "media_sources": [
+                                {
+                                    "width": 1920,
+                                    "height": 870,
+                                    "format": "jpeg",
+                                    "url": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "medias": [
+                    {
+                        "id": "e4f4dbfefbee",
+                        "name": "相關影片",
+                        "type": "youtube",
+                        "alt_text": "相關影片",
+                        "info": [
+                            {
+                                "type": "youtube",
+                                "value": "https://youtu.be/g3LaH_v1PRw?si=ohyXejJNvafZAL_y",
+                                "media_sources": []
+                            }
+                        ]
+                    }
+                ],
+                "venue_locations": [
+                    {
+                        "uid": "r5rl5xpwb35k",
+                        "name": "2F",
+                        "spaces": [
+                            {
+                                "uid": "um1n8c94iy53",
+                                "name": "201",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "ilajxhwztl86",
+                                "name": "205",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "2x5uxgoagswe",
+                                "name": "207",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "2buppawyud8v",
+                        "name": "1F",
+                        "spaces": [
+                            {
+                                "uid": "8fgmmk6t0hyd",
+                                "name": "105",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "4i4f75xy2qm5",
+                                "name": "107",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    }
+                ],
+                "categories": [
+                    {
+                        "uid": "4q1maofs61mp",
+                        "name": "摶泥幻化"
+                    },
+                    {
+                        "uid": "spw8cb6azox0",
+                        "name": "陶瓷精華"
+                    }
+                ],
+                "work_binding": [
+                    {
+                        "uid": "vsv5r2kehmn0",
+                        "name": "唐　三彩馬球仕女俑",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "zvxc0dzh2z8s",
+                        "name": "唐　灰陶加彩仕女俑",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "kkif0v0692c3",
+                        "name": "唐　邢窯　白瓷穿帶壺",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "u1aa0k42shqh",
+                        "name": "五代　越窯　秘色青瓷洗",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "keduinnnj85j",
+                        "name": "北宋　定窯　白瓷嬰兒枕",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "u9q1z9zhax8a",
+                        "name": "北宋　定窯　白瓷劃花蓮紋梅瓶",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "2wyugdl3h5ij",
+                        "name": "南宋　官窯　青瓷弦紋樽",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "112o46mlffpc",
+                        "name": "南宋　官窯　青瓷貫耳壺",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "1ozevenhi0ma",
+                        "name": "宋　建窯　黑釉兔毫盞",
+                        "category": {
+                            "uid": "spw8cb6azox0",
+                            "name": "異物奇貨"
+                        }
+                    },
+                    {
+                        "uid": "2o6awyzgkatu",
+                        "name": "南宋　龍泉窯　青瓷鳳耳瓶",
+                        "category": {
+                            "uid": "spw8cb6azox0",
+                            "name": "異物奇貨"
+                        }
+                    },
+                    {
+                        "uid": "e2bkzvk26ic2",
+                        "name": "元　霽青單把杯盤",
+                        "category": {
+                            "uid": "spw8cb6azox0",
+                            "name": "異物奇貨"
+                        }
+                    },
+                    {
+                        "uid": "ozy68rnni7yh",
+                        "name": "元　鈞窯　天藍釉紫斑盂",
+                        "category": {
+                            "uid": "spw8cb6azox0",
+                            "name": "異物奇貨"
+                        }
+                    }
+                ]
+            },
+            {
+                "uid": "pngs3217o4ei",
+                "name": "甲子萬年：國立故宮博物院百年院慶特展",
+                "start_date": "2026-10-04T00:00:00.000Z",
+                "end_date": "2027-01-04T23:59:59.000Z",
+                "description": "國立故宮博物院就像一座巨大又神祕的時間寶箱，裡面不是普通的寶物，而是會講故事的歷史魔法！2025 年對故宮來說，就像迎來一場超級盛大的生日派對。因為從 1925 年開始，故宮從皇帝的秘密收藏，變成大家都能來參觀的寶物樂園，剛好滿 100 歲；文物搬到臺灣並在北溝庫房安家，也陪我們走過 75 年；「國立故宮博物院」這個名字在臺灣扎根，也已經 60 年；而南部院區從 2015 年開館，到現在也變成 10 歲的小壽星。好多「寶物生日」一起到來，讓故宮像被幸福煙火包圍一樣，閃閃發光。於是我們推出「甲子萬年：國立故宮博物院百年院慶特展」，帶大家坐上時光列車，回到過去六十年的冒險旅程，看故宮如何一路成長、守護寶物。更重要的是，我們還要一起想像百年故宮未來能變成什麼樣子——也許更聰明、更有趣、更多驚喜！故宮就像一位永遠不老、一直陪伴大家的好朋友，帶著滿滿故事，準備迎接下一個一百年。",
+                "img_key_vision": {
+                    "id": "mta2v4wllsw8",
+                    "name": "exhibition_kv",
+                    "type": "photo",
+                    "alt_text": "甲子萬年：國立故宮博物院百年院慶特展主視覺圖片",
+                    "info": [
+                        {
+                            "type": "jpeg",
+                            "value": "https://media.artogo.tw/test/npm_package_data/images/pngs3217o4ei_kv.jpg",
+                            "media_sources": [
+                                {
+                                    "width": 4000,
+                                    "height": 1812,
+                                    "format": "jpeg",
+                                    "url": "https://media.artogo.tw/test/npm_package_data/images/pngs3217o4ei_kv.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "medias": [
+                    {
+                        "id": "9d2f12a8f23a",
+                        "name": "相關影片",
+                        "type": "youtube",
+                        "alt_text": "相關影片",
+                        "info": [
+                            {
+                                "type": "youtube",
+                                "value": "https://youtu.be/FKk1hbxylLU?si=yjLOky4JdoLWi5iv",
+                                "media_sources": []
+                            }
+                        ]
+                    }
+                ],
+                "venue_locations": [
+                    {
+                        "uid": "2buppawyud8v",
+                        "name": "1F",
+                        "spaces": [
+                            {
+                                "uid": "8fgmmk6t0hyd",
+                                "name": "105",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "4i4f75xy2qm5",
+                                "name": "107",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    }
+                ],
+                "categories": [
+                    {
+                        "uid": "lal5mgbd1vcf",
+                        "name": "甲子萬年"
+                    },
+                    {
+                        "uid": "864c41m63x7q",
+                        "name": "百年院慶"
+                    }
+                ],
+                "work_binding": [
+                    {
+                        "uid": "unrlx51h5scy",
+                        "name": "紅樓夢圖詠",
+                        "category": {
+                            "uid": "lal5mgbd1vcf",
+                            "name": "甲子萬年"
+                        }
+                    },
+                    {
+                        "uid": "ji9heodooe28",
+                        "name": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂",
+                        "category": {
+                            "uid": "lal5mgbd1vcf",
+                            "name": "甲子萬年"
+                        }
+                    },
+                    {
+                        "uid": "3r4vuoy3hxto",
+                        "name": "明晚期至清 銅夔紋爐、瓶、盒",
+                        "category": {
+                            "uid": "lal5mgbd1vcf",
+                            "name": "甲子萬年"
+                        }
+                    },
+                    {
+                        "uid": "xe75pn1ho6th",
+                        "name": "以宋為韻—汝窯與定窯",
+                        "category": {
+                            "uid": "lal5mgbd1vcf",
+                            "name": "甲子萬年"
+                        }
+                    },
+                    {
+                        "uid": "e2bkzvk26ic2",
+                        "name": "元　霽青單把杯盤",
+                        "category": {
+                            "uid": "864c41m63x7q",
+                            "name": "百年院慶"
+                        }
+                    },
+                    {
+                        "uid": "ozy68rnni7yh",
+                        "name": "元　鈞窯　天藍釉紫斑盂",
+                        "category": {
+                            "uid": "864c41m63x7q",
+                            "name": "百年院慶"
+                        }
+                    }
+                ]
+            },
+            {
+                "uid": "21lsxrf1aznj",
+                "name": "看得見的紅樓夢",
+                "start_date": "2024-05-17T00:00:00.000Z",
+                "end_date": "2027-08-15T23:59:59.000Z",
+                "description": "《紅樓夢》就像一本會自己做夢的魔法故事書，書裡充滿了作者曹雪芹心中最深的回憶。他想起很久很久以前，在盛清時期，有一個又大又華麗的貴族家庭，生活像流水般閃亮、熱鬧又美好。但那些美好的日子最後還是慢慢消失了，所以書裡有時像在嘆氣，有時又像在輕輕地回頭張望，好像在說：「那些過去的日子啊，真讓人忘不了。」\n\n這次展覽以《紅樓夢》為主題，集合了國立故宮博物院、國家圖書館和臺大圖書館的珍貴收藏。我們不只是「讀文字」，而是用「真實的物品」來看故事——像是穿越到書裡的世界，一起看見那個已經消失的美麗時代。",
+                "img_key_vision": {
+                    "id": "pvdzggzydh1y",
+                    "name": "exhibition_kv",
+                    "type": "photo",
+                    "alt_text": "看得見的紅樓夢主視覺圖片",
+                    "info": [
+                        {
+                            "type": "jpeg",
+                            "value": "https://media.artogo.tw/test/npm_package_data/images/21lsxrf1aznj_kv.jpg",
+                            "media_sources": [
+                                {
+                                    "width": 1920,
+                                    "height": 870,
+                                    "format": "jpeg",
+                                    "url": "https://media.artogo.tw/test/npm_package_data/images/21lsxrf1aznj_kv.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "medias": [
+                    {
+                        "id": "a69eca4cb5c4",
+                        "name": "相關影片",
+                        "type": "youtube",
+                        "alt_text": "相關影片",
+                        "info": [
+                            {
+                                "type": "youtube",
+                                "value": "https://youtu.be/MRBEvwbooVU?si=Pc_-fi18t9fflB92",
+                                "media_sources": []
+                            }
+                        ]
+                    }
+                ],
+                "venue_locations": [
+                    {
+                        "uid": "r5rl5xpwb35k",
+                        "name": "2F",
+                        "spaces": [
+                            {
+                                "uid": "06953b4mgzad",
+                                "name": "203",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    }
+                ],
+                "categories": [
+                    {
+                        "uid": "lg5aaacnaht8",
+                        "name": "大雅可觀"
+                    },
+                    {
+                        "uid": "n4yslntpjlcd",
+                        "name": "異物奇貨"
+                    }
+                ],
+                "work_binding": [
+                    {
+                        "uid": "y3qguke0s1i6",
+                        "name": "恭請聖安並請赴京見江寧織造郎中曹寅奏摺",
+                        "category": {
+                            "uid": "lg5aaacnaht8",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "unrlx51h5scy",
+                        "name": "紅樓夢圖詠",
+                        "category": {
+                            "uid": "lg5aaacnaht8",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "ji9heodooe28",
+                        "name": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂",
+                        "category": {
+                            "uid": "lg5aaacnaht8",
+                            "name": "大雅可觀"
+                        }
+                    },
+                    {
+                        "uid": "3r4vuoy3hxto",
+                        "name": "明晚期至清 銅夔紋爐、瓶、盒",
+                        "category": {
+                            "uid": "n4yslntpjlcd",
+                            "name": "異物奇貨"
+                        }
+                    },
+                    {
+                        "uid": "xe75pn1ho6th",
+                        "name": "以宋為韻—汝窯與定窯",
+                        "category": {
+                            "uid": "n4yslntpjlcd",
+                            "name": "異物奇貨"
+                        }
+                    }
+                ]
+            },
+            {
+                "uid": "9sukyibvka40",
+                "name": "華麗魔法屋─故宮的洛可可珍藏",
+                "start_date": "2021-12-24T00:00:00.000Z",
+                "end_date": "2050-12-24T23:59:59.000Z",
+                "description": "在這裡，「裝飾」可不是普通的打扮，而是一種會讓東西活過來的魔法！只要一點點旋轉的線條、一朵花的靈感，或一片像海浪的形狀，原本普通的物品就會變得像在跳舞、在說話。這種魔法叫做「洛可可」（Rococo），它從大自然偷來靈感，把輕快、可愛、又有點奇幻的風格灑在每個角落。當洛可可魔法出現時，生活裡的東西就像被施了咒語，一下子變得夢幻又充滿驚喜！",
+                "img_key_vision": {
+                    "id": "vj6tsb9voqq5",
+                    "name": "exhibition_kv",
+                    "type": "photo",
+                    "alt_text": "華麗魔法屋─故宮的洛可可珍藏主視覺圖片",
+                    "info": [
+                        {
+                            "type": "jpeg",
+                            "value": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg",
+                            "media_sources": [
+                                {
+                                    "width": 1280,
+                                    "height": 720,
+                                    "format": "jpeg",
+                                    "url": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "medias": [
+                    {
+                        "id": "q7dvwg1w9gmr",
+                        "name": "hall_view",
+                        "type": "youtube",
+                        "alt_text": "",
+                        "info": [
+                            {
+                                "type": "youtube",
+                                "value": "https://youtu.be/GuXZ20q4J0I?si=YYFVRy2MkmNobRSN",
+                                "media_sources": []
+                            }
+                        ]
+                    }
+                ],
+                "venue_locations": [
+                    {
+                        "uid": "m4z9jsudiugf",
+                        "name": "3F",
+                        "spaces": [
+                            {
+                                "uid": "y2clxyjxromp",
+                                "name": "300",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "viskg39sf8ko",
+                                "name": "301",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    }
+                ],
+                "categories": [
+                    {
+                        "uid": "d83eoge0l945",
+                        "name": "超級珍寶"
+                    },
+                    {
+                        "uid": "0wc0w438sejb",
+                        "name": "華麗無比"
+                    }
+                ],
+                "work_binding": [
+                    {
+                        "uid": "a54lijv97e5g",
+                        "name": "時鐘｜William Carpenter製｜英國倫敦 1770-1805｜故雜726",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "超級珍寶"
+                        }
+                    },
+                    {
+                        "uid": "czk3olxxvffo",
+                        "name": "瓷糖罐｜賽弗爾瓷器廠｜法國 1783年",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "超級珍寶"
+                        }
+                    },
+                    {
+                        "uid": "pkv3tlgfp5nk",
+                        "name": "鑲金玻璃香水瓶｜英國倫敦 約1760年｜故雜1658",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "超級珍寶"
+                        }
+                    },
+                    {
+                        "uid": "6qid5gpesqjp",
+                        "name": "放大鏡｜英國 約1760-1770年｜故雜103",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "超級珍寶"
+                        }
+                    },
+                    {
+                        "uid": "5xy30hyye6vu",
+                        "name": "鑲金瑪瑙鼻煙盒｜歐洲 18世紀｜故雜1634",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "超級珍寶"
+                        }
+                    },
+                    {
+                        "uid": "8ltp57y7v4gw",
+                        "name": "修妝盒｜歐洲 18世紀｜故琺000902",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "超級珍寶"
+                        }
+                    },
+                    {
+                        "uid": "pzf8t3dn6bsv",
+                        "name": "琺瑯香水瓶｜歐洲 18世紀｜故琺94",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "超級珍寶"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

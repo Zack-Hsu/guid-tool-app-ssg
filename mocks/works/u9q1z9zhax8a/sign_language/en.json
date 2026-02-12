@@ -1,0 +1,128 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "u9q1z9zhax8a",
+        "exhibit_number": "506",
+        "name": "Northern Song — Ding Ware White-Glazed Meiping with Incised Lotus Design",
+        "description": "This meiping vase features a small mouth with a rounded lip, a short neck, high rounded shoulders, and an elongated body that tapers gracefully downward before flaring slightly near the base. The recessed base forms a ring foot. The vessel is decorated with incised motifs. Short, oval lotus petals are arranged in rows around the upper section, while the lower section features slender, elongated petals outlined with double incised lines. At the center of the body, front and back, appear sprays of branching lotus blossoms, accompanied on each side by simple outlines of lotus leaves. The entire vase is covered in an ivory-white glaze that drips lightly in places, forming characteristic tear marks. The footrim is left unglazed.",
+        "order": 6,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1336,
+            "y": -0.1356
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "e0a3b984dd1d",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Northern Song — Ding Ware White-Glazed Meiping with Incised Lotus Design: A tall white porcelain vase with a gently curving silhouette that tapers toward the base. The small flared mouth and short neck lead into rounded shoulders. Fine incised patterns, including leaf and scrolling motifs, cover the surface without protruding. The glaze is soft and creamy white, giving the vase an elegant, elongated form.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 2541,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "f9e6e8b86a02",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Northern Song — Ding Ware White-Glazed Meiping with Incised Lotus Design",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 800,
+                                "height": 534,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "cba350e01943",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/cba350e01943.mp3",
+                        "transcript": "This meiping vase features a small mouth with a rounded lip, a short neck, high rounded shoulders, and an elongated body that tapers gracefully downward before flaring slightly near the base. The recessed base forms a ring foot. The vessel is decorated with incised motifs. Short, oval lotus petals are arranged in rows around the upper section, while the lower section features slender, elongated petals outlined with double incised lines. At the center of the body, front and back, appear sprays of branching lotus blossoms, accompanied on each side by simple outlines of lotus leaves. The entire vase is covered in an ivory-white glaze that drips lightly in places, forming characteristic tear marks. The footrim is left unglazed.",
+                        "caption_url": null,
+                        "duration": 43102
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "8524399f0569",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "af8e61f3ee4c",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/af8e61f3ee4c.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 36702
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "612d1cd52660",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

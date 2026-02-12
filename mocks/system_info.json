@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "status_code": 200,
+  "status_key": "success",
+  "message": "Success with response",
+  "data": {
+    "venues": [
+      {
+        "uid": "13nzxfiyt66b",
+        "alias": "npm",
+        "name": "故宮博物院",
+        "version_code": 100000000,
+        "img_key_vision": {
+          "id": "photo_1",
+          "name": "主視覺",
+          "type": "photo",
+          "value": "https://media.artogo.tw/test/npm_api_data/images/npm.jpeg",
+          "alt_text": "國立故宮博物院建築物外觀",
+          "media_sources": [
+            {
+              "width": 1024,
+              "height": 683,
+              "format": "original",
+              "url": "https://media.artogo.tw/test/npm_api_data/images/npm.jpeg"
+            }
+          ]
+        },
+        "supported_languages": ["zh-TW", "en"],
+        "supported_contents": ["adult", "kids", "sign_language", "audio_description"]
+      }
+    ]
+  },
+  "meta": {
+    "requestId": "a3f5d4b2-7c91-4e9a-98c3-5214d3f0b1d2",
+    "timestamp": 1723372173851
+  }
+}

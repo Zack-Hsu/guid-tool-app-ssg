@@ -1,0 +1,128 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "kkif0v0692c3",
+        "exhibit_number": "503",
+        "name": "Tang Dynasty — Xing Kiln White-Glazed Flask with Strap Loops",
+        "description": "This white-glazed flask imitates the form of water containers made from metal or leather, often used by nomadic peoples. The exterior walls and base are covered in a glossy white glaze, with pooled areas showing a slight bluish tint reminiscent of lake water. The glaze inside the vessel covers less than half, revealing the grayish-white clay body beneath. The vessel features a flared round mouth, short neck, ring foot, and a long cylindrical body with slightly indented sides. Pairs of strap loops are attached to the upper and lower sections, allowing cords to pass through—much like flasks carried on horseback. During the Tang dynasty, objects made from different materials often imitated one another. Another example in the museum’s collection is a white-glazed molded cup with fish motifs, shaped like a four-petaled flower, which derives from the multi-lobed metal drinking cups of the Sasanian tradition.",
+        "order": 3,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.13,
+            "y": -0.0874
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "6b3f7e1fe51a",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Tang Dynasty — Xing Kiln White-Glazed Flask with Strap Loops: A smooth, unpainted white ceramic flask. The body is slightly elongated and cylindrical, narrowing toward the top with gently flaring shoulders. The mouth is wide with a simple outward-curving rim. Small, understated strap loops are attached to the upper and lower sections. The flask has a clean, elegant silhouette with a soft white sheen.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2294,
+                                "height": 3049,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "21c8fa18240b",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Tang Dynasty — Xing Kiln White-Glazed Flask with Strap Loops",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 708,
+                                "height": 472,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "6987d1166728",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/6987d1166728.mp3",
+                        "transcript": "This white-glazed flask imitates the form of water containers made from metal or leather, often used by nomadic peoples. The exterior walls and base are covered in a glossy white glaze, with pooled areas showing a slight bluish tint reminiscent of lake water. The glaze inside the vessel covers less than half, revealing the grayish-white clay body beneath. The vessel features a flared round mouth, short neck, ring foot, and a long cylindrical body with slightly indented sides. Pairs of strap loops are attached to the upper and lower sections, allowing cords to pass through—much like flasks carried on horseback. During the Tang dynasty, objects made from different materials often imitated one another. Another example in the museum’s collection is a white-glazed molded cup with fish motifs, shaped like a four-petaled flower, which derives from the multi-lobed metal drinking cups of the Sasanian tradition.",
+                        "caption_url": null,
+                        "duration": 52010
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "0f51f28990e1",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "9e61eab56dc4",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9e61eab56dc4.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 41091
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "1b8a83d07538",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

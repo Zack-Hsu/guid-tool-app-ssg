@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "3r4vuoy3hxto",
+        "exhibit_number": "614",
+        "name": "明晚期至清 銅夔紋爐、瓶、盒",
+        "description": "中銅1565、1820、1819\n爐高15公分 瓶高13.8公分 盒高7.9公分\n\n《紅樓夢》總是透著一縷幽香。重要儀式場合焚香，日常起居坐臥也焚香。元妃省親，大觀園內鼎焚百合之香；賈府家宴，几上設爐瓶三事，焚御賜百合宮香。爐瓶三事，以香爐、香盒及箸瓶組成。爐以焚香，盒以貯香，瓶以置箸與匙。爐置中，盒、瓶置側，顯見爐為主角。小說中提到的香爐—文王鼎，源自周公祭祀周文王的祭器，明清時期多有模仿，是仿古風雅之器，宜齋室清賞。",
+        "order": 4,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "06953b4mgzad",
+                    "name": "203",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.2101,
+            "y": -0.264
+        },
+        "exhibition_uid": "21lsxrf1aznj",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "23e5509f2bc6",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "明晚期至清 銅夔紋爐、瓶、盒：畫面展示一組擺放在木座上的金屬器物。木座呈弧形，表面雕有細緻的紋飾。上方依序擺放三件器物：左側是一件細頸的器具，頸口插著三根細棒與一片圓形的金屬葉片；器身以金與綠色相間的裝飾構成。中央是一個三足的小型鼎形容器，金色外表並帶有藍綠色的幾何紋帶。右側是一件帶蓋的小圓盒，蓋面中央有一個小握鈕，盒身同樣帶有藍綠色裝飾。整組器物呈現禮器般的對稱陳列。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 740,
+                                "height": 986,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "ebe3b3d62263",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ebe3b3d62263.mp3",
+                        "transcript": "中銅1565、1820、1819\n爐高15公分 瓶高13.8公分 盒高7.9公分\n\n《紅樓夢》總是透著一縷幽香。重要儀式場合焚香，日常起居坐臥也焚香。元妃省親，大觀園內鼎焚百合之香；賈府家宴，几上設爐瓶三事，焚御賜百合宮香。爐瓶三事，以香爐、香盒及箸瓶組成。爐以焚香，盒以貯香，瓶以置箸與匙。爐置中，盒、瓶置側，顯見爐為主角。小說中提到的香爐—文王鼎，源自周公祭祀周文王的祭器，明清時期多有模仿，是仿古風雅之器，宜齋室清賞。",
+                        "caption_url": null,
+                        "duration": 64757
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "17718020bde3",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "9d407ef2c546",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9d407ef2c546.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 55850
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "ea904d2cb846",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "6qid5gpesqjp",
+        "exhibit_number": "719",
+        "name": "Folding Magnifier | England, ca. 1760–1770",
+        "description": "This European-made folding magnifier features a pair of circular lenses that open outward from both sides. The handle is framed with gilt metal carved in flowing floral scrolls, while the central panel is set with polished agate, giving the piece both color and weight. The pierced gold ornamentation reflects the dynamic, symmetrical rhythms of the Baroque style, making this small optical tool as decorative as it is functional.\n\nSuch handheld magnifiers were often carried as fashionable accessories in the eighteenth century—objects that blended refinement, curiosity, and the pleasure of close looking.",
+        "order": 4,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "y2clxyjxromp",
+                    "name": "300",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.0026,
+            "y": 0.0679
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "33d6eb6882fc",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "A slender decorative magnifier with a circular frame at the top and a teardrop-shaped handle below. The handle is filled with a deep blue panel beneath an intricate gilt openwork design of leaves and scrolls. The overall form is elegant, elongated, and richly adorned.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 450,
+                                "height": 600,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "fc6352b0b68a",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/fc6352b0b68a.mp3",
+                        "transcript": "This European-made folding magnifier features a pair of circular lenses that open outward from both sides. The handle is framed with gilt metal carved in flowing floral scrolls, while the central panel is set with polished agate, giving the piece both color and weight. The pierced gold ornamentation reflects the dynamic, symmetrical rhythms of the Baroque style, making this small optical tool as decorative as it is functional.\n\nSuch handheld magnifiers were often carried as fashionable accessories in the eighteenth century—objects that blended refinement, curiosity, and the pleasure of close looking.",
+                        "caption_url": null,
+                        "duration": 25287
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "46037cc5675d",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "42cfb3360963",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/42cfb3360963.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 33567
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "bd95fcbdb64d",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

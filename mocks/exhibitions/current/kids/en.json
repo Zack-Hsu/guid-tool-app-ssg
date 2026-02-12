@@ -1,0 +1,554 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "exhibitions": [
+            {
+                "uid": "cdoirk5wxrn9",
+                "name": "Shaping Clay into Wonders — Highlights from the Museum's Ceramic Collection",
+                "start_date": "2025-01-01T00:00:00.000Z",
+                "end_date": "2025-12-31T23:59:59.000Z",
+                "description": "Ceramics are like magical treasures from long, long ago. Imagine starting with soft, squishy clay made from rocks. Then people roll it, shape it on a spinning wheel, paint it with bright colors, add pretty patterns, and finally put it into a super-hot magical oven called a kiln. When it comes out, the soft clay has transformed into a shiny, hard ceramic—just like a caterpillar turning into a butterfly!",
+                "img_key_vision": {
+                    "id": "3eojte26ta53",
+                    "name": "exhibition_kv",
+                    "type": "photo",
+                    "alt_text": "Key visual image of the exhibition 'Shaping Clay into Wonders — Highlights from the Museum's Ceramic Collection'",
+                    "info": [
+                        {
+                            "type": "jpeg",
+                            "value": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg",
+                            "media_sources": [
+                                {
+                                    "width": 1920,
+                                    "height": 870,
+                                    "format": "jpeg",
+                                    "url": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "medias": [
+                    {
+                        "id": "e4f4dbfefbee",
+                        "name": "Related Video",
+                        "type": "youtube",
+                        "alt_text": "Related video",
+                        "info": [
+                            {
+                                "type": "youtube",
+                                "value": "https://youtu.be/g3LaH_v1PRw?si=ohyXejJNvafZAL_y",
+                                "media_sources": []
+                            }
+                        ]
+                    }
+                ],
+                "venue_locations": [
+                    {
+                        "uid": "r5rl5xpwb35k",
+                        "name": "2F",
+                        "spaces": [
+                            {
+                                "uid": "um1n8c94iy53",
+                                "name": "201",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "ilajxhwztl86",
+                                "name": "205",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "2x5uxgoagswe",
+                                "name": "207",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "2buppawyud8v",
+                        "name": "1F",
+                        "spaces": [
+                            {
+                                "uid": "8fgmmk6t0hyd",
+                                "name": "105",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "4i4f75xy2qm5",
+                                "name": "107",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    }
+                ],
+                "categories": [
+                    {
+                        "uid": "4q1maofs61mp",
+                        "name": "Shaping Clay into Wonders"
+                    },
+                    {
+                        "uid": "spw8cb6azox0",
+                        "name": "Ceramic Highlights"
+                    }
+                ],
+                "work_binding": [
+                    {
+                        "uid": "vsv5r2kehmn0",
+                        "name": "Tang Dynasty — Tri-colored Polo Lady Figurine",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "zvxc0dzh2z8s",
+                        "name": "Tang Dynasty — Painted Grey Pottery Lady Figurine",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "kkif0v0692c3",
+                        "name": "Tang Dynasty — Xing Kiln White Glazed Belt-Handled Ewer",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "u1aa0k42shqh",
+                        "name": "Five Dynasties — Yue Kiln Secret-Color Celadon Basin",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "keduinnnj85j",
+                        "name": "Northern Song — Ding Ware White Porcelain Baby Pillow",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "u9q1z9zhax8a",
+                        "name": "Northern Song — Ding Ware White Porcelain Meiping Vase with Lotus Decoration",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "2wyugdl3h5ij",
+                        "name": "Southern Song — Guan Ware Celadon Ribbed Vessel",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "112o46mlffpc",
+                        "name": "Southern Song — Guan Ware Celadon Hu-shaped Vase with Handles",
+                        "category": {
+                            "uid": "4q1maofs61mp",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "1ozevenhi0ma",
+                        "name": "Song Dynasty — Jian Ware Black Glazed Tea Bowl with Hare’s Fur Pattern",
+                        "category": {
+                            "uid": "spw8cb6azox0",
+                            "name": "Exotic and Remarkable"
+                        }
+                    },
+                    {
+                        "uid": "2o6awyzgkatu",
+                        "name": "Southern Song — Longquan Celadon Vase with Phoenix-shaped Handles",
+                        "category": {
+                            "uid": "spw8cb6azox0",
+                            "name": "Exotic and Remarkable"
+                        }
+                    },
+                    {
+                        "uid": "e2bkzvk26ic2",
+                        "name": "Yuan Dynasty — Blue-and-White Cup and Saucer",
+                        "category": {
+                            "uid": "spw8cb6azox0",
+                            "name": "Exotic and Remarkable"
+                        }
+                    },
+                    {
+                        "uid": "ozy68rnni7yh",
+                        "name": "Yuan Dynasty — Jun Ware Sky-Blue Glazed Bowl with Purple Splashes",
+                        "category": {
+                            "uid": "spw8cb6azox0",
+                            "name": "Exotic and Remarkable"
+                        }
+                    }
+                ]
+            },
+            {
+                "uid": "pngs3217o4ei",
+                "name": "Sixty Cycles, Endless Legacy: Centennial Special Exhibition of the National Palace Museum",
+                "start_date": "2026-10-04T00:00:00.000Z",
+                "end_date": "2027-01-04T23:59:59.000Z",
+                "description": "The National Palace Museum is not just a place that keeps old treasures—it is like a giant memory box filled with stories from many different times. The year 2025 is extra special for the museum because it celebrates several big birthdays all at once! It has been 100 years since the museum changed from an imperial collection to a place everyone can visit. It has also been 75 years since the treasures traveled to Taiwan to be safely kept in the Beigou storage. In addition, the museum has been officially known as the “National Palace Museum” in Taiwan for 60 years. And even the Southern Branch is celebrating—it’s turning 10 years old since it opened in 2015!",
+                "img_key_vision": {
+                    "id": "mta2v4wllsw8",
+                    "name": "exhibition_kv",
+                    "type": "photo",
+                    "alt_text": "Key visual image of the exhibition 'Sixty Cycles, Endless Legacy: Centennial Special Exhibition of the National Palace Museum'",
+                    "info": [
+                        {
+                            "type": "jpeg",
+                            "value": "https://media.artogo.tw/test/npm_package_data/images/pngs3217o4ei_kv.jpg",
+                            "media_sources": [
+                                {
+                                    "width": 4000,
+                                    "height": 1812,
+                                    "format": "jpeg",
+                                    "url": "https://media.artogo.tw/test/npm_package_data/images/pngs3217o4ei_kv.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "medias": [
+                    {
+                        "id": "9d2f12a8f23a",
+                        "name": "Related Video",
+                        "type": "youtube",
+                        "alt_text": "Related video",
+                        "info": [
+                            {
+                                "type": "youtube",
+                                "value": "https://youtu.be/FKk1hbxylLU?si=yjLOky4JdoLWi5iv",
+                                "media_sources": []
+                            }
+                        ]
+                    }
+                ],
+                "venue_locations": [
+                    {
+                        "uid": "2buppawyud8v",
+                        "name": "1F",
+                        "spaces": [
+                            {
+                                "uid": "8fgmmk6t0hyd",
+                                "name": "105",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "4i4f75xy2qm5",
+                                "name": "107",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    }
+                ],
+                "categories": [
+                    {
+                        "uid": "lal5mgbd1vcf",
+                        "name": "Sixty Cycles, Endless Legacy"
+                    },
+                    {
+                        "uid": "864c41m63x7q",
+                        "name": "Centennial Celebration"
+                    }
+                ],
+                "work_binding": [
+                    {
+                        "uid": "unrlx51h5scy",
+                        "name": "Illustrated Scenes from Dream of the Red Chamber",
+                        "category": {
+                            "uid": "lal5mgbd1vcf",
+                            "name": "Sixty Cycles, Endless Legacy"
+                        }
+                    },
+                    {
+                        "uid": "ji9heodooe28",
+                        "name": "Qing Dynasty, Qianlong Reign — Gold and East Pearl Adorned Court Lady’s Headdress Finial with Cat’s-Eye Stone",
+                        "category": {
+                            "uid": "lal5mgbd1vcf",
+                            "name": "Sixty Cycles, Endless Legacy"
+                        }
+                    },
+                    {
+                        "uid": "3r4vuoy3hxto",
+                        "name": "Late Ming to Qing — Bronze Censer, Vase, and Box with Kui Dragon Motifs",
+                        "category": {
+                            "uid": "lal5mgbd1vcf",
+                            "name": "Sixty Cycles, Endless Legacy"
+                        }
+                    },
+                    {
+                        "uid": "xe75pn1ho6th",
+                        "name": "Echoes of the Song Dynasty — Ru Ware and Ding Ware",
+                        "category": {
+                            "uid": "lal5mgbd1vcf",
+                            "name": "Sixty Cycles, Endless Legacy"
+                        }
+                    },
+                    {
+                        "uid": "e2bkzvk26ic2",
+                        "name": "Yuan Dynasty — Blue-and-White Cup and Saucer",
+                        "category": {
+                            "uid": "864c41m63x7q",
+                            "name": "Centennial Celebration"
+                        }
+                    },
+                    {
+                        "uid": "ozy68rnni7yh",
+                        "name": "Yuan Dynasty — Jun Ware Sky-Blue Glazed Bowl with Purple Splashes",
+                        "category": {
+                            "uid": "864c41m63x7q",
+                            "name": "Centennial Celebration"
+                        }
+                    }
+                ]
+            },
+            {
+                "uid": "21lsxrf1aznj",
+                "name": "The Visible Dream of the Red Chamber",
+                "start_date": "2024-05-17T00:00:00.000Z",
+                "end_date": "2027-08-15T23:59:59.000Z",
+                "description": "Dream of the Red Chamber is like a memory-filled storybook that looks back on a once-shining noble family during the High Qing period. The author, Cao Xueqin, filled the book with his feelings—his longing for the happy days that had passed, his fascination with old memories, and his sadness as he watched a great family slowly fade away.",
+                "img_key_vision": {
+                    "id": "pvdzggzydh1y",
+                    "name": "exhibition_kv",
+                    "type": "photo",
+                    "alt_text": "Key visual image of the exhibition 'The Visible Dream of the Red Chamber'",
+                    "info": [
+                        {
+                            "type": "jpeg",
+                            "value": "https://media.artogo.tw/test/npm_package_data/images/21lsxrf1aznj_kv.jpg",
+                            "media_sources": [
+                                {
+                                    "width": 1920,
+                                    "height": 870,
+                                    "format": "jpeg",
+                                    "url": "https://media.artogo.tw/test/npm_package_data/images/21lsxrf1aznj_kv.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "medias": [
+                    {
+                        "id": "a69eca4cb5c4",
+                        "name": "Related Video",
+                        "type": "youtube",
+                        "alt_text": "Related video",
+                        "info": [
+                            {
+                                "type": "youtube",
+                                "value": "https://youtu.be/MRBEvwbooVU?si=Pc_-fi18t9fflB92",
+                                "media_sources": []
+                            }
+                        ]
+                    }
+                ],
+                "venue_locations": [
+                    {
+                        "uid": "r5rl5xpwb35k",
+                        "name": "2F",
+                        "spaces": [
+                            {
+                                "uid": "06953b4mgzad",
+                                "name": "203",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    }
+                ],
+                "categories": [
+                    {
+                        "uid": "lg5aaacnaht8",
+                        "name": "Elegant and Admirable"
+                    },
+                    {
+                        "uid": "n4yslntpjlcd",
+                        "name": "Exotic and Remarkable"
+                    }
+                ],
+                "work_binding": [
+                    {
+                        "uid": "y3qguke0s1i6",
+                        "name": "Memorial Submitted to Request Blessings for Safety and to Summon Cao Yin, Jiangning Weaving Commissioner, to the Capital",
+                        "category": {
+                            "uid": "lg5aaacnaht8",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "unrlx51h5scy",
+                        "name": "Illustrated Scenes from Dream of the Red Chamber",
+                        "category": {
+                            "uid": "lg5aaacnaht8",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "ji9heodooe28",
+                        "name": "Qing Dynasty, Qianlong Reign — Gold and East Pearl Adorned Court Lady’s Headdress Finial with Cat’s-Eye Stone",
+                        "category": {
+                            "uid": "lg5aaacnaht8",
+                            "name": "Elegant and Admirable"
+                        }
+                    },
+                    {
+                        "uid": "3r4vuoy3hxto",
+                        "name": "Late Ming to Qing — Bronze Censer, Vase, and Box with Kui Dragon Motifs",
+                        "category": {
+                            "uid": "n4yslntpjlcd",
+                            "name": "Exotic and Remarkable"
+                        }
+                    },
+                    {
+                        "uid": "xe75pn1ho6th",
+                        "name": "Echoes of the Song Dynasty — Ru Ware and Ding Ware",
+                        "category": {
+                            "uid": "n4yslntpjlcd",
+                            "name": "Exotic and Remarkable"
+                        }
+                    }
+                ]
+            },
+            {
+                "uid": "9sukyibvka40",
+                "name": "The Enchanted House of Elegance — Rococo Treasures from the National Palace Museum",
+                "start_date": "2021-12-24T00:00:00.000Z",
+                "end_date": "2050-12-24T23:59:59.000Z",
+                "description": "Rococo is light, fun, and full of imagination. It once changed the way people decorated their homes, and its magic still inspires designs today. With just a few swirls and sparkles, everyday objects are transformed into something dreamy and delightful, as if a fairy had waved her wand across the room.",
+                "img_key_vision": {
+                    "id": "vj6tsb9voqq5",
+                    "name": "exhibition_kv",
+                    "type": "photo",
+                    "alt_text": "Key visual for the exhibition 'The Enchanted House of Elegance — Rococo Treasures from the National Palace Museum'",
+                    "info": [
+                        {
+                            "type": "jpeg",
+                            "value": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg",
+                            "media_sources": [
+                                {
+                                    "width": 1280,
+                                    "height": 720,
+                                    "format": "jpeg",
+                                    "url": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "medias": [
+                    {
+                        "id": "q7dvwg1w9gmr",
+                        "name": "hall_view",
+                        "type": "youtube",
+                        "alt_text": "",
+                        "info": [
+                            {
+                                "type": "youtube",
+                                "value": "https://youtu.be/GuXZ20q4J0I?si=YYFVRy2MkmNobRSN",
+                                "media_sources": []
+                            }
+                        ]
+                    }
+                ],
+                "venue_locations": [
+                    {
+                        "uid": "m4z9jsudiugf",
+                        "name": "3F",
+                        "spaces": [
+                            {
+                                "uid": "y2clxyjxromp",
+                                "name": "300",
+                                "area_color": "#FFDD55"
+                            },
+                            {
+                                "uid": "viskg39sf8ko",
+                                "name": "301",
+                                "area_color": "#FFDD55"
+                            }
+                        ]
+                    }
+                ],
+                "categories": [
+                    {
+                        "uid": "d83eoge0l945",
+                        "name": "Extraordinary Treasures"
+                    },
+                    {
+                        "uid": "0wc0w438sejb",
+                        "name": "Magnificent Splendor"
+                    }
+                ],
+                "work_binding": [
+                    {
+                        "uid": "a54lijv97e5g",
+                        "name": "Clock | Made by William Carpenter | London, England, 1770–1805 | NPM Misc. 726",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "Extraordinary Treasures"
+                        }
+                    },
+                    {
+                        "uid": "czk3olxxvffo",
+                        "name": "Porcelain Sugar Bowl | Sèvres Porcelain Manufactory | France, 1783",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "Extraordinary Treasures"
+                        }
+                    },
+                    {
+                        "uid": "pkv3tlgfp5nk",
+                        "name": "Gilt-Mounted Glass Perfume Bottle | London, England, ca. 1760 | NPM Misc. 1658",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "Extraordinary Treasures"
+                        }
+                    },
+                    {
+                        "uid": "6qid5gpesqjp",
+                        "name": "Magnifying Glass | England, ca. 1760–1770 | NPM Misc. 103",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "Extraordinary Treasures"
+                        }
+                    },
+                    {
+                        "uid": "5xy30hyye6vu",
+                        "name": "Gilt-Mounted Agate Snuffbox | Europe, 18th century | NPM Misc. 1634",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "Extraordinary Treasures"
+                        }
+                    },
+                    {
+                        "uid": "8ltp57y7v4gw",
+                        "name": "Toilet Case | Europe, 18th century | NPM Enamel 000902",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "Extraordinary Treasures"
+                        }
+                    },
+                    {
+                        "uid": "pzf8t3dn6bsv",
+                        "name": "Enamel Perfume Bottle | Europe, 18th century | NPM Enamel 94",
+                        "category": {
+                            "uid": "d83eoge0l945",
+                            "name": "Extraordinary Treasures"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "112o46mlffpc",
+        "exhibit_number": "508",
+        "name": "南宋　官窯　青瓷貫耳壺",
+        "description": "壺，圓口微撇，短頸，兩貫耳，碩腹，平底，矮圈足。頸飾凸弦紋二道。胎骨厚重，全器施青釉，釉色濃潤。釉面滿佈淺褐色紋片，略有砂眼。圈足端露胎，塗赭色汁。",
+        "order": 8,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1259,
+            "y": -0.1345
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": true,
+        "medias": [
+            {
+                "id": "df9c2570906e",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "南宋　官窯　青瓷貫耳壺：這是一件淡青色釉面的陶瓷瓶，瓶身略呈球形，上方接出較窄的頸部與外張的口沿。器表覆蓋細密的開片紋。瓶身兩側各附有一個短而外突的管狀把手，位置對稱。底部略微外擴，形成穩固的圓形底座。整體造型對稱、簡潔。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 300,
+                                "height": 400,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "12c6076e4899",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/12c6076e4899.mp3",
+                        "transcript": "壺，圓口微撇，短頸，兩貫耳，碩腹，平底，矮圈足。頸飾凸弦紋二道。胎骨厚重，全器施青釉，釉色濃潤。釉面滿佈淺褐色紋片，略有砂眼。圈足端露胎，塗赭色汁。",
+                        "caption_url": null,
+                        "duration": 27768
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "868d111231b9",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "722baa57f21a",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/722baa57f21a.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 34926
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "890b036a865f",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "u1aa0k42shqh",
+        "exhibit_number": "504",
+        "name": "Five Dynasties — Yue Ware Secret-Color Celadon Basin",
+        "description": "This celadon basin features an outward-flaring rim with a folded edge, a slanted curved wall, deep rounded belly, and a flat base. The center of the underside is slightly concave, and firing marks remain clearly visible along the footring, where the unglazed areas reveal the gray clay body. The piece is covered in a translucent celadon glaze of grayish-green tone. The glaze is thin and evenly applied, with a few pale speckled patches on the outer wall. Before archaeological discoveries in the early Republic of China period clarified kiln attributions, experts from the Qing Court Aftercare Committee mistakenly identified this piece as a Ru ware product and inscribed inside the basin: “One Ru ware flared-rim fruit wash.” This inscription reflects how historical and modern approaches to ceramic connoisseurship may differ. The museum’s Yue ware ‘secret-color’ celadon basin is finely glazed, elegant in form, and closely resembles celadon basins unearthed from Five Dynasties tombs, suggesting it may have been used by members of the upper class during that period.",
+        "order": 4,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1319,
+            "y": -0.0709
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "c09ee3e38337",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Five Dynasties — Yue Ware Secret-Color Celadon Basin: A shallow ceramic basin with a wide circular opening. The rim flares gently outward with smooth edges. Covered in a soft greenish celadon glaze, the surface is even with subtle natural speckling. The body tapers downward toward a smaller flat base, giving the vessel a simple and composed appearance.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/u1aa0k42shqh_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1501,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/u1aa0k42shqh_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "60bf6b265fb8",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/60bf6b265fb8.mp3",
+                        "transcript": "This celadon basin features an outward-flaring rim with a folded edge, a slanted curved wall, deep rounded belly, and a flat base. The center of the underside is slightly concave, and firing marks remain clearly visible along the footring, where the unglazed areas reveal the gray clay body. The piece is covered in a translucent celadon glaze of grayish-green tone. The glaze is thin and evenly applied, with a few pale speckled patches on the outer wall. Before archaeological discoveries in the early Republic of China period clarified kiln attributions, experts from the Qing Court Aftercare Committee mistakenly identified this piece as a Ru ware product and inscribed inside the basin: “One Ru ware flared-rim fruit wash.” This inscription reflects how historical and modern approaches to ceramic connoisseurship may differ. The museum’s Yue ware ‘secret-color’ celadon basin is finely glazed, elegant in form, and closely resembles celadon basins unearthed from Five Dynasties tombs, suggesting it may have been used by members of the upper class during that period.",
+                        "caption_url": null,
+                        "duration": 69329
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "eaa72f1786a0",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "0c1d46bdd9ec",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/0c1d46bdd9ec.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 37799
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "27cf769f6266",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

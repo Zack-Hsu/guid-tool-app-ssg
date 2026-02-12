@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "e2bkzvk26ic2",
+        "exhibit_number": "511",
+        "name": "元　霽青單把杯",
+        "description": "此杯呈漏斗狀，口沿鑲金屬釦。斜腹，一側帶環扣把。底部內挖成臥足，無釉，滿塗黃褐色護胎汁。除器底外通體施鈷藍釉，釉面隱約可見已脫落的金彩或銀箔裝飾紋樣。杯內口沿下有一圈菱形方格圖案，底心為十二星芒團花，外壁環繞一折枝梅。",
+        "order": 11,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "ilajxhwztl86",
+                    "name": "205",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.3779,
+            "y": 0.3638
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "61e9e2384d96",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "元　霽青單把杯：這是一只深藍色釉面的淺碗，外形呈倒截圓錐形，上寬下窄。碗口略微外張，邊緣帶有金屬色的細邊裝飾。碗身一側附有一個小把手，把手呈短而扁的矩形開口造型。整體色調濃郁，表面光滑。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "3942337718ea",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/3942337718ea.mp3",
+                        "transcript": "此杯呈漏斗狀，口沿鑲金屬釦。斜腹，一側帶環扣把。底部內挖成臥足，無釉，滿塗黃褐色護胎汁。除器底外通體施鈷藍釉，釉面隱約可見已脫落的金彩或銀箔裝飾紋樣。杯內口沿下有一圈菱形方格圖案，底心為十二星芒團花，外壁環繞一折枝梅。",
+                        "caption_url": null,
+                        "duration": 34926
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "77ab090a6a87",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "33e7c462eb5e",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/33e7c462eb5e.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 28291
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "c0b8827d5958",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

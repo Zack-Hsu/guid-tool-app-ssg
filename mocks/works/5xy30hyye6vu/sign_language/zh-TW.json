@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "5xy30hyye6vu",
+        "exhibit_number": "720",
+        "name": "鑲金瑪瑙鼻煙盒｜歐洲 18世紀｜故雜1634",
+        "description": "有上下掀蓋之方盒，上蓋掀開為儲放鼻煙之處，蓋及盒身以雕金渦捲式花葉紋為裝飾框，內嵌草蕨瑪瑙，上蓋開闔處有銀嵌鑲鑽石、紅寶、祖母綠之花葉。底蓋嵌亦有雕花框，嵌石兩片，內有秘戲圖。與院藏另一件James Cox的鑲錶金鼻煙盒相似，為十八世紀後半英國製品。",
+        "order": 5,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "viskg39sf8ko",
+                    "name": "301",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1315,
+            "y": -0.0742
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "44b9dee9fdf3",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "鑲金瑪瑙鼻煙盒：這是一個小型金屬盒，外形呈長方體。整個盒身覆蓋華麗的金色框飾，框內嵌入多塊色調柔和、帶雲紋或人物剪影的半透明材質，排列成整齊的圖框。盒蓋與四側皆有同樣的嵌飾設計。盒前方中央還鑲有一排小型寶石，增添亮點。整體造型精巧，裝飾繁複而對稱。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 600,
+                                "height": 450,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "7a348d7c4a36",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7a348d7c4a36.mp3",
+                        "transcript": "有上下掀蓋之方盒，上蓋掀開為儲放鼻煙之處，蓋及盒身以雕金渦捲式花葉紋為裝飾框，內嵌草蕨瑪瑙，上蓋開闔處有銀嵌鑲鑽石、紅寶、祖母綠之花葉。底蓋嵌亦有雕花框，嵌石兩片，內有秘戲圖。與院藏另一件James Cox的鑲錶金鼻煙盒相似，為十八世紀後半英國製品。",
+                        "caption_url": null,
+                        "duration": 36572
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "283c32bee592",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "b4d4d79776c4",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/b4d4d79776c4.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 36650
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "c53241ef3411",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

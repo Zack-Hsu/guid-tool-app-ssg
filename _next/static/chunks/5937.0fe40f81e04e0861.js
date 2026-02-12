@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5937],{35937:(a,e,s)=>{s.r(e),s.d(e,{SafeAreaWeb:()=>t});var l=s(40696);class t extends l.E_{async setSystemBarsStyle(){this.unavailable("not available for web")}async showSystemBars(){this.unavailable("not available for web")}async hideSystemBars(){this.unavailable("not available for web")}}}}]);

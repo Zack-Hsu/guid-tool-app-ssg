@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "112o46mlffpc",
+        "exhibit_number": "508",
+        "name": "Southern Song — Guan Ware Celadon Vase with Tube Handles",
+        "description": "This vase features a slightly flared round mouth, a short neck, and a pair of tubular handles attached symmetrically to the shoulders. The body is full and rounded, tapering to a flat base supported by a low ring foot. Two raised string lines encircle the neck. The clay body is thick and substantial, and the entire vessel is coated in a rich celadon glaze. The surface is covered with fine crackle lines in pale brown tones, with occasional tiny pinholes. The edge of the ring foot reveals the unglazed clay body, brushed with an iron-brown slip.",
+        "order": 8,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1259,
+            "y": -0.1345
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": true,
+        "medias": [
+            {
+                "id": "df9c2570906e",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Southern Song — Guan Ware Celadon Vase with Tube Handles: A pale celadon-glazed vase with a rounded body, narrow neck, and flared rim. The surface is covered in fine crackle patterns. Two short tubular handles extend symmetrically from the shoulders. The foot flares gently outward to form a stable circular base. The overall shape is harmonious and understated.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 300,
+                                "height": 400,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "12c6076e4899",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/12c6076e4899.mp3",
+                        "transcript": "This vase features a slightly flared round mouth, a short neck, and a pair of tubular handles attached symmetrically to the shoulders. The body is full and rounded, tapering to a flat base supported by a low ring foot. Two raised string lines encircle the neck. The clay body is thick and substantial, and the entire vessel is coated in a rich celadon glaze. The surface is covered with fine crackle lines in pale brown tones, with occasional tiny pinholes. The edge of the ring foot reveals the unglazed clay body, brushed with an iron-brown slip.",
+                        "caption_url": null,
+                        "duration": 27768
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "868d111231b9",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "722baa57f21a",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/722baa57f21a.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 34926
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "890b036a865f",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

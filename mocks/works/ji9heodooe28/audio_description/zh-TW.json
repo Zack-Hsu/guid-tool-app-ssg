@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "ji9heodooe28",
+        "exhibit_number": "613",
+        "name": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂",
+        "description": "故雜4837\n長16公分 座徑4.8公分\n\n元妃，本名賈元春，是賈寶玉的長姊。十三、四歲時入宮，後晉封為貴妃，使賈府的榮耀達到鼎盛；省親，宮裡嬪妃獲准返家，探望父母或其他尊親，以盡孝道。賈府為了迎接元妃歸來，特別修建了省親別院—大觀園。大觀園，是元妃失去青春、與家人短暫相聚的樂園，也是賈寶玉與眾金釵們，在其權力的庇護下，彷彿遺世獨立的青春樂園，也是曹雪芹緬懷過去，繁華已逝的失樂園。",
+        "order": 3,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "06953b4mgzad",
+                    "name": "203",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1651,
+            "y": -0.199
+        },
+        "exhibition_uid": "21lsxrf1aznj",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "4043c7406cd7",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂：這是一件以金質為主的立體飾件，自底座向上呈層層堆疊的構造。底部為半球形的金色基座，表面密布細緻的花紋。其上伸出多層細工打造的鳥形與枝葉造型，金片以鏤空與捲曲方式組成，層次複雜。作品上點綴多顆圓形白色珍珠，排列於各層之間。最頂端是一顆橢圓形的光滑寶石，色澤偏棕黃。整體造型輕盈繁複，向上呈開展姿態。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 740,
+                                "height": 986,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "7bc0c3f38dac",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7bc0c3f38dac.mp3",
+                        "transcript": "故雜4837\n長16公分 座徑4.8公分\n\n元妃，本名賈元春，是賈寶玉的長姊。十三、四歲時入宮，後晉封為貴妃，使賈府的榮耀達到鼎盛；省親，宮裡嬪妃獲准返家，探望父母或其他尊親，以盡孝道。賈府為了迎接元妃歸來，特別修建了省親別院—大觀園。大觀園，是元妃失去青春、與家人短暫相聚的樂園，也是賈寶玉與眾金釵們，在其權力的庇護下，彷彿遺世獨立的青春樂園，也是曹雪芹緬懷過去，繁華已逝的失樂園。",
+                        "caption_url": null,
+                        "duration": 60500
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "06e983c12619",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "84d5766879b6",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/84d5766879b6.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 48640
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "3208d4039051",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,850 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "9sukyibvka40",
+        "name": "華麗魔法屋─故宮的洛可可珍藏",
+        "start_date": "2021-12-24T00:00:00.000Z",
+        "end_date": "2050-12-24T23:59:59.000Z",
+        "description": "在這裡，「裝飾」可不是普通的打扮，而是一種會讓東西活過來的魔法！只要一點點旋轉的線條、一朵花的靈感，或一片像海浪的形狀，原本普通的物品就會變得像在跳舞、在說話。這種魔法叫做「洛可可」（Rococo），它從大自然偷來靈感，把輕快、可愛、又有點奇幻的風格灑在每個角落。當洛可可魔法出現時，生活裡的東西就像被施了咒語，一下子變得夢幻又充滿驚喜！",
+        "img_key_vision": {
+            "id": "vj6tsb9voqq5",
+            "name": "exhibition_kv",
+            "type": "photo",
+            "alt_text": "華麗魔法屋─故宮的洛可可珍藏主視覺圖片",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg",
+                    "media_sources": [
+                        {
+                            "width": 1280,
+                            "height": 720,
+                            "format": "jpeg",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "medias": [
+            {
+                "id": "q7dvwg1w9gmr",
+                "name": "hall_view",
+                "type": "youtube",
+                "alt_text": "",
+                "info": [
+                    {
+                        "type": "youtube",
+                        "value": "https://youtu.be/GuXZ20q4J0I?si=YYFVRy2MkmNobRSN",
+                        "media_sources": []
+                    }
+                ]
+            }
+        ],
+        "venue_locations": [
+            {
+                "uid": "m4z9jsudiugf",
+                "name": "3F",
+                "spaces": [
+                    {
+                        "uid": "y2clxyjxromp",
+                        "name": "300",
+                        "area_color": "#FFDD55"
+                    },
+                    {
+                        "uid": "viskg39sf8ko",
+                        "name": "301",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            }
+        ],
+        "categories": [
+            {
+                "uid": "d83eoge0l945",
+                "name": "超級珍寶"
+            },
+            {
+                "uid": "0wc0w438sejb",
+                "name": "華麗無比"
+            }
+        ],
+        "work_binding": [
+            {
+                "uid": "a54lijv97e5g",
+                "name": "時鐘｜William Carpenter製｜英國倫敦 1770-1805｜故雜726",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "超級珍寶"
+                }
+            },
+            {
+                "uid": "czk3olxxvffo",
+                "name": "瓷糖罐｜賽弗爾瓷器廠｜法國 1783年",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "超級珍寶"
+                }
+            },
+            {
+                "uid": "pkv3tlgfp5nk",
+                "name": "鑲金玻璃香水瓶｜英國倫敦 約1760年｜故雜1658",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "超級珍寶"
+                }
+            },
+            {
+                "uid": "6qid5gpesqjp",
+                "name": "放大鏡｜英國 約1760-1770年｜故雜103",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "超級珍寶"
+                }
+            },
+            {
+                "uid": "5xy30hyye6vu",
+                "name": "鑲金瑪瑙鼻煙盒｜歐洲 18世紀｜故雜1634",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "超級珍寶"
+                }
+            },
+            {
+                "uid": "8ltp57y7v4gw",
+                "name": "修妝盒｜歐洲 18世紀｜故琺000902",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "超級珍寶"
+                }
+            },
+            {
+                "uid": "pzf8t3dn6bsv",
+                "name": "琺瑯香水瓶｜歐洲 18世紀｜故琺94",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "超級珍寶"
+                }
+            }
+        ],
+        "works": [
+            {
+                "uid": "a54lijv97e5g",
+                "exhibit_number": "716",
+                "name": "時鐘｜William Carpenter製｜英國倫敦 1770-1805｜故雜726",
+                "description": "圓形錶面，以羅馬數字標示時，阿拉伯數字標示分、秒，錶面周圍裝飾太陽形光芒，上有橢圓形玻璃罩，橢圓形錶體，周圍裝飾一圈花瓣紋，上方裝飾劍筒、火炬及彩帶，下方以莨苕葉紋為托，下接獸足，後方有一發條旋鈕，置於二層臺座上，上層為雙層座面，下接四鷹鳥座足，下層為花葉紋裝飾。背有文字「Willm Carpenter London」及速度調整刻度：「FASTER」、「1~9」、「SLOWER」，附鑰匙二把。",
+                "order": 1,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0567,
+                    "y": 0.0398
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "2aab5cb38027",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "時鐘：這是一座以金色為主的裝飾時計。鐘面位於中央的橢圓形框內，白色錶盤上有羅馬數字刻度，外圍環繞放射狀的金色光芒圖案。橢圓框的頂部飾有精緻的蝴蝶結與花葉雕飾。整座時鐘由華麗繁複的金屬支架托起，下方底座呈不規則的卷草與曲線構成。整體風格華麗細緻，具有強烈的裝飾性。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 1028,
+                                        "height": 1371,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7712f22491dd",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7712f22491dd.mp3",
+                                "transcript": "圓形錶面，以羅馬數字標示時，阿拉伯數字標示分、秒，錶面周圍裝飾太陽形光芒，上有橢圓形玻璃罩，橢圓形錶體，周圍裝飾一圈花瓣紋，上方裝飾劍筒、火炬及彩帶，下方以莨苕葉紋為托，下接獸足，後方有一發條旋鈕，置於二層臺座上，上層為雙層座面，下接四鷹鳥座足，下層為花葉紋裝飾。背有文字「Willm Carpenter London」及速度調整刻度：「FASTER」、「1~9」、「SLOWER」，附鑰匙二把。",
+                                "caption_url": null,
+                                "duration": 53212
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "c23079d9217f",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "d819db635fc2",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/d819db635fc2.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 40124
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "db1280f81153",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "czk3olxxvffo",
+                "exhibit_number": "717",
+                "name": "瓷糖罐｜賽弗爾瓷器廠｜法國 1783年",
+                "description": "金彩動人的法國賽佛爾瓷糖罐，底部同時存在款識和原始販售標籤，透露出整件作品繪製與流通的淵遠流長經過。款識標記中間互為交叉的雙「L」，意指十八世紀的法王路易十四或路易十五，而雙「L」中心出現的雙「f」，其實是出產時間的記號。透過此一記號對照賽佛爾瓷廠紀錄，可以追溯出這件作品產燒於1783 年。此一事實又能回頭說明款識中間的雙「L」代表路易十五。法國賽佛爾瓷廠最初只能生產軟瓷胎瓷器（soft-paste），一直到了1770 年代才總算掌握了生產硬瓷胎瓷器（hard-paste）的技術。在西方人眼中硬瓷代表足以和中國瓷器比美的高品質瓷器，出現在款識最上方的金彩皇冠即是硬瓷燒成的標記。最下方的「LF」，則是彩繪師 La France 名字字母的縮寫。這位技藝高超的畫師在1783 年的四、五月之間，曾經把相同的紋樣，裝飾到一系列茶壺、牛奶壺和杯碟等成套的作品上。由於十八世紀下半葉負責賽佛爾瓷廠的首相Henry Leonard Jean-Baptiste Bertin 對遙遠的中國充滿憧憬，為了向乾隆皇帝表達友好，他以18 livres 的價格買下這件瓷糖罐做為禮物，請人千里迢迢地帶到清宮送給乾隆皇帝，至今依然清晰可辨的販售標籤，清楚地記錄了這段鮮為人知的塵封往事。",
+                "order": 2,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0174,
+                    "y": 0.0582
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "731f9bfeb050",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "瓷糖罐：這是一件帶蓋的白色陶瓷罐。罐身飽滿圓潤，外表以金色描繪細緻的花葉圖案，分布均勻。罐口上方有一道金色飾線。蓋子同樣以白底金紋呈現，中央有一個小巧的金色圓鈕作為握柄。整體造型端正，色調雅緻，以白底與金色線條形成亮麗的對比。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/czk3olxxvffo_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 600,
+                                        "height": 450,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/czk3olxxvffo_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "1d9f80b52861",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/1d9f80b52861.mp3",
+                                "transcript": "金彩動人的法國賽佛爾瓷糖罐，底部同時存在款識和原始販售標籤，透露出整件作品繪製與流通的淵遠流長經過。款識標記中間互為交叉的雙「L」，意指十八世紀的法王路易十四或路易十五，而雙「L」中心出現的雙「f」，其實是出產時間的記號。透過此一記號對照賽佛爾瓷廠紀錄，可以追溯出這件作品產燒於1783 年。此一事實又能回頭說明款識中間的雙「L」代表路易十五。法國賽佛爾瓷廠最初只能生產軟瓷胎瓷器（soft-paste），一直到了1770 年代才總算掌握了生產硬瓷胎瓷器（hard-paste）的技術。在西方人眼中硬瓷代表足以和中國瓷器比美的高品質瓷器，出現在款識最上方的金彩皇冠即是硬瓷燒成的標記。最下方的「LF」，則是彩繪師 La France 名字字母的縮寫。這位技藝高超的畫師在1783 年的四、五月之間，曾經把相同的紋樣，裝飾到一系列茶壺、牛奶壺和杯碟等成套的作品上。由於十八世紀下半葉負責賽佛爾瓷廠的首相Henry Leonard Jean-Baptiste Bertin 對遙遠的中國充滿憧憬，為了向乾隆皇帝表達友好，他以18 livres 的價格買下這件瓷糖罐做為禮物，請人千里迢迢地帶到清宮送給乾隆皇帝，至今依然清晰可辨的販售標籤，清楚地記錄了這段鮮為人知的塵封往事。",
+                                "caption_url": null,
+                                "duration": 122358
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "4b8f06404206",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "0b42a96c254b",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/0b42a96c254b.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 33959
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "5738a5505f39",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "pkv3tlgfp5nk",
+                "exhibit_number": "718",
+                "name": "鑲金玻璃香水瓶｜英國倫敦 約1760年｜故雜1658",
+                "description": "長形切割玻璃扁瓶，外鑲刻渦捲式花葉紋金框，有玻璃蓋，外有雕金花旋紐蓋。瓶蓋口緣白色琺瑯金字法文「VOTRE AMITIÉ ENRETOUR」。這類多曲線且華麗的鑲金框玻璃小瓶，多為英皇喬治三世時製品。",
+                "order": 3,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0089,
+                    "y": 0.0643
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "2d74b579d2a3",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "鑲金玻璃香水瓶：這是一件透明容器外加金屬包飾的小瓶。瓶身由清透材質構成，外層覆有繁複的金色金屬框架，形成卷草、花朵與欄杆般的裝飾線條。瓶頸部分包覆金屬雕飾，瓶蓋呈圓頂形，帶有細密紋樣，頸部環繞一圈小型飾帶。整體外觀華麗精巧，突顯金屬工藝的細緻。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 375,
+                                        "height": 500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "ff96b4a4caf1",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ff96b4a4caf1.mp3",
+                                "transcript": "長形切割玻璃扁瓶，外鑲刻渦捲式花葉紋金框，有玻璃蓋，外有雕金花旋紐蓋。瓶蓋口緣白色琺瑯金字法文「VOTRE AMITIÉ ENRETOUR」。這類多曲線且華麗的鑲金框玻璃小瓶，多為英皇喬治三世時製品。",
+                                "caption_url": null,
+                                "duration": 24581
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "95983dfe4a5a",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "6a37913e266c",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/6a37913e266c.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 38087
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "dc0744a283c9",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "6qid5gpesqjp",
+                "exhibit_number": "719",
+                "name": "放大鏡｜英國 約1760-1770年｜故雜103",
+                "description": "西洋製，可開闔，雙片式目鏡，瑪瑙鑲雕金花外框為柄，二片圓形透明玻璃鏡片可自兩側展開。金色鏤空紋飾具歐洲巴洛克式裝飾風格，線條迴旋律動且對稱呼應，整體設計精巧華美。",
+                "order": 4,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0026,
+                    "y": 0.0679
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "33d6eb6882fc",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "放大鏡：這是一件金屬製的細長工具，外形帶有精緻裝飾。上端是一個圓形的開口框，與下方手柄以兩條細長的金屬線條相連。手柄部分呈水滴形，中央填有藍色底板，外覆金色鏤空花葉與卷草圖案。底部收成尖端狀。整體造型纖細優雅，裝飾華麗。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 450,
+                                        "height": 600,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "fc6352b0b68a",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/fc6352b0b68a.mp3",
+                                "transcript": "西洋製，可開闔，雙片式目鏡，瑪瑙鑲雕金花外框為柄，二片圓形透明玻璃鏡片可自兩側展開。金色鏤空紋飾具歐洲巴洛克式裝飾風格，線條迴旋律動且對稱呼應，整體設計精巧華美。",
+                                "caption_url": null,
+                                "duration": 25287
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "46037cc5675d",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "42cfb3360963",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/42cfb3360963.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 33567
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "bd95fcbdb64d",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "5xy30hyye6vu",
+                "exhibit_number": "720",
+                "name": "鑲金瑪瑙鼻煙盒｜歐洲 18世紀｜故雜1634",
+                "description": "有上下掀蓋之方盒，上蓋掀開為儲放鼻煙之處，蓋及盒身以雕金渦捲式花葉紋為裝飾框，內嵌草蕨瑪瑙，上蓋開闔處有銀嵌鑲鑽石、紅寶、祖母綠之花葉。底蓋嵌亦有雕花框，嵌石兩片，內有秘戲圖。與院藏另一件James Cox的鑲錶金鼻煙盒相似，為十八世紀後半英國製品。",
+                "order": 5,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1315,
+                    "y": -0.0742
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "44b9dee9fdf3",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "鑲金瑪瑙鼻煙盒：這是一個小型金屬盒，外形呈長方體。整個盒身覆蓋華麗的金色框飾，框內嵌入多塊色調柔和、帶雲紋或人物剪影的半透明材質，排列成整齊的圖框。盒蓋與四側皆有同樣的嵌飾設計。盒前方中央還鑲有一排小型寶石，增添亮點。整體造型精巧，裝飾繁複而對稱。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 600,
+                                        "height": 450,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7a348d7c4a36",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7a348d7c4a36.mp3",
+                                "transcript": "有上下掀蓋之方盒，上蓋掀開為儲放鼻煙之處，蓋及盒身以雕金渦捲式花葉紋為裝飾框，內嵌草蕨瑪瑙，上蓋開闔處有銀嵌鑲鑽石、紅寶、祖母綠之花葉。底蓋嵌亦有雕花框，嵌石兩片，內有秘戲圖。與院藏另一件James Cox的鑲錶金鼻煙盒相似，為十八世紀後半英國製品。",
+                                "caption_url": null,
+                                "duration": 36572
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "283c32bee592",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "b4d4d79776c4",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/b4d4d79776c4.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36650
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "c53241ef3411",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "8ltp57y7v4gw",
+                "exhibit_number": "721",
+                "name": "修妝盒｜歐洲 18世紀｜故琺000902",
+                "description": "盒裝修容組件，以袖珍便攜形式組裝。此類匣盒內大多配置小鏡、盛裝香水或香料的玻璃瓶，刀、剪、鑷子等。盒之外壁或鑲嵌畫琺瑯片，或嵌螺鈿、瑪瑙、各色寶石，呈現歐洲十八世紀華麗裝飾風格。",
+                "order": 6,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1302,
+                    "y": -0.0665
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "ba0a4cd1eb38",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "修妝盒：這是一個小型長方形裝飾盒。盒身以白色面板為主，其上以彩色琺瑯描繪花朵與葉片，圖案細緻。盒的邊框與角落均為金色金屬鑲邊，呈捲曲與浮雕般的裝飾。蓋子上方有一個弧形的金色提把，造型如小型花紋架構。盒底有四個小巧的金色足座，使整件器物略微抬起。整體外觀雅緻華麗。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 600,
+                                        "height": 450,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "71c21f4d944d",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/71c21f4d944d.mp3",
+                                "transcript": "盒裝修容組件，以袖珍便攜形式組裝。此類匣盒內大多配置小鏡、盛裝香水或香料的玻璃瓶，刀、剪、鑷子等。盒之外壁或鑲嵌畫琺瑯片，或嵌螺鈿、瑪瑙、各色寶石，呈現歐洲十八世紀華麗裝飾風格。",
+                                "caption_url": null,
+                                "duration": 26880
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "9e926fa418c8",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "3ca6d2adcd8f",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/3ca6d2adcd8f.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 40647
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "fc4d12615b4e",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "pzf8t3dn6bsv",
+                "exhibit_number": "722",
+                "name": "琺瑯香水瓶｜歐洲 18世紀｜故琺94",
+                "description": "花瓶形，有鍍金雕刻嵌瓷花蓋，瓶身上下各一圈花瓣紋，瓶身粉地畫琺瑯，雙面開光琺瑯畫小童嬉戲，為轉印法製作，有緞帶花串為飾，以器形、琺瑯、蓋上雕刻，應為十八世紀後半英國製品。",
+                "order": 7,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1274,
+                    "y": -0.0724
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "0c14f4954c88",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "琺瑯香水瓶：這是一件帶蓋的小型陶瓷器，外形呈弧形的瓶狀。器身以粉彩色為主，並覆有層層凸起的羽狀裝飾。瓶身中央開有一個橢圓形畫框，框內為細緻的彩繪人物場景。瓶口上方的蓋子飾有立體的花朵與葉片，色彩鮮豔。整體風格華麗，細節繁複。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 213,
+                                        "height": 237,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "9c90a898e790",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/9c90a898e790.mp3",
+                                "transcript": "花瓶形，有鍍金雕刻嵌瓷花蓋，瓶身上下各一圈花瓣紋，瓶身粉地畫琺瑯，雙面開光琺瑯畫小童嬉戲，為轉印法製作，有緞帶花串為飾，以器形、琺瑯、蓋上雕刻，應為十八世紀後半英國製品。",
+                                "caption_url": null,
+                                "duration": 26802
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "4c76510dd6a0",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "f4c4f5d3ca25",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/f4c4f5d3ca25.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 34743
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "edd7f297e929",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

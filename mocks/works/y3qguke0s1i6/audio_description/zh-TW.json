@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "y3qguke0s1i6",
+        "exhibit_number": "611",
+        "name": "恭請聖安並請赴京見江寧織造郎中曹寅奏摺",
+        "description": "清 康熙四十三年（1704）七月二十九日\n故宮002712\n長20.5公分 寬48.2公分\n\n詩禮簪纓之族，指的是追求禮教、世代讀詩習禮的貴族，曹雪芹就是生長於這樣的貴族世家。祖父曹寅，善寫詩，好校勘，奉敕編《御定全唐詩》。自曾祖父曹璽始，曹家三代四任襲替江寧織造——由皇帝親信擔任的要職，負責織造、買辦皇家所需絲織及各類用品，如《龍藏經》經衣。如此特殊的生命經驗，感染著曹雪芹，體現在《紅樓夢》裡優美的詩詞曲賦、精緻物品的細膩描述。",
+        "order": 1,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "06953b4mgzad",
+                    "name": "203",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.2392,
+            "y": -0.2321
+        },
+        "exhibition_uid": "21lsxrf1aznj",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "f41bce3216af",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "恭請聖安並請赴京見江寧織造郎中曹寅奏摺：這是一幅以文字為主的書法作品，呈長條橫幅。畫面主要以黑色文字直行書寫，自右向左排列；左側另有一段以紅色文字書寫的直行內容，與黑字並列。文字整齊下垂，行距均勻。最左端可見一方小型紅色印章。整體構圖簡潔，留白寬廣。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 3053,
+                                "height": 2290,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "d56fafb84550",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/d56fafb84550.mp3",
+                        "transcript": "清 康熙四十三年（1704）七月二十九日\n故宮002712\n長20.5公分 寬48.2公分\n\n詩禮簪纓之族，指的是追求禮教、世代讀詩習禮的貴族，曹雪芹就是生長於這樣的貴族世家。祖父曹寅，善寫詩，好校勘，奉敕編《御定全唐詩》。自曾祖父曹璽始，曹家三代四任襲替江寧織造——由皇帝親信擔任的要職，負責織造、買辦皇家所需絲織及各類用品，如《龍藏經》經衣。如此特殊的生命經驗，感染著曹雪芹，體現在《紅樓夢》裡優美的詩詞曲賦、精緻物品的細膩描述。",
+                        "caption_url": null,
+                        "duration": 66900
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "f8fa07b3046c",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "da13a1a9dced",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/da13a1a9dced.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 41091
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "4a7faa2f3e79",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

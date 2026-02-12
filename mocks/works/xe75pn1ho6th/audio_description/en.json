@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "xe75pn1ho6th",
+        "exhibit_number": "615",
+        "name": "In the Style of the Song: Ru Ware and Ding Ware",
+        "description": "NPM collection no. 17854\nMouth diameter: 15.7 cm; Height: 3.7 cm\n\nPorcelain used in everyday life throughout *Dream of the Red Chamber* frequently evokes the celebrated kilns of the Song dynasty—Ru ware and Ding ware—as well as renowned imperial kilns of the Ming, such as Xuande and Chenghua. These refined objects embellish both the Jia household and the Grand View Garden. For Cao Xueqin, such elegance was embedded in memory: exquisite antique ceramics, alongside Qing-period archaistic wares, form the backdrop of the world he reimagined.\n\nRu ware—“as precious as the morning star”—appears repeatedly in the novel in the form of dishes, vases, and flower vessels. Ding ware—“the finest white under heaven”—is likewise present: at Baoyu’s birthday banquet, forty Ding ware dishes are used to serve delicacies and seasonal fruits. Quietly luxurious yet understated, these porcelains leave a lasting impression of the refined daily life they once adorned.",
+        "order": 5,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "06953b4mgzad",
+                    "name": "203",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.2284,
+            "y": -0.3495
+        },
+        "exhibition_uid": "21lsxrf1aznj",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "aa8c95984f71",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "A shallow circular dish coated in a soft bluish-grey glaze. The surface is covered with fine crackle patterns, and the gently rounded rim and neatly carved foot give the piece an elegant, understated presence characteristic of Song-inspired ware.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 740,
+                                "height": 986,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "47ce022bd381",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/47ce022bd381.mp3",
+                        "transcript": "NPM collection no. 17854\nMouth diameter: 15.7 cm; Height: 3.7 cm\n\nPorcelain used in everyday life throughout *Dream of the Red Chamber* frequently evokes the celebrated kilns of the Song dynasty—Ru ware and Ding ware—as well as renowned imperial kilns of the Ming, such as Xuande and Chenghua. These refined objects embellish both the Jia household and the Grand View Garden. For Cao Xueqin, such elegance was embedded in memory: exquisite antique ceramics, alongside Qing-period archaistic wares, form the backdrop of the world he reimagined.\n\nRu ware—“as precious as the morning star”—appears repeatedly in the novel in the form of dishes, vases, and flower vessels. Ding ware—“the finest white under heaven”—is likewise present: at Baoyu’s birthday banquet, forty Ding ware dishes are used to serve delicacies and seasonal fruits. Quietly luxurious yet understated, these porcelains leave a lasting impression of the refined daily life they once adorned.",
+                        "caption_url": null,
+                        "duration": 58253
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "a596886e1fb5",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "9b1af276d469",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9b1af276d469.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 30981
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "3a25d587df6c",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "u9q1z9zhax8a",
+        "exhibit_number": "506",
+        "name": "北宋　定窯　白瓷劃花蓮紋梅瓶",
+        "description": "梅瓶，小口圓唇，短頸，聳圓肩，腹修長，上豐下斂，近底處略微張，底內挖為圈足。器身以劃花為飾。上部蓮瓣短而橢圓並排；下部蓮瓣細長，以雙線重覆勾形；中腹前後各以一折枝蓮花為主紋，兩側勾勒簡單的荷葉。通體施牙白釉，有淚痕流敞，足緣無釉。",
+        "order": 6,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1336,
+            "y": -0.1356
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "e0a3b984dd1d",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "北宋 定窯　白瓷劃花蓮紋梅瓶：這是一件高身的白色陶瓷瓶，外形呈上寬下窄的曲線輪廓。瓶口小而外翻，頸部短。瓶身表面覆蓋細緻的刻紋，圖案多為葉片與卷草的線條，分布均勻但不突出於表面。整體釉色柔和，呈淡米白色光澤，造型修長而端正。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 2541,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "f9e6e8b86a02",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "北宋 定窯　白瓷劃花蓮紋梅瓶",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 800,
+                                "height": 534,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "cba350e01943",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/cba350e01943.mp3",
+                        "transcript": "梅瓶，小口圓唇，短頸，聳圓肩，腹修長，上豐下斂，近底處略微張，底內挖為圈足。器身以劃花為飾。上部蓮瓣短而橢圓並排；下部蓮瓣細長，以雙線重覆勾形；中腹前後各以一折枝蓮花為主紋，兩側勾勒簡單的荷葉。通體施牙白釉，有淚痕流敞，足緣無釉。",
+                        "caption_url": null,
+                        "duration": 43102
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "8524399f0569",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "af8e61f3ee4c",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/af8e61f3ee4c.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 36702
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "612d1cd52660",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

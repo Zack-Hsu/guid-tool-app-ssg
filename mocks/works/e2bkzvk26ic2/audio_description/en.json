@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "e2bkzvk26ic2",
+        "exhibit_number": "511",
+        "name": "Yuan Dynasty — Cobalt-Blue Cup with Single Handle",
+        "description": "This cup has a funnel-shaped form with a metal rim at the mouth. The slanted body features a ring-shaped handle on one side. The base is carved into a recessed foot, left unglazed and coated with a yellowish-brown slip for protection. Except for the base, the entire surface is covered in a cobalt-blue glaze. Traces of once-present gold or silver foil decoration can still be faintly seen on the glaze. Below the inner rim is a band of lozenge-patterned squares, while the center of the interior displays a twelve-pointed star rosette. A single branch of plum blossoms encircles the exterior wall.",
+        "order": 11,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "ilajxhwztl86",
+                    "name": "205",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.3779,
+            "y": 0.3638
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "61e9e2384d96",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Yuan Dynasty Cobalt-Blue Single-Handled Cup: A deep-blue, funnel-shaped cup with a slightly flared rim edged in metal. One side features a small rectangular loop handle. The glaze is smooth and richly colored.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "3942337718ea",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/3942337718ea.mp3",
+                        "transcript": "This cup has a funnel-shaped form with a metal rim at the mouth. The slanted body features a ring-shaped handle on one side. The base is carved into a recessed foot, left unglazed and coated with a yellowish-brown slip for protection. Except for the base, the entire surface is covered in a cobalt-blue glaze. Traces of once-present gold or silver foil decoration can still be faintly seen on the glaze. Below the inner rim is a band of lozenge-patterned squares, while the center of the interior displays a twelve-pointed star rosette. A single branch of plum blossoms encircles the exterior wall.",
+                        "caption_url": null,
+                        "duration": 34926
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "77ab090a6a87",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "33e7c462eb5e",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/33e7c462eb5e.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 28291
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "c0b8827d5958",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

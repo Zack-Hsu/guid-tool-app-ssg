@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "3r4vuoy3hxto",
+        "exhibit_number": "614",
+        "name": "Bronze Censer, Vase, and Box with Gui Motifs, Late Ming to Qing dynasty",
+        "description": "NPM collection nos. 1565, 1820, 1819\nCenser height: 15 cm; Vase height: 13.8 cm; Box height: 7.9 cm\n\nA faint thread of fragrance seems to drift through every page of *Dream of the Red Chamber*. Incense is burned not only in grand ceremonies, but also during the Jia household’s daily routines. When the Imperial Consort Yuanchun returns home for her ceremonial visit, lilies are burned in great braziers throughout the Grand View Garden. At family banquets, the Jia clan sets out the elegant trio of censer, vase, and box on the table, using them to burn the imperial “Lily Palace Incense.”\n\nThis set of three—censer, incense box, and utensil vase—forms a complete ensemble. The censer is used for burning incense; the box stores incense; and the vase holds tools such as tongs and scoops. Arranged with the censer in the center and the box and vase to either side, the censer takes pride of place. The censer mentioned in the novel, known as the *Wenwang ding*, derives from bronze ritual vessels used in ceremonies honoring King Wen of Zhou. Frequently imitated in the Ming and Qing periods, such archaistic pieces were treasured as refined objects suited to the contemplative atmosphere of the scholar’s studio.",
+        "order": 4,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "06953b4mgzad",
+                    "name": "203",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.2101,
+            "y": -0.264
+        },
+        "exhibition_uid": "21lsxrf1aznj",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "23e5509f2bc6",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Bronze censer, vase, and box set on a carved wooden stand. The vase at left has a slender neck and holds incense tools; the central tripod censer features gilded surfaces with blue-green geometric bands; and the round lidded box at right displays matching decoration. The three pieces form a ritual-like arrangement reminiscent of traditional incense sets.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 740,
+                                "height": 986,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "ebe3b3d62263",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ebe3b3d62263.mp3",
+                        "transcript": "NPM collection nos. 1565, 1820, 1819\nCenser height: 15 cm; Vase height: 13.8 cm; Box height: 7.9 cm\n\nA faint thread of fragrance seems to drift through every page of *Dream of the Red Chamber*. Incense is burned not only in grand ceremonies, but also during the Jia household’s daily routines. When the Imperial Consort Yuanchun returns home for her ceremonial visit, lilies are burned in great braziers throughout the Grand View Garden. At family banquets, the Jia clan sets out the elegant trio of censer, vase, and box on the table, using them to burn the imperial “Lily Palace Incense.”\n\nThis set of three—censer, incense box, and utensil vase—forms a complete ensemble. The censer is used for burning incense; the box stores incense; and the vase holds tools such as tongs and scoops. Arranged with the censer in the center and the box and vase to either side, the censer takes pride of place. The censer mentioned in the novel, known as the *Wenwang ding*, derives from bronze ritual vessels used in ceremonies honoring King Wen of Zhou. Frequently imitated in the Ming and Qing periods, such archaistic pieces were treasured as refined objects suited to the contemplative atmosphere of the scholar’s studio.",
+                        "caption_url": null,
+                        "duration": 64757
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "17718020bde3",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "9d407ef2c546",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9d407ef2c546.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 55850
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "ea904d2cb846",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

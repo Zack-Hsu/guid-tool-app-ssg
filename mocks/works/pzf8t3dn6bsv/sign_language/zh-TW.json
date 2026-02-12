@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "pzf8t3dn6bsv",
+        "exhibit_number": "722",
+        "name": "琺瑯香水瓶｜歐洲 18世紀｜故琺94",
+        "description": "花瓶形，有鍍金雕刻嵌瓷花蓋，瓶身上下各一圈花瓣紋，瓶身粉地畫琺瑯，雙面開光琺瑯畫小童嬉戲，為轉印法製作，有緞帶花串為飾，以器形、琺瑯、蓋上雕刻，應為十八世紀後半英國製品。",
+        "order": 7,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "viskg39sf8ko",
+                    "name": "301",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1274,
+            "y": -0.0724
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "0c14f4954c88",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "琺瑯香水瓶：這是一件帶蓋的小型陶瓷器，外形呈弧形的瓶狀。器身以粉彩色為主，並覆有層層凸起的羽狀裝飾。瓶身中央開有一個橢圓形畫框，框內為細緻的彩繪人物場景。瓶口上方的蓋子飾有立體的花朵與葉片，色彩鮮豔。整體風格華麗，細節繁複。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 213,
+                                "height": 237,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "9c90a898e790",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/9c90a898e790.mp3",
+                        "transcript": "花瓶形，有鍍金雕刻嵌瓷花蓋，瓶身上下各一圈花瓣紋，瓶身粉地畫琺瑯，雙面開光琺瑯畫小童嬉戲，為轉印法製作，有緞帶花串為飾，以器形、琺瑯、蓋上雕刻，應為十八世紀後半英國製品。",
+                        "caption_url": null,
+                        "duration": 26802
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "4c76510dd6a0",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "f4c4f5d3ca25",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/f4c4f5d3ca25.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 34743
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "edd7f297e929",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

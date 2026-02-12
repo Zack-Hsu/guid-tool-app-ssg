@@ -1,0 +1,148 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "1ozevenhi0ma",
+        "exhibit_number": "509",
+        "name": "Song Dynasty — Jian Ware Black-Glazed “Hare’s Fur” Tea Bowl",
+        "description": "This tea bowl features a contracted rim with a gently inward-curving lip, deep rounded walls, and a small ring foot. The glaze does not extend to the base, leaving the thick, coarse, dark brown clay exposed. The exterior of the foot is unglazed, while the recessed inner foot bears an incised character, 律 (“lü”), in regular script. The glaze is a dense, flowing jet-black that drips down the outer wall near the foot and pools thickly at the interior center. Around the rim, the thinner glaze forms the characteristic warm brown “hare’s fur mouth.” Both the interior and exterior surfaces display fine streaks of blue-yellow crystalline patterns created during firing. These streaks flow with the glaze, interweaving in rich layers reminiscent of the glossy fur of an autumn hare—hence the name “hare’s fur bowl,” as used in the Song dynasty.",
+        "order": 9,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1251,
+            "y": -0.1092
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "8aae9bf5df7a",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Song Dynasty Jian Ware Hare’s Fur Bowl: Base view showing a dark glossy glaze surrounding an unglazed gray circular foot with carved character. The overall shape is compact and symmetrical.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "fc4b31dbe1a2",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Song Dynasty Jian Ware Hare’s Fur Bowl",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "87bbc1ade767",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Song Dynasty Jian Ware Hare’s Fur Bowl",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_03.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_03.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "4eb455a66dbf",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/4eb455a66dbf.mp3",
+                        "transcript": "This tea bowl features a contracted rim with a gently inward-curving lip, deep rounded walls, and a small ring foot. The glaze does not extend to the base, leaving the thick, coarse, dark brown clay exposed. The exterior of the foot is unglazed, while the recessed inner foot bears an incised character, 律 (“lü”), in regular script. The glaze is a dense, flowing jet-black that drips down the outer wall near the foot and pools thickly at the interior center. Around the rim, the thinner glaze forms the characteristic warm brown “hare’s fur mouth.” Both the interior and exterior surfaces display fine streaks of blue-yellow crystalline patterns created during firing. These streaks flow with the glaze, interweaving in rich layers reminiscent of the glossy fur of an autumn hare—hence the name “hare’s fur bowl,” as used in the Song dynasty.",
+                        "caption_url": null,
+                        "duration": 47047
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "d946f060177e",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "3921eb02bf24",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/3921eb02bf24.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 37799
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "c237c794e0b8",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

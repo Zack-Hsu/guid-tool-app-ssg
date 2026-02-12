@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "keduinnnj85j",
+        "exhibit_number": "505",
+        "name": "北宋　定窯　白瓷嬰兒枕",
+        "description": "這件做嬰孩伏臥榻上的白瓷枕展現了定窯瓷器在塑形及裝飾上的高超技術。定窯燒製的作品以白瓷為主，成型工藝精良，釉質細潤光滑，釉色白中帶微黃，裝飾技法有淺劃、深刻、印花等。本件嬰兒枕的釉色牙白溫潤，頭部與身體分別由左右合模相接後，並將身、首接合，再剔刻面容。同時，充分發揮定窯不同的裝飾技巧，長衣下擺的朵花、背心上的球形紋以及榻座上雲螭紋是以模印技法呈現，後背則刻以纏枝牡丹，印花紋樣清晰，刻花線條流暢，二者搭配自如得宜。另外，底部刻有御製詩一首，可以發現乾隆皇帝將此類比為警枕，不僅警惕自勵自己宵旰勤勞，配合其他詠定窯孩兒枕御製詩來看，顯示出期盼如武丁於夢中尋到輔國賢臣的意圖。類似造型的嬰兒目前可見有三，其中二件收藏於本院，另一件見於北京故宮博物院。",
+        "order": 5,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1325,
+            "y": -0.1153
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "0c1d46bdd9ec",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "北宋　定窯　白瓷嬰兒枕：這是一件陶塑的孩童形象。造型呈現一名嬰孩側躺在長方形墊座上，頭部微抬，雙手抱在臉前作倚靠姿。孩童面龐圓潤，表情帶著安靜的微笑。身上穿著有細緻紋飾的衣物，衣褶與圖案刻畫清楚。整體釉色淡雅，呈淺灰白色光澤，表面平滑。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/keduinnnj85j_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 3053,
+                                "height": 2290,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/keduinnnj85j_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "a65d8a4211b0",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/a65d8a4211b0.mp3",
+                        "transcript": "這件做嬰孩伏臥榻上的白瓷枕展現了定窯瓷器在塑形及裝飾上的高超技術。定窯燒製的作品以白瓷為主，成型工藝精良，釉質細潤光滑，釉色白中帶微黃，裝飾技法有淺劃、深刻、印花等。本件嬰兒枕的釉色牙白溫潤，頭部與身體分別由左右合模相接後，並將身、首接合，再剔刻面容。同時，充分發揮定窯不同的裝飾技巧，長衣下擺的朵花、背心上的球形紋以及榻座上雲螭紋是以模印技法呈現，後背則刻以纏枝牡丹，印花紋樣清晰，刻花線條流暢，二者搭配自如得宜。另外，底部刻有御製詩一首，可以發現乾隆皇帝將此類比為警枕，不僅警惕自勵自己宵旰勤勞，配合其他詠定窯孩兒枕御製詩來看，顯示出期盼如武丁於夢中尋到輔國賢臣的意圖。類似造型的嬰兒目前可見有三，其中二件收藏於本院，另一件見於北京故宮博物院。",
+                        "caption_url": null,
+                        "duration": 96209
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "d91e694d1494",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "058ea97a1461",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/058ea97a1461.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 36781
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "60df49b273fd",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

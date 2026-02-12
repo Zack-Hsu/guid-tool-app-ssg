@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "pzf8t3dn6bsv",
+        "exhibit_number": "722",
+        "name": "Enamel Perfume Bottle | Europe, 18th Century | NPM Enamel Ware 94",
+        "description": "Shaped like a small vase, this perfume bottle is fitted with a gilded, intricately carved lid topped with applied porcelain flowers. Petal-like bands encircle the upper and lower sections of the body. Against a soft pink enamel ground, two oval reserves present charming scenes of playful children, created using transfer-print techniques. Garlanded ribbons further embellish the surface. In its form, enameling style, and finely worked gilt details, the piece reflects the characteristics of English craftsmanship from the latter half of the eighteenth century.",
+        "order": 7,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "viskg39sf8ko",
+                    "name": "301",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1274,
+            "y": -0.0724
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "0c14f4954c88",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "An 18th-century enamel perfume bottle shaped like a small vase, featuring a pink enamel ground, petal-like molded bands, and gilt mounts. Two oval reserves display playful scenes of children. The lid is decorated with applied porcelain flowers in vivid colors, creating an ornate and lively appearance.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 213,
+                                "height": 237,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "9c90a898e790",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/9c90a898e790.mp3",
+                        "transcript": "Shaped like a small vase, this perfume bottle is fitted with a gilded, intricately carved lid topped with applied porcelain flowers. Petal-like bands encircle the upper and lower sections of the body. Against a soft pink enamel ground, two oval reserves present charming scenes of playful children, created using transfer-print techniques. Garlanded ribbons further embellish the surface. In its form, enameling style, and finely worked gilt details, the piece reflects the characteristics of English craftsmanship from the latter half of the eighteenth century.",
+                        "caption_url": null,
+                        "duration": 26802
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "4c76510dd6a0",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "f4c4f5d3ca25",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/f4c4f5d3ca25.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 34743
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "edd7f297e929",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

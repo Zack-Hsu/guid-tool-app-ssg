@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "8ltp57y7v4gw",
+        "exhibit_number": "721",
+        "name": "修妝盒｜歐洲 18世紀｜故琺000902",
+        "description": "盒裝修容組件，以袖珍便攜形式組裝。此類匣盒內大多配置小鏡、盛裝香水或香料的玻璃瓶，刀、剪、鑷子等。盒之外壁或鑲嵌畫琺瑯片，或嵌螺鈿、瑪瑙、各色寶石，呈現歐洲十八世紀華麗裝飾風格。",
+        "order": 6,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "viskg39sf8ko",
+                    "name": "301",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1302,
+            "y": -0.0665
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "ba0a4cd1eb38",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "修妝盒：這是一個小型長方形裝飾盒。盒身以白色面板為主，其上以彩色琺瑯描繪花朵與葉片，圖案細緻。盒的邊框與角落均為金色金屬鑲邊，呈捲曲與浮雕般的裝飾。蓋子上方有一個弧形的金色提把，造型如小型花紋架構。盒底有四個小巧的金色足座，使整件器物略微抬起。整體外觀雅緻華麗。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 600,
+                                "height": 450,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "71c21f4d944d",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/71c21f4d944d.mp3",
+                        "transcript": "盒裝修容組件，以袖珍便攜形式組裝。此類匣盒內大多配置小鏡、盛裝香水或香料的玻璃瓶，刀、剪、鑷子等。盒之外壁或鑲嵌畫琺瑯片，或嵌螺鈿、瑪瑙、各色寶石，呈現歐洲十八世紀華麗裝飾風格。",
+                        "caption_url": null,
+                        "duration": 26880
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "9e926fa418c8",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "3ca6d2adcd8f",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/3ca6d2adcd8f.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 40647
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "fc4d12615b4e",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}
