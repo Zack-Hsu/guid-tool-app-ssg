@@ -1,0 +1,16 @@
+1:"$Sreact.fragment"
+2:I[28889,[],""]
+3:I[63549,[],""]
+5:I[73596,[],"OutletBoundary"]
+7:I[78645,[],"AsyncMetadataOutlet"]
+9:I[73596,[],"ViewportBoundary"]
+b:I[73596,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[90027,[],""]
+0:{"P":null,"b":"rozrPbspZNZaJN_dpQOej","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","html",null,{"lang":"zh-TW","children":["$","body",null,{"style":{"margin":0,"padding":0,"display":"flex","justifyContent":"center","alignItems":"center","height":"100vh","backgroundColor":"#000","color":"#fff","fontFamily":"sans-serif"},"children":["$","div",null,{"style":{"textAlign":"center"},"children":[["$","h1",null,{"style":{"fontSize":"2em","fontWeight":"bold","marginBottom":"0.5em"},"children":"404"}],["$","h2",null,{"style":{"fontSize":"1.2em","fontWeight":"normal"},"children":"找不到此頁面"}]]}]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+4:E{"digest":"NEXT_REDIRECT;replace;/zh-TW;307;"}
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+f:I[95021,[],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Guide Tool"}],["$","meta","1",{"name":"description","content":"A multilingual guide tool application"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$Lf","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

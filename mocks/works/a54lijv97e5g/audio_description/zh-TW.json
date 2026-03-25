@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "a54lijv97e5g",
+        "exhibit_number": "716",
+        "name": "時鐘｜William Carpenter製｜英國倫敦 1770-1805｜故雜726",
+        "description": "圓形錶面，以羅馬數字標示時，阿拉伯數字標示分、秒，錶面周圍裝飾太陽形光芒，上有橢圓形玻璃罩，橢圓形錶體，周圍裝飾一圈花瓣紋，上方裝飾劍筒、火炬及彩帶，下方以莨苕葉紋為托，下接獸足，後方有一發條旋鈕，置於二層臺座上，上層為雙層座面，下接四鷹鳥座足，下層為花葉紋裝飾。背有文字「Willm Carpenter London」及速度調整刻度：「FASTER」、「1~9」、「SLOWER」，附鑰匙二把。",
+        "order": 1,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "y2clxyjxromp",
+                    "name": "300",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.0567,
+            "y": 0.0398
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "2aab5cb38027",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "時鐘：這是一座以金色為主的裝飾時計。鐘面位於中央的橢圓形框內，白色錶盤上有羅馬數字刻度，外圍環繞放射狀的金色光芒圖案。橢圓框的頂部飾有精緻的蝴蝶結與花葉雕飾。整座時鐘由華麗繁複的金屬支架托起，下方底座呈不規則的卷草與曲線構成。整體風格華麗細緻，具有強烈的裝飾性。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 1028,
+                                "height": 1371,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "7712f22491dd",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7712f22491dd.mp3",
+                        "transcript": "圓形錶面，以羅馬數字標示時，阿拉伯數字標示分、秒，錶面周圍裝飾太陽形光芒，上有橢圓形玻璃罩，橢圓形錶體，周圍裝飾一圈花瓣紋，上方裝飾劍筒、火炬及彩帶，下方以莨苕葉紋為托，下接獸足，後方有一發條旋鈕，置於二層臺座上，上層為雙層座面，下接四鷹鳥座足，下層為花葉紋裝飾。背有文字「Willm Carpenter London」及速度調整刻度：「FASTER」、「1~9」、「SLOWER」，附鑰匙二把。",
+                        "caption_url": null,
+                        "duration": 53212
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "c23079d9217f",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "d819db635fc2",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/d819db635fc2.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 40124
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "db1280f81153",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

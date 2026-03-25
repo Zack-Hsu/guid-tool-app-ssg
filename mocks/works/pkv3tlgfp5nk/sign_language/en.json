@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "pkv3tlgfp5nk",
+        "exhibit_number": "718",
+        "name": "Gilt-Mounted Glass Perfume Bottle | London, ca. 1760",
+        "description": "This elongated, flat-sided perfume bottle is crafted from cut glass and encased in a frame of gilt metal adorned with swirling foliate scrolls. It features an inner glass stopper and an outer screw-on cap richly decorated with chased floral patterns. Along the rim of the lid, a line of white enamel bears a tender French inscription in gold: “VOTRE AMITIÉ EN RETOUR” — “Your friendship in return.”\n\nSuch bottles, celebrated for their abundance of curves and ornate gilt mounts, were fashionable luxury objects in London during the reign of King George III. Portable, intimate, and decorative, they were often exchanged as refined tokens of affection or friendship, carrying not only fragrance but also sentiment.",
+        "order": 3,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "y2clxyjxromp",
+                    "name": "300",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.0089,
+            "y": 0.0643
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "2d74b579d2a3",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "A flat, elongated glass bottle encased in ornate gilt metalwork. The golden framework forms scrolls, leaves, and lattice-like patterns around the transparent body. The cap is domed and richly decorated, with a small ribbon-like collar encircling the neck. The object appears delicate, intricate, and highly decorative.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 375,
+                                "height": 500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "ff96b4a4caf1",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ff96b4a4caf1.mp3",
+                        "transcript": "This elongated, flat-sided perfume bottle is crafted from cut glass and encased in a frame of gilt metal adorned with swirling foliate scrolls. It features an inner glass stopper and an outer screw-on cap richly decorated with chased floral patterns. Along the rim of the lid, a line of white enamel bears a tender French inscription in gold: “VOTRE AMITIÉ EN RETOUR” — “Your friendship in return.”\n\nSuch bottles, celebrated for their abundance of curves and ornate gilt mounts, were fashionable luxury objects in London during the reign of King George III. Portable, intimate, and decorative, they were often exchanged as refined tokens of affection or friendship, carrying not only fragrance but also sentiment.",
+                        "caption_url": null,
+                        "duration": 24581
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "95983dfe4a5a",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "6a37913e266c",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/6a37913e266c.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 38087
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "dc0744a283c9",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,614 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "337io8e4t2ax",
+        "name": "經典巡禮-精華導覽",
+        "start_date": "2020-01-01T00:00:00.000Z",
+        "end_date": "2050-01-01T00:00:00.000Z",
+        "description": "若您對各類型文物抱持興趣，也想透過文物感受華夏歷史的更迭，建議您選擇此參觀路線，從三樓逛至一樓，賞析16件故宮常設展精品。",
+        "target_audience": "adult_student",
+        "duration_sec": 3600,
+        "img_key_vision": {
+            "id": "ba2c081fbc07",
+            "name": "exhibition_kv",
+            "type": "photo",
+            "alt_text": "經典巡禮-精華導覽",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/337io8e4t2ax_kv.png",
+                    "media_sources": [
+                        {
+                            "width": 2752,
+                            "height": 1536,
+                            "format": "png",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/337io8e4t2ax_kv.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        "medias": [
+            {
+                "id": "0678b82204f0",
+                "name": "相關影片",
+                "type": "youtube",
+                "alt_text": "相關影片",
+                "info": [
+                    {
+                        "type": "youtube",
+                        "value": "https://youtu.be/YD6FS6qrvNU?si=cTloiKOs2y5wVjhP",
+                        "media_sources": []
+                    }
+                ]
+            }
+        ],
+        "categories": [
+            {
+                "uid": "t8lcj07wxkj5",
+                "name": "經典巡禮"
+            },
+            {
+                "uid": "0pk4zo04mdoz",
+                "name": "精華導覽"
+            }
+        ],
+        "work_binding": [
+            {
+                "uid": "y3qguke0s1i6",
+                "name": "恭請聖安並請赴京見江寧織造郎中曹寅奏摺",
+                "category": {
+                    "uid": "t8lcj07wxkj5",
+                    "name": "經典巡禮"
+                }
+            },
+            {
+                "uid": "unrlx51h5scy",
+                "name": "紅樓夢圖詠",
+                "category": {
+                    "uid": "t8lcj07wxkj5",
+                    "name": "經典巡禮"
+                }
+            },
+            {
+                "uid": "ji9heodooe28",
+                "name": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂",
+                "category": {
+                    "uid": "t8lcj07wxkj5",
+                    "name": "經典巡禮"
+                }
+            },
+            {
+                "uid": "3r4vuoy3hxto",
+                "name": "明晚期至清 銅夔紋爐、瓶、盒",
+                "category": {
+                    "uid": "t8lcj07wxkj5",
+                    "name": "經典巡禮"
+                }
+            },
+            {
+                "uid": "xe75pn1ho6th",
+                "name": "以宋為韻—汝窯與定窯",
+                "category": {
+                    "uid": "0pk4zo04mdoz",
+                    "name": "精華導覽"
+                }
+            }
+        ],
+        "works": [
+            {
+                "uid": "y3qguke0s1i6",
+                "exhibit_number": "611",
+                "name": "恭請聖安並請赴京見江寧織造郎中曹寅奏摺",
+                "description": "清 康熙四十三年（1704）七月二十九日\n故宮002712\n長20.5公分 寬48.2公分\n\n詩禮簪纓之族，指的是追求禮教、世代讀詩習禮的貴族，曹雪芹就是生長於這樣的貴族世家。祖父曹寅，善寫詩，好校勘，奉敕編《御定全唐詩》。自曾祖父曹璽始，曹家三代四任襲替江寧織造——由皇帝親信擔任的要職，負責織造、買辦皇家所需絲織及各類用品，如《龍藏經》經衣。如此特殊的生命經驗，感染著曹雪芹，體現在《紅樓夢》裡優美的詩詞曲賦、精緻物品的細膩描述。",
+                "order": 1,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2392,
+                    "y": -0.2321
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "f41bce3216af",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "恭請聖安並請赴京見江寧織造郎中曹寅奏摺：這是一幅以文字為主的書法作品，呈長條橫幅。畫面主要以黑色文字直行書寫，自右向左排列；左側另有一段以紅色文字書寫的直行內容，與黑字並列。文字整齊下垂，行距均勻。最左端可見一方小型紅色印章。整體構圖簡潔，留白寬廣。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "d56fafb84550",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/d56fafb84550.mp3",
+                                "transcript": "清 康熙四十三年（1704）七月二十九日\n故宮002712\n長20.5公分 寬48.2公分\n\n詩禮簪纓之族，指的是追求禮教、世代讀詩習禮的貴族，曹雪芹就是生長於這樣的貴族世家。祖父曹寅，善寫詩，好校勘，奉敕編《御定全唐詩》。自曾祖父曹璽始，曹家三代四任襲替江寧織造——由皇帝親信擔任的要職，負責織造、買辦皇家所需絲織及各類用品，如《龍藏經》經衣。如此特殊的生命經驗，感染著曹雪芹，體現在《紅樓夢》裡優美的詩詞曲賦、精緻物品的細膩描述。",
+                                "caption_url": null,
+                                "duration": 66900
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "f8fa07b3046c",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "da13a1a9dced",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/da13a1a9dced.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 41091
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "4a7faa2f3e79",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "unrlx51h5scy",
+                "exhibit_number": "612",
+                "name": "紅樓夢圖詠",
+                "description": "清 改琦撰\n清 光緒五年（1879）刊圖繪本\n故觀003571—003574\n高22.5公分 寬15公分\n\n關於曹雪芹，有許多解不開的謎。曹家經抄滅敗亡，曹雪芹陷溺於悲痛之中返回北京，及至乾隆二十七年（1762）「壬午除夕，書未成，芹為淚盡而逝。」對於他「年未五旬而卒」短暫的一生，對於他未完成的《紅樓夢》，認識與理解往往是破碎且殘缺的，彷彿他的存在本身就是一個謎。《紅樓夢》未完，不減其迷人之處。或許也正因未完，而產生了許多的版本、點評乃至圖詠。",
+                "order": 2,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1292,
+                    "y": -0.2858
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "8fe2f14b202b",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "紅樓夢圖詠：這是一幅書冊封面式的作品。畫面中央偏左是一幅細筆線描圖，描繪兩名身著古代服飾的人物站立在一塊大石旁，姿態端靜。右側是一條直立的標籤欄，背景為淺色，四角帶有黑色三角形裝飾。欄內以黑字書寫書名和卷次，排列自上而下。整體布局左為人物插畫，右為題簽，構圖清楚分明。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "dc2accd6633b",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/dc2accd6633b.mp3",
+                                "transcript": "清 改琦撰\n清 光緒五年（1879）刊圖繪本\n故觀003571—003574\n高22.5公分 寬15公分\n\n關於曹雪芹，有許多解不開的謎。曹家經抄滅敗亡，曹雪芹陷溺於悲痛之中返回北京，及至乾隆二十七年（1762）「壬午除夕，書未成，芹為淚盡而逝。」對於他「年未五旬而卒」短暫的一生，對於他未完成的《紅樓夢》，認識與理解往往是破碎且殘缺的，彷彿他的存在本身就是一個謎。《紅樓夢》未完，不減其迷人之處。或許也正因未完，而產生了許多的版本、點評乃至圖詠。",
+                                "caption_url": null,
+                                "duration": 70217
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d630a2e60cb0",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "16cbbcf3579c",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/16cbbcf3579c.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 38217
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "870cf486c883",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "ji9heodooe28",
+                "exhibit_number": "613",
+                "name": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂",
+                "description": "故雜4837\n長16公分 座徑4.8公分\n\n元妃，本名賈元春，是賈寶玉的長姊。十三、四歲時入宮，後晉封為貴妃，使賈府的榮耀達到鼎盛；省親，宮裡嬪妃獲准返家，探望父母或其他尊親，以盡孝道。賈府為了迎接元妃歸來，特別修建了省親別院—大觀園。大觀園，是元妃失去青春、與家人短暫相聚的樂園，也是賈寶玉與眾金釵們，在其權力的庇護下，彷彿遺世獨立的青春樂園，也是曹雪芹緬懷過去，繁華已逝的失樂園。",
+                "order": 3,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1651,
+                    "y": -0.199
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "4043c7406cd7",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂：這是一件以金質為主的立體飾件，自底座向上呈層層堆疊的構造。底部為半球形的金色基座，表面密布細緻的花紋。其上伸出多層細工打造的鳥形與枝葉造型，金片以鏤空與捲曲方式組成，層次複雜。作品上點綴多顆圓形白色珍珠，排列於各層之間。最頂端是一顆橢圓形的光滑寶石，色澤偏棕黃。整體造型輕盈繁複，向上呈開展姿態。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7bc0c3f38dac",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7bc0c3f38dac.mp3",
+                                "transcript": "故雜4837\n長16公分 座徑4.8公分\n\n元妃，本名賈元春，是賈寶玉的長姊。十三、四歲時入宮，後晉封為貴妃，使賈府的榮耀達到鼎盛；省親，宮裡嬪妃獲准返家，探望父母或其他尊親，以盡孝道。賈府為了迎接元妃歸來，特別修建了省親別院—大觀園。大觀園，是元妃失去青春、與家人短暫相聚的樂園，也是賈寶玉與眾金釵們，在其權力的庇護下，彷彿遺世獨立的青春樂園，也是曹雪芹緬懷過去，繁華已逝的失樂園。",
+                                "caption_url": null,
+                                "duration": 60500
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "06e983c12619",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "84d5766879b6",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/84d5766879b6.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 48640
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "3208d4039051",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "3r4vuoy3hxto",
+                "exhibit_number": "614",
+                "name": "明晚期至清 銅夔紋爐、瓶、盒",
+                "description": "中銅1565、1820、1819\n爐高15公分 瓶高13.8公分 盒高7.9公分\n\n《紅樓夢》總是透著一縷幽香。重要儀式場合焚香，日常起居坐臥也焚香。元妃省親，大觀園內鼎焚百合之香；賈府家宴，几上設爐瓶三事，焚御賜百合宮香。爐瓶三事，以香爐、香盒及箸瓶組成。爐以焚香，盒以貯香，瓶以置箸與匙。爐置中，盒、瓶置側，顯見爐為主角。小說中提到的香爐—文王鼎，源自周公祭祀周文王的祭器，明清時期多有模仿，是仿古風雅之器，宜齋室清賞。",
+                "order": 4,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2101,
+                    "y": -0.264
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "23e5509f2bc6",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "明晚期至清 銅夔紋爐、瓶、盒：畫面展示一組擺放在木座上的金屬器物。木座呈弧形，表面雕有細緻的紋飾。上方依序擺放三件器物：左側是一件細頸的器具，頸口插著三根細棒與一片圓形的金屬葉片；器身以金與綠色相間的裝飾構成。中央是一個三足的小型鼎形容器，金色外表並帶有藍綠色的幾何紋帶。右側是一件帶蓋的小圓盒，蓋面中央有一個小握鈕，盒身同樣帶有藍綠色裝飾。整組器物呈現禮器般的對稱陳列。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "ebe3b3d62263",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ebe3b3d62263.mp3",
+                                "transcript": "中銅1565、1820、1819\n爐高15公分 瓶高13.8公分 盒高7.9公分\n\n《紅樓夢》總是透著一縷幽香。重要儀式場合焚香，日常起居坐臥也焚香。元妃省親，大觀園內鼎焚百合之香；賈府家宴，几上設爐瓶三事，焚御賜百合宮香。爐瓶三事，以香爐、香盒及箸瓶組成。爐以焚香，盒以貯香，瓶以置箸與匙。爐置中，盒、瓶置側，顯見爐為主角。小說中提到的香爐—文王鼎，源自周公祭祀周文王的祭器，明清時期多有模仿，是仿古風雅之器，宜齋室清賞。",
+                                "caption_url": null,
+                                "duration": 64757
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "17718020bde3",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9d407ef2c546",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9d407ef2c546.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 55850
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "ea904d2cb846",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "xe75pn1ho6th",
+                "exhibit_number": "615",
+                "name": "以宋為韻—汝窯與定窯",
+                "description": "故瓷17854\n口徑15.7公分 高3.7公分\n\n《紅樓夢》居家生活瓷器的描述，提到宋代名窯，像汝窯，像定窯，也提到明代官窯，像宣窯，像成窯，妝點著賈府、大觀園的日常。曹雪芹將這份日常，包裹在精緻講究的古董瓷器裡，以及清代仿古的當代瓷器中。汝窯，「晨星真可貴」，卻數次出現於書中，有盤、美人觚與花囊；定窯，「顏色天下白」，寶玉生日開夜宴，就以四十個定窯碟盛酒饌果菜。低調奢華，令人印象深刻。",
+                "order": 5,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2284,
+                    "y": -0.3495
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "aa8c95984f71",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "以宋為韻—汝窯與定窯：這是一件淺盤式的陶瓷器。盤面寬而平緩，中央略向下凹。整體覆蓋淡青灰色釉，表面佈滿細密的開片紋。盤緣圓滑，外側曲線簡潔。底部呈圈足狀，使盤身略微墊起。整體外觀清雅端整。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "47ce022bd381",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/47ce022bd381.mp3",
+                                "transcript": "故瓷17854\n口徑15.7公分 高3.7公分\n\n《紅樓夢》居家生活瓷器的描述，提到宋代名窯，像汝窯，像定窯，也提到明代官窯，像宣窯，像成窯，妝點著賈府、大觀園的日常。曹雪芹將這份日常，包裹在精緻講究的古董瓷器裡，以及清代仿古的當代瓷器中。汝窯，「晨星真可貴」，卻數次出現於書中，有盤、美人觚與花囊；定窯，「顏色天下白」，寶玉生日開夜宴，就以四十個定窯碟盛酒饌果菜。低調奢華，令人印象深刻。",
+                                "caption_url": null,
+                                "duration": 58253
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "a596886e1fb5",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9b1af276d469",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9b1af276d469.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 30981
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "3a25d587df6c",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "vsv5r2kehmn0",
+        "exhibit_number": "501",
+        "name": "唐　三彩馬球仕女俑",
+        "description": "唐代婦女以健康為美，因此喜愛穿著翻領窄袖軟靴的胡衫，裝束輕便地從事多種馬上活動。波斯的馬球很受唐代上層社會的歡迎，墓葬中也常出土各種彩繪陶或三彩的打馬球俑。此件作品為正在打馬球的時髦仕女。女子側轉身、頭微前傾，左手近馬首如勒韁繩，右手屈起作握桿擊球狀。胸前留有鮮豔的紅色，是貴重的色料。",
+        "order": 1,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1311,
+            "y": -0.0539
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": true,
+        "medias": [
+            {
+                "id": "5f7fd08399c9",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "唐 三彩馬球仕女俑：畫面是一件陶塑雕像，呈現一名騎乘在馬背上的人物。整體造型比例端正，色彩以黃色、綠色和褐色為主。馬身站立筆直，四腿分開支撐，頭微低。騎者坐在馬背中央，身形纖細，頭戴高束的髮髻，雙手放在身前似握著韁繩。人物與馬匹的表面都有釉色流動的光澤，展現平穩靜止的姿態。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2244,
+                                "height": 2992,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "3c3cd908a601",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/3c3cd908a601.mp3",
+                        "transcript": "唐代婦女以健康為美，因此喜愛穿著翻領窄袖軟靴的胡衫，裝束輕便地從事多種馬上活動。波斯的馬球很受唐代上層社會的歡迎，墓葬中也常出土各種彩繪陶或三彩的打馬球俑。此件作品為正在打馬球的時髦仕女。女子側轉身、頭微前傾，左手近馬首如勒韁繩，右手屈起作握桿擊球狀。胸前留有鮮豔的紅色，是貴重的色料。",
+                        "caption_url": null,
+                        "duration": 39132
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "2a6983b2733a",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "592693246707",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/592693246707.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 40647
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "21aca35d2a6e",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

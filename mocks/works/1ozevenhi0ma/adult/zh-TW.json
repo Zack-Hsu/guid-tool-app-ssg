@@ -1,0 +1,148 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "1ozevenhi0ma",
+        "exhibit_number": "509",
+        "name": "宋　建窯　黑釉兔毫盞",
+        "description": "弇口碗，口沿外緣向內束收，深腹、小圈足。釉施不及底，旦露深褐色粗厚的器胎。足外壁無釉，足內則淺凹，並深刻一「律」字楷書。釉色鳥黑濃稠且流動性大，外壁垂淌至近足處，內底積厚釉，口緣則薄釉而形成特徵的「褐口邊」。碗身裡外均有結晶析出的青黃色細密線條，隨釉流動，深茂相雜，宛如秋兔的毫毛，故宋人稱之為「兔毫盞」。",
+        "order": 9,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1251,
+            "y": -0.1092
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "8aae9bf5df7a",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "宋 建窯　黑釉兔毫盞：這是一件小型陶瓷器物，畫面呈現其底部朝上。器底外圈為深色釉面，光滑且略帶反光。中央是一個未上釉的淺灰色圓形底座，周圍附著深褐色的窯燒痕跡。底座中央刻有一個單獨的漢字，線條清晰。整體造型規整，呈低矮的圓盤狀。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "fc4b31dbe1a2",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "宋 建窯　黑釉兔毫盞",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "87bbc1ade767",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "宋 建窯　黑釉兔毫盞",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_03.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_03.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "4eb455a66dbf",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/4eb455a66dbf.mp3",
+                        "transcript": "弇口碗，口沿外緣向內束收，深腹、小圈足。釉施不及底，旦露深褐色粗厚的器胎。足外壁無釉，足內則淺凹，並深刻一「律」字楷書。釉色鳥黑濃稠且流動性大，外壁垂淌至近足處，內底積厚釉，口緣則薄釉而形成特徵的「褐口邊」。碗身裡外均有結晶析出的青黃色細密線條，隨釉流動，深茂相雜，宛如秋兔的毫毛，故宋人稱之為「兔毫盞」。",
+                        "caption_url": null,
+                        "duration": 47047
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "d946f060177e",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "3921eb02bf24",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/3921eb02bf24.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 37799
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "c237c794e0b8",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

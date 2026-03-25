@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "unrlx51h5scy",
+        "exhibit_number": "612",
+        "name": "Illustrated Poems of *Dream of the Red Chamber*",
+        "description": "Written by Gai Qi, Qing dynasty\nIllustrated woodblock-printed book, published in the 5th year of the Guangxu reign (1879)\nNational Palace Museum catalog nos. 003571—003574\nHeight: 22.5 cm; Width: 15 cm\n\nMuch about Cao Xueqin remains shrouded in mystery. After the Cao family fell from power and its property was confiscated, Cao Xueqin—overwhelmed by sorrow—returned to Beijing. In 1762, on New Year's Eve of the renwu year (the 27th year of the Qianlong reign), he passed away “before reaching the age of fifty, his tears exhausted while the book remained unfinished.” Our understanding of his short life and his incomplete *Dream of the Red Chamber* is often fragmentary, as if his very existence were a riddle.\n\nYet the novel’s unfinished state has never diminished its allure. If anything, its open-endedness inspired generations of readers, giving rise to numerous editions, commentaries, and pictorial interpretations such as this illustrated work.",
+        "order": 2,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "06953b4mgzad",
+                    "name": "203",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1292,
+            "y": -0.2858
+        },
+        "exhibition_uid": "21lsxrf1aznj",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "8fe2f14b202b",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Illustrated Poems of Dream of the Red Chamber: A book cover design featuring a fine-line drawing of two figures in traditional attire standing beside a large rock. To the right runs a vertical title strip with black characters framed by decorative triangular corners. The layout clearly separates the illustration on the left from the title panel on the right.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 3053,
+                                "height": 2290,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "dc2accd6633b",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/dc2accd6633b.mp3",
+                        "transcript": "Written by Gai Qi, Qing dynasty\nIllustrated woodblock-printed book, published in the 5th year of the Guangxu reign (1879)\nNational Palace Museum catalog nos. 003571—003574\nHeight: 22.5 cm; Width: 15 cm\n\nMuch about Cao Xueqin remains shrouded in mystery. After the Cao family fell from power and its property was confiscated, Cao Xueqin—overwhelmed by sorrow—returned to Beijing. In 1762, on New Year",
+                        "caption_url": null,
+                        "duration": 70217
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "d630a2e60cb0",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "16cbbcf3579c",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/16cbbcf3579c.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 38217
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "870cf486c883",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

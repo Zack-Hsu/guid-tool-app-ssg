@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "8ltp57y7v4gw",
+        "exhibit_number": "721",
+        "name": "Dressing Case | Europe, 18th Century | NPM Enameled Ware 000902",
+        "description": "This compact dressing case assembles a miniature set of personal grooming tools designed for travel and daily refinement. Such cases typically contain a small mirror, glass bottles for perfumes or aromatic powders, and implements such as knives, scissors, and tweezers. The exterior is often lavishly decorated—its panels inlaid with painted enamel plaques, mother-of-pearl, agate, or multicolored gemstones—capturing the opulent aesthetic of eighteenth-century European craftsmanship. Portable yet sumptuous, these cases reflect a world in which elegance accompanied every gesture, even those performed in private.",
+        "order": 6,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "viskg39sf8ko",
+                    "name": "301",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1302,
+            "y": -0.0665
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "ba0a4cd1eb38",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "A small rectangular European dressing case decorated with painted enamel panels featuring flowers and foliage. The box is framed with gilt metal mounts and rests on four tiny feet. A curved gilt handle rises elegantly from the lid, giving the piece a refined and decorative appearance.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 600,
+                                "height": 450,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "71c21f4d944d",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/71c21f4d944d.mp3",
+                        "transcript": "This compact dressing case assembles a miniature set of personal grooming tools designed for travel and daily refinement. Such cases typically contain a small mirror, glass bottles for perfumes or aromatic powders, and implements such as knives, scissors, and tweezers. The exterior is often lavishly decorated—its panels inlaid with painted enamel plaques, mother-of-pearl, agate, or multicolored gemstones—capturing the opulent aesthetic of eighteenth-century European craftsmanship. Portable yet sumptuous, these cases reflect a world in which elegance accompanied every gesture, even those performed in private.",
+                        "caption_url": null,
+                        "duration": 26880
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "9e926fa418c8",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "3ca6d2adcd8f",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/3ca6d2adcd8f.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 40647
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "fc4d12615b4e",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

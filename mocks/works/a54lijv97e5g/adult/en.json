@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "a54lijv97e5g",
+        "exhibit_number": "716",
+        "name": "Clock | William Carpenter, London (1770–1805) | NPM Collection No. 726",
+        "description": "This ornate clock features a circular dial with Roman numerals for the hours and Arabic numerals marking the minutes and seconds. Encircled by radiant sunburst ornamentation, the face is protected beneath an oval glass cover. The oval case itself is bordered with petal-like motifs, while the top is embellished with a quiver of arrows, a torch, and fluttering ribbons—classical symbols of enlightenment and refined taste.\n\nBelow, scrolling acanthus leaves support the clock, which stands on a two-tiered base: the upper platform rests on four eagle-shaped feet, and the lower tier is adorned with floral designs. On the reverse appears the inscription “Willm Carpenter London,” along with a scale regulating speed—“FASTER,” “1–9,” “SLOWER.” Two original winding keys accompany the piece.\n\nElegant, intricate, and richly symbolic, the clock reflects the craftsmanship and decorative vocabulary of late eighteenth-century London, embodying both precision timekeeping and the aesthetic ideals of its age.",
+        "order": 1,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "y2clxyjxromp",
+                    "name": "300",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.0567,
+            "y": 0.0398
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "2aab5cb38027",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "An ornate gold-colored mantel clock with an oval case. The white dial displays Roman numerals and is surrounded by sunburst rays. Decorative motifs—including ribbons, foliage, and scrolls—adorn the top and base, which rests on intricately formed feet. The overall design is lavish and highly detailed.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 1028,
+                                "height": 1371,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "7712f22491dd",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7712f22491dd.mp3",
+                        "transcript": "This ornate clock features a circular dial with Roman numerals for the hours and Arabic numerals marking the minutes and seconds. Encircled by radiant sunburst ornamentation, the face is protected beneath an oval glass cover. The oval case itself is bordered with petal-like motifs, while the top is embellished with a quiver of arrows, a torch, and fluttering ribbons—classical symbols of enlightenment and refined taste.\n\nBelow, scrolling acanthus leaves support the clock, which stands on a two-tiered base: the upper platform rests on four eagle-shaped feet, and the lower tier is adorned with floral designs. On the reverse appears the inscription “Willm Carpenter London,” along with a scale regulating speed—“FASTER,” “1–9,” “SLOWER.” Two original winding keys accompany the piece.\n\nElegant, intricate, and richly symbolic, the clock reflects the craftsmanship and decorative vocabulary of late eighteenth-century London, embodying both precision timekeeping and the aesthetic ideals of its age.",
+                        "caption_url": null,
+                        "duration": 53212
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "c23079d9217f",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "d819db635fc2",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/d819db635fc2.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 40124
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "db1280f81153",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

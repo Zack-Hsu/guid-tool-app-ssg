@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "czk3olxxvffo",
+        "exhibit_number": "717",
+        "name": "瓷糖罐｜賽弗爾瓷器廠｜法國 1783年",
+        "description": "金彩動人的法國賽佛爾瓷糖罐，底部同時存在款識和原始販售標籤，透露出整件作品繪製與流通的淵遠流長經過。款識標記中間互為交叉的雙「L」，意指十八世紀的法王路易十四或路易十五，而雙「L」中心出現的雙「f」，其實是出產時間的記號。透過此一記號對照賽佛爾瓷廠紀錄，可以追溯出這件作品產燒於1783 年。此一事實又能回頭說明款識中間的雙「L」代表路易十五。法國賽佛爾瓷廠最初只能生產軟瓷胎瓷器（soft-paste），一直到了1770 年代才總算掌握了生產硬瓷胎瓷器（hard-paste）的技術。在西方人眼中硬瓷代表足以和中國瓷器比美的高品質瓷器，出現在款識最上方的金彩皇冠即是硬瓷燒成的標記。最下方的「LF」，則是彩繪師 La France 名字字母的縮寫。這位技藝高超的畫師在1783 年的四、五月之間，曾經把相同的紋樣，裝飾到一系列茶壺、牛奶壺和杯碟等成套的作品上。由於十八世紀下半葉負責賽佛爾瓷廠的首相Henry Leonard Jean-Baptiste Bertin 對遙遠的中國充滿憧憬，為了向乾隆皇帝表達友好，他以18 livres 的價格買下這件瓷糖罐做為禮物，請人千里迢迢地帶到清宮送給乾隆皇帝，至今依然清晰可辨的販售標籤，清楚地記錄了這段鮮為人知的塵封往事。",
+        "order": 2,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "y2clxyjxromp",
+                    "name": "300",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.0174,
+            "y": 0.0582
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "731f9bfeb050",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "瓷糖罐：這是一件帶蓋的白色陶瓷罐。罐身飽滿圓潤，外表以金色描繪細緻的花葉圖案，分布均勻。罐口上方有一道金色飾線。蓋子同樣以白底金紋呈現，中央有一個小巧的金色圓鈕作為握柄。整體造型端正，色調雅緻，以白底與金色線條形成亮麗的對比。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/czk3olxxvffo_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 600,
+                                "height": 450,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/czk3olxxvffo_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "1d9f80b52861",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/1d9f80b52861.mp3",
+                        "transcript": "金彩動人的法國賽佛爾瓷糖罐，底部同時存在款識和原始販售標籤，透露出整件作品繪製與流通的淵遠流長經過。款識標記中間互為交叉的雙「L」，意指十八世紀的法王路易十四或路易十五，而雙「L」中心出現的雙「f」，其實是出產時間的記號。透過此一記號對照賽佛爾瓷廠紀錄，可以追溯出這件作品產燒於1783 年。此一事實又能回頭說明款識中間的雙「L」代表路易十五。法國賽佛爾瓷廠最初只能生產軟瓷胎瓷器（soft-paste），一直到了1770 年代才總算掌握了生產硬瓷胎瓷器（hard-paste）的技術。在西方人眼中硬瓷代表足以和中國瓷器比美的高品質瓷器，出現在款識最上方的金彩皇冠即是硬瓷燒成的標記。最下方的「LF」，則是彩繪師 La France 名字字母的縮寫。這位技藝高超的畫師在1783 年的四、五月之間，曾經把相同的紋樣，裝飾到一系列茶壺、牛奶壺和杯碟等成套的作品上。由於十八世紀下半葉負責賽佛爾瓷廠的首相Henry Leonard Jean-Baptiste Bertin 對遙遠的中國充滿憧憬，為了向乾隆皇帝表達友好，他以18 livres 的價格買下這件瓷糖罐做為禮物，請人千里迢迢地帶到清宮送給乾隆皇帝，至今依然清晰可辨的販售標籤，清楚地記錄了這段鮮為人知的塵封往事。",
+                        "caption_url": null,
+                        "duration": 122358
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "4b8f06404206",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "0b42a96c254b",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/0b42a96c254b.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 33959
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "5738a5505f39",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

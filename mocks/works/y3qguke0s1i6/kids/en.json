@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "y3qguke0s1i6",
+        "exhibit_number": "611",
+        "name": "Memorial to the Throne Requesting Imperial Well-being and Reporting Audiences with Cao Yin, Superintendent of the Jiangning Imperial Weaving Office",
+        "description": "Dated July 29, 1704 (the 43rd year of the Kangxi reign, Qing dynasty)\nNational Palace Museum catalog no. 002712\nHeight: 20.5 cm; Width: 48.2 cm\n\nThe phrase “a family of poetry, ritual, and noble rank” refers to aristocratic households devoted to classical learning and Confucian etiquette across generations. Cao Xueqin, author of *Dream of the Red Chamber*, was born into such a distinguished literary family. His grandfather, Cao Yin, excelled in poetry and textual collations, and was commissioned to edit the *Imperially Commissioned Complete Tang Poems*. Beginning with Cao Yin’s grandfather, Cao Xi, the Cao family held—over three generations and four appointments—the prestigious post of Jiangning Imperial Weaving Superintendent. This position, entrusted only to those close to the emperor, was responsible for producing and procuring textiles and items required by the imperial household, including the silk robes for the *Dragon Canon*.\n\nThese unique life experiences profoundly shaped Cao Xueqin. The refined poetry, elegant musical compositions, and exquisite descriptions of objects found throughout *Dream of the Red Chamber* reflect the cultural richness and material sophistication inherited from his family background.",
+        "order": 1,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "06953b4mgzad",
+                    "name": "203",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.2392,
+            "y": -0.2321
+        },
+        "exhibition_uid": "21lsxrf1aznj",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "f41bce3216af",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Memorial to the Throne by Cao Yin, Superintendent of the Jiangning Imperial Weaving Office: A horizontal scroll composed mainly of written text. Black characters arranged vertically from right to left dominate the composition. A column of red ink text appears beside them, with a small red seal stamped at the far left. The layout is simple with generous blank space.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 3053,
+                                "height": 2290,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "d56fafb84550",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/d56fafb84550.mp3",
+                        "transcript": "Dated July 29, 1704 (the 43rd year of the Kangxi reign, Qing dynasty)\nNational Palace Museum catalog no. 002712\nHeight: 20.5 cm; Width: 48.2 cm\n\nThe phrase “a family of poetry, ritual, and noble rank” refers to aristocratic households devoted to classical learning and Confucian etiquette across generations. Cao Xueqin, author of *Dream of the Red Chamber*, was born into such a distinguished literary family. His grandfather, Cao Yin, excelled in poetry and textual collations, and was commissioned to edit the *Imperially Commissioned Complete Tang Poems*. Beginning with Cao Yin’s grandfather, Cao Xi, the Cao family held—over three generations and four appointments—the prestigious post of Jiangning Imperial Weaving Superintendent. This position, entrusted only to those close to the emperor, was responsible for producing and procuring textiles and items required by the imperial household, including the silk robes for the *Dragon Canon*.\n\nThese unique life experiences profoundly shaped Cao Xueqin. The refined poetry, elegant musical compositions, and exquisite descriptions of objects found throughout *Dream of the Red Chamber* reflect the cultural richness and material sophistication inherited from his family background.",
+                        "caption_url": null,
+                        "duration": 66900
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "f8fa07b3046c",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "da13a1a9dced",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/da13a1a9dced.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 41091
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "4a7faa2f3e79",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

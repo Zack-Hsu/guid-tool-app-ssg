@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "u1aa0k42shqh",
+        "exhibit_number": "504",
+        "name": "五代　越窯　秘色青瓷洗",
+        "description": "這件青瓷洗口緣外翻成一道折沿，斜弧壁深腹，平底，外底中心微微向內凹陷，底緣燒造留下的墊痕，清晰可見，墊痕周邊無釉處，露出灰色的胎骨。通體施罩青釉，釉色灰青，釉層薄而均勻，外壁局部出現淡色漬點。民國初年在諸多考古證據未發現前，此件作品被清室善後委員會負責點查的專家人員認為是汝窯作品，故在器內墨書寫上「汝窯撇口果洗一件」，從中或可略窺當年與今人陶瓷鑑賞觀念之差異。院藏本件越窯「秘色青瓷洗」，釉質細緻溫潤，器形端整大方與五代墓葬出土青瓷洗相似，因此或可視為是五代上層階級使用的佳器。",
+        "order": 4,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1319,
+            "y": -0.0709
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "c09ee3e38337",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "五代 越窯　秘色青瓷洗：這是一只淺口的陶瓷碗，外形呈寬而開放的圓形。碗口外緣略向外展開，邊緣圓滑。整體覆蓋淡淡的青綠色釉面，表面平整，帶有些微自然斑點。碗身由口沿向下逐漸收縮，底部較小。整體給人簡潔沉穩的感受。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/u1aa0k42shqh_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1501,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/u1aa0k42shqh_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "60bf6b265fb8",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/60bf6b265fb8.mp3",
+                        "transcript": "這件青瓷洗口緣外翻成一道折沿，斜弧壁深腹，平底，外底中心微微向內凹陷，底緣燒造留下的墊痕，清晰可見，墊痕周邊無釉處，露出灰色的胎骨。通體施罩青釉，釉色灰青，釉層薄而均勻，外壁局部出現淡色漬點。民國初年在諸多考古證據未發現前，此件作品被清室善後委員會負責點查的專家人員認為是汝窯作品，故在器內墨書寫上「汝窯撇口果洗一件」，從中或可略窺當年與今人陶瓷鑑賞觀念之差異。院藏本件越窯「秘色青瓷洗」，釉質細緻溫潤，器形端整大方與五代墓葬出土青瓷洗相似，因此或可視為是五代上層階級使用的佳器。",
+                        "caption_url": null,
+                        "duration": 69329
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "eaa72f1786a0",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "0c1d46bdd9ec",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/0c1d46bdd9ec.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 37799
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "27cf769f6266",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

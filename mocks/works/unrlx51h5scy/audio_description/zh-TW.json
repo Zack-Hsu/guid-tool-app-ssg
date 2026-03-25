@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "unrlx51h5scy",
+        "exhibit_number": "612",
+        "name": "紅樓夢圖詠",
+        "description": "清 改琦撰\n清 光緒五年（1879）刊圖繪本\n故觀003571—003574\n高22.5公分 寬15公分\n\n關於曹雪芹，有許多解不開的謎。曹家經抄滅敗亡，曹雪芹陷溺於悲痛之中返回北京，及至乾隆二十七年（1762）「壬午除夕，書未成，芹為淚盡而逝。」對於他「年未五旬而卒」短暫的一生，對於他未完成的《紅樓夢》，認識與理解往往是破碎且殘缺的，彷彿他的存在本身就是一個謎。《紅樓夢》未完，不減其迷人之處。或許也正因未完，而產生了許多的版本、點評乃至圖詠。",
+        "order": 2,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "06953b4mgzad",
+                    "name": "203",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1292,
+            "y": -0.2858
+        },
+        "exhibition_uid": "21lsxrf1aznj",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "8fe2f14b202b",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "紅樓夢圖詠：這是一幅書冊封面式的作品。畫面中央偏左是一幅細筆線描圖，描繪兩名身著古代服飾的人物站立在一塊大石旁，姿態端靜。右側是一條直立的標籤欄，背景為淺色，四角帶有黑色三角形裝飾。欄內以黑字書寫書名和卷次，排列自上而下。整體布局左為人物插畫，右為題簽，構圖清楚分明。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 3053,
+                                "height": 2290,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "dc2accd6633b",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/dc2accd6633b.mp3",
+                        "transcript": "清 改琦撰\n清 光緒五年（1879）刊圖繪本\n故觀003571—003574\n高22.5公分 寬15公分\n\n關於曹雪芹，有許多解不開的謎。曹家經抄滅敗亡，曹雪芹陷溺於悲痛之中返回北京，及至乾隆二十七年（1762）「壬午除夕，書未成，芹為淚盡而逝。」對於他「年未五旬而卒」短暫的一生，對於他未完成的《紅樓夢》，認識與理解往往是破碎且殘缺的，彷彿他的存在本身就是一個謎。《紅樓夢》未完，不減其迷人之處。或許也正因未完，而產生了許多的版本、點評乃至圖詠。",
+                        "caption_url": null,
+                        "duration": 70217
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "d630a2e60cb0",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "16cbbcf3579c",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/16cbbcf3579c.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 38217
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "870cf486c883",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

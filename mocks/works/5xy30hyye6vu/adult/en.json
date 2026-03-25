@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "5xy30hyye6vu",
+        "exhibit_number": "720",
+        "name": "Gilt-Mounted Agate Snuffbox | Europe, 18th Century",
+        "description": "This rectangular snuffbox opens from the top, revealing a compartment for powdered tobacco. Both the lid and the box are framed with gilt scrolling acanthus designs, within which slices of moss agate are set like miniature picture panels. At the hinge, silver mounts blossom into tiny leaves set with diamonds, rubies, and emeralds, adding a sparkling flourish to the opening gesture.\n\nThe underside is similarly framed with gilt decoration and inset with two agate plaques, each concealing an intimate erotic scene—a hidden luxury common in refined snuffboxes of the period. Comparable to another piece in the Museum attributed to James Cox, this box reflects the exquisite craftsmanship of late eighteenth-century England, where mechanical ingenuity and ornamental artistry often met in objects meant to be held, admired, and treasured.",
+        "order": 5,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "viskg39sf8ko",
+                    "name": "301",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1315,
+            "y": -0.0742
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "44b9dee9fdf3",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "A small rectangular snuffbox framed in gilt metal. Each side and the lid are inset with translucent agate panels featuring soft cloud-like patterns and silhouettes. Delicate gold scrollwork surrounds each stone panel, and the front edge is embellished with a row of small jewels. The box appears symmetrical, refined, and luxurious in detail.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 600,
+                                "height": 450,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "7a348d7c4a36",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7a348d7c4a36.mp3",
+                        "transcript": "This rectangular snuffbox opens from the top, revealing a compartment for powdered tobacco. Both the lid and the box are framed with gilt scrolling acanthus designs, within which slices of moss agate are set like miniature picture panels. At the hinge, silver mounts blossom into tiny leaves set with diamonds, rubies, and emeralds, adding a sparkling flourish to the opening gesture.\n\nThe underside is similarly framed with gilt decoration and inset with two agate plaques, each concealing an intimate erotic scene—a hidden luxury common in refined snuffboxes of the period. Comparable to another piece in the Museum attributed to James Cox, this box reflects the exquisite craftsmanship of late eighteenth-century England, where mechanical ingenuity and ornamental artistry often met in objects meant to be held, admired, and treasured.",
+                        "caption_url": null,
+                        "duration": 36572
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "283c32bee592",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "b4d4d79776c4",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/b4d4d79776c4.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 36650
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "c53241ef3411",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

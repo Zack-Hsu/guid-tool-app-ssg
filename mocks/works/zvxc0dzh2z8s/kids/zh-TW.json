@@ -1,0 +1,148 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "zvxc0dzh2z8s",
+        "exhibit_number": "502",
+        "name": "唐　灰陶加彩仕女俑",
+        "description": "唐代陪葬的俑類明器中，除了人人朗朗上口的「唐三彩」之外，還有延續時間更長，數量也更多的各式加彩俑。這些彩繪陶俑大多以紅陶或灰陶土為胎，合模翻制後，經過精心修飾，入窯燒造，再加飾彩繪。以本件仕女俑來說，就是以燒成的灰陶為底，敷上白色化妝土，化妝土之上，再以紅、綠、黑等各色顏料彩繪其上而成。只可惜傳世至今原來鮮亮的的彩繪絕大多數都已脫落，不復製成時的亮麗面貌。 本院典藏有兩件唐代灰陶加彩仕女俑（另一件為贈瓷000550），皆為八世紀長安地區作品，由此可見時人生活的一個側面。八世紀中期的長安貴族女子，面頰豐潤飽滿，秀髮左右雙鬢如蟬翼向外擴展，體態豐腴厚實，身著開領襦裙，雙腳於曳地長裙之上，斜斜露出花履尖頭。襦裙雖然寬大，但由袖子部分衣摺的垂墜，以及雙足之間裙擺的聚攏，仍可於曲線流動間感覺出裙袍之下肢體的渾圓厚實，充分展現了盛唐氣象之下女子的雍容大度與自信神彩。",
+        "order": 2,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1277,
+            "y": -0.0704
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "d5125c241eed",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "唐 灰陶加彩仕女俑：這是一尊立姿的陶塑女性像。她身體筆直站立，雙臂自然下垂，一手微微抬起，袖口垂落形成柔和的弧線。人物穿著長袍，衣褶從肩部一路垂直向下。臉部圓潤，五官刻畫簡潔，表情平和。頭頂梳著高高的髮髻，造型對稱。整體呈現淡雅、略帶磨損的土色質感。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2290,
+                                "height": 3053,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "8183fb58b9b0",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "唐 灰陶加彩仕女俑",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2290,
+                                "height": 3053,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "99c9ef8da2ea",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "唐 灰陶加彩仕女俑",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_03.jpg",
+                        "media_sources": [
+                            {
+                                "width": 800,
+                                "height": 533,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_03.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "1327a188c6f5",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/1327a188c6f5.mp3",
+                        "transcript": "唐代陪葬的俑類明器中，除了人人朗朗上口的「唐三彩」之外，還有延續時間更長，數量也更多的各式加彩俑。這些彩繪陶俑大多以紅陶或灰陶土為胎，合模翻制後，經過精心修飾，入窯燒造，再加飾彩繪。以本件仕女俑來說，就是以燒成的灰陶為底，敷上白色化妝土，化妝土之上，再以紅、綠、黑等各色顏料彩繪其上而成。只可惜傳世至今原來鮮亮的的彩繪絕大多數都已脫落，不復製成時的亮麗面貌。 本院典藏有兩件唐代灰陶加彩仕女俑（另一件為贈瓷000550），皆為八世紀長安地區作品，由此可見時人生活的一個側面。八世紀中期的長安貴族女子，面頰豐潤飽滿，秀髮左右雙鬢如蟬翼向外擴展，體態豐腴厚實，身著開領襦裙，雙腳於曳地長裙之上，斜斜露出花履尖頭。襦裙雖然寬大，但由袖子部分衣摺的垂墜，以及雙足之間裙擺的聚攏，仍可於曲線流動間感覺出裙袍之下肢體的渾圓厚實，充分展現了盛唐氣象之下女子的雍容大度與自信神彩。",
+                        "caption_url": null,
+                        "duration": 101564
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "4e4f7aa7c07b",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "7d02223d031d",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/7d02223d031d.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 39341
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "365c709a89cb",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

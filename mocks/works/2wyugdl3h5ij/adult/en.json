@@ -1,0 +1,148 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "2wyugdl3h5ij",
+        "exhibit_number": "507",
+        "name": "Southern Song — Guan Ware Celadon Zun with String-Pattern Decoration",
+        "description": "This vessel features a cylindrical body with straight sides, an inner rim forming a raised lip, deep vertical walls, and three beast-shaped feet left unglazed on the underside. The form is stately and balanced, with a rich bluish-green glaze characteristic of Guan ware. The dense network of crackles appears in layered patterns, while the shape itself derives from earlier Northern Song forms seen in Ru and Ding ware zun vessels with string-pattern bands. The broad and flat base bears twelve large spur marks revealing the dark gray clay body beneath. The exterior wall is decorated with three tiers of string patterns, each composed of three horizontal raised lines. The entire piece is coated in a thick, lustrous pale blue glaze. Where the glaze pools and thins around the ridges, the string-pattern relief appears slightly darkened in brownish tones. Along the rim, the thinner glaze reveals subtle reddish-brown hues. The surface is covered in intricate, ice-crackle patterns. Similar fragments have been unearthed at the Jiaotanxia and Laohudong Guan kiln sites in Hangzhou, Zhejiang.",
+        "order": 7,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1282,
+            "y": -0.1018
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "2c4c3e5d0364",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Southern Song — Guan Ware Celadon Zun with String-Pattern Decoration: A circular vessel shown upside down. The pale celadon glaze displays dense crackle patterns. Multiple pronounced spur marks appear across the base, in dark brown tones. Three short supporting feet of matching glaze emerge around the edge, giving the object a stable, disc-like appearance.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2003,
+                                "height": 1502,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "a55d0ced4de5",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Southern Song — Guan Ware Celadon Zun with String-Pattern Decoration",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2003,
+                                "height": 1502,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "0a872f5e851e",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Southern Song — Guan Ware Celadon Zun with String-Pattern Decoration",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_03.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1505,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_03.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "edf0cf1b05d1",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/edf0cf1b05d1.mp3",
+                        "transcript": "This vessel features a cylindrical body with straight sides, an inner rim forming a raised lip, deep vertical walls, and three beast-shaped feet left unglazed on the underside. The form is stately and balanced, with a rich bluish-green glaze characteristic of Guan ware. The dense network of crackles appears in layered patterns, while the shape itself derives from earlier Northern Song forms seen in Ru and Ding ware zun vessels with string-pattern bands. The broad and flat base bears twelve large spur marks revealing the dark gray clay body beneath. The exterior wall is decorated with three tiers of string patterns, each composed of three horizontal raised lines. The entire piece is coated in a thick, lustrous pale blue glaze. Where the glaze pools and thins around the ridges, the string-pattern relief appears slightly darkened in brownish tones. Along the rim, the thinner glaze reveals subtle reddish-brown hues. The surface is covered in intricate, ice-crackle patterns. Similar fragments have been unearthed at the Jiaotanxia and Laohudong Guan kiln sites in Hangzhou, Zhejiang.",
+                        "caption_url": null,
+                        "duration": 64732
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "558652b1cfac",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "39106da430a9",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/39106da430a9.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 36336
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "f319797015bd",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

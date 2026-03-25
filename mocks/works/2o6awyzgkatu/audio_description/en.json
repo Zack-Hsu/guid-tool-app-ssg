@@ -1,0 +1,128 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "2o6awyzgkatu",
+        "exhibit_number": "510",
+        "name": "Southern Song Dynasty — Longquan Celadon Vase with Phoenix Handles",
+        "description": "This celadon vase features a straight body, long neck, and dish-shaped mouth. Phoenix-shaped handles are applied to both sides of the neck, giving the piece an elegant and dignified silhouette. It is one of the representative works of the Longquan kilns during the Southern Song dynasty. Located in southern Zhejiang, Longquan was a vast ceramic-production region known for its diverse output. After the Southern Song period, it became a major supplier of ceramics both domestically and internationally, with its wares frequently discovered in Song and Yuan tombs, hoards, and archaeological sites along overseas trade routes. The long-necked, dish-lipped vase type was first produced by the Northern Song Ru kilns and later adopted by Southern Song official kilns, becoming a favored form among imperial ceramics. Longquan potters then introduced variations by adding fish- or phoenix-shaped handles. On this vase, the phoenix handles are crisply molded, with clearly defined heads and feathers. The glaze is a luminous powder-green celadon, smooth, even, and free of flaws. It closely resembles the celebrated Longquan phoenix-ear vases preserved in Japan, inscribed by imperial decree with the names “Senshō” and “Banshō,” and ranks among the finest examples of Longquan ware.",
+        "order": 10,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1287,
+            "y": -0.0713
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": true,
+        "medias": [
+            {
+                "id": "dc85bc19fcc5",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Southern Song Dynasty Longquan Celadon Phoenix-Ear Vase: A pale green celadon vase with a straight, symmetrical form. The cylindrical lower body transitions into a long neck and wide flat mouth. Decorative phoenix-shaped handles appear on both sides. The glaze is smooth and evenly applied.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "6f4149791ac5",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Southern Song Dynasty Longquan Celadon Phoenix-Ear Vase",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "9aa2e67c120d",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/9aa2e67c120d.mp3",
+                        "transcript": "This celadon vase features a straight body, long neck, and dish-shaped mouth. Phoenix-shaped handles are applied to both sides of the neck, giving the piece an elegant and dignified silhouette. It is one of the representative works of the Longquan kilns during the Southern Song dynasty. Located in southern Zhejiang, Longquan was a vast ceramic-production region known for its diverse output. After the Southern Song period, it became a major supplier of ceramics both domestically and internationally, with its wares frequently discovered in Song and Yuan tombs, hoards, and archaeological sites along overseas trade routes. The long-necked, dish-lipped vase type was first produced by the Northern Song Ru kilns and later adopted by Southern Song official kilns, becoming a favored form among imperial ceramics. Longquan potters then introduced variations by adding fish- or phoenix-shaped handles. On this vase, the phoenix handles are crisply molded, with clearly defined heads and feathers. The glaze is a luminous powder-green celadon, smooth, even, and free of flaws. It closely resembles the celebrated Longquan phoenix-ear vases preserved in Japan, inscribed by imperial decree with the names “Senshō” and “Banshō,” and ranks among the finest examples of Longquan ware.",
+                        "caption_url": null,
+                        "duration": 86178
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "e56ec971d53a",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "050d0b2bed9d",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 30041
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "8aece7d49cae",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

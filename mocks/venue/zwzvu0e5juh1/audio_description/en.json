@@ -1,0 +1,128 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "zwzvu0e5juh1",
+        "name": "National Palace Museum",
+        "title": "Welcome to the Audio Guide\nof Exhibition Hall 1 at the National Palace Museum",
+        "sub_title": "Here, you can explore multiple guided routes or freely discover the exhibits!",
+        "img_key_vision": {
+            "id": "77kg918gblfd",
+            "name": "Key Visual",
+            "type": "photo",
+            "value": "https://media.artogo.tw/test/npm_package_data/images/npm.jpeg",
+            "alt_text": "Exterior view of the National Palace Museum building",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/npm.jpeg",
+                    "media_sources": [
+                        {
+                            "width": 1024,
+                            "height": 683,
+                            "format": "original",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/npm.jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "overview": [
+            {
+                "id": "0yglrjhxlun7",
+                "type": "content",
+                "layout": "venue_info",
+                "title": "Introduction",
+                "content": "Upon formally entering the gallery, you will see the exhibition overview and floor plan on the right-hand side. The exhibition “Leading the Industry: ITRI’s Insights and Innovations” showcases the technological assets preserved by ITRI, illustrating how the institute has acted as a pioneer in advancing and shaping Taiwan’s industrial development. The exhibition is divided into 11 sections. In the floor plan, sections labeled with letters A, B, C, and D primarily use multimedia displays to present ITRI’s origins, major industrial milestones, and organizational culture. Sections numbered 1 to 7 focus on artifacts collected by ITRI, corresponding to seven major industries: semiconductors, ICT, materials and chemicals, vehicles, precision machinery, biomedical technology, and sustainability. Through these objects, visitors can understand ITRI’s industrial impact.",
+                "media_files": []
+            },
+            {
+                "id": "7cfriki6d10h",
+                "type": "content",
+                "layout": "venue_info",
+                "title": "Collection Categories",
+                "content": "The museum shops sell books published by the National Palace Museum, replicas of cultural artifacts, and exquisite cultural and creative merchandise. Several museum shops are located inside the main building, including on B1 and the 2nd floor, providing convenient access for visitors. Tax refund services are available for international visitors.",
+                "media_files": [
+                    {
+                        "id": "2ik9uvbdvxs7",
+                        "name": "gallery_space_a",
+                        "type": "photo",
+                        "url": "https://media.artogo.tw/test/npm_package_data/images/venue-info_01.jpg",
+                        "alt_text": "Exhibit 1"
+                    },
+                    {
+                        "id": "39f8hmv46eo4",
+                        "name": "gallery_space_b",
+                        "type": "photo",
+                        "url": "https://media.artogo.tw/test/npm_package_data/images/venue-info_02.jpg",
+                        "alt_text": "Exhibit 2"
+                    },
+                    {
+                        "id": "i823eiehn25l",
+                        "name": "gallery_space_c",
+                        "type": "photo",
+                        "url": "https://media.artogo.tw/test/npm_package_data/images/venue-info_03.jpg",
+                        "alt_text": "Exhibit 3"
+                    }
+                ]
+            }
+        ],
+        "contact_info": "Tel: (02) 2881-2021",
+        "opening_hours": {
+            "id": "cc109fea220d",
+            "extra_description": "In coordination with the exhibition “From Impressionism to Modernism: Masterpieces from The Metropolitan Museum of Art, New York” (2025-6-14~10-12), the museum will open on Mondays; starting from 10/13, normal Monday closure resumes.\nSpecial Monday opening dates in 2025: 1/27, 2/24, 3/3, 3/17, 4/7, 5/5, 5/19, 6/16, 6/23, 6/30, 7/7, 7/14, 7/21, 7/28, 8/4, 8/11, 8/18, 8/25, 9/1, 9/8, 9/15, 9/22, 9/29, 10/6, 10/20, 11/17, 12/1, 12/29.",
+            "open_hour_items": [
+                {
+                    "day_range": "Monday to Sunday",
+                    "time_range": "09:00–17:00",
+                    "note": [
+                        "(Ticket sales and ticket redemption end at 16:30)"
+                    ]
+                }
+            ]
+        },
+        "ticket_info": [
+            {
+                "id": "5atgrb9vd398",
+                "price": "NT$350",
+                "ticket_type": "General Admission (Foreign Visitors)",
+                "note": []
+            },
+            {
+                "id": "uou8vluvoi1k",
+                "price": "NT$320",
+                "ticket_type": "Group Ticket (Foreign Visitors)",
+                "note": [
+                    "Groups of 10 or more (Group ticket NT$320 per person; additional NT$30 audio guide system rental fee applies)",
+                    "Purchasers of group tickets must use the group audio guide system according to regulations"
+                ]
+            },
+            {
+                "id": "fa9oqx3busro",
+                "price": "NT$150",
+                "ticket_type": "Discounted Admission (Domestic Visitors)",
+                "note": [
+                    "Domestic visitors with ID (valid for groups as well), and holders of the ROC Permanent Resident Certificate",
+                    "Holders of an International Student Identity Card (ISIC)",
+                    "Individual and group discounted ticket prices are the same; for groups of 10 or more, an additional NT$30 group audio guide system rental fee applies"
+                ]
+            },
+            {
+                "id": "qhly0ia8e8p5",
+                "price": "Free",
+                "ticket_type": "Free Admission",
+                "note": [
+                    "Visitors under 18 years old (all nationalities).",
+                    "Visitors with disabilities and one accompanying person (all nationalities).",
+                    "Seniors aged 65 or above and low-income individuals (with documentation) free admission (Taiwan nationals).",
+                    "Students of Taiwan (with a valid student ID from a MOE-accredited school).",
+                    "Members of AAM (American Alliance of Museums) or ICOM (International Council of Museums).",
+                    "Members of the Museum Association of the Republic of China.",
+                    "Volunteers with a valid ROC Volunteer Honor Card."
+                ]
+            }
+        ]
+    }
+}

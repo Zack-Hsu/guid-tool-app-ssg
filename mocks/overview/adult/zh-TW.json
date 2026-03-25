@@ -1,0 +1,430 @@
+{
+    "venue": {
+        "name": "故宮博物院",
+        "title": "歡迎使用\n故宮第一展覽館語音導覽",
+        "sub_title": "在這裡，你可以體驗到多條動線導覽或者自由探索展品！",
+        "img_key_vision": {
+            "id": "h4ma2icajpyz",
+            "name": "主視覺",
+            "type": "photo",
+            "alt_text": "國立故宮博物院建築物外觀",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/npm.jpeg",
+                    "media_sources": [
+                        {
+                            "width": 1024,
+                            "height": 683,
+                            "format": "original",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/npm.jpeg"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "exhibitions": [
+        {
+            "uid": "cdoirk5wxrn9",
+            "name": "摶泥幻化—院藏陶瓷精華展",
+            "img_key_vision": {
+                "id": "3eojte26ta53",
+                "name": "exhibition_kv",
+                "type": "photo",
+                "alt_text": "摶泥幻化—院藏陶瓷精華展主視覺圖片",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg",
+                        "media_sources": [
+                            {
+                                "width": 1920,
+                                "height": 870,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venue_locations": [
+                {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        },
+                        {
+                            "uid": "ilajxhwztl86",
+                            "name": "205",
+                            "area_color": "#FFDD55"
+                        },
+                        {
+                            "uid": "2x5uxgoagswe",
+                            "name": "207",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                {
+                    "uid": "2buppawyud8v",
+                    "name": "1F",
+                    "spaces": [
+                        {
+                            "uid": "8fgmmk6t0hyd",
+                            "name": "105",
+                            "area_color": "#FFDD55"
+                        },
+                        {
+                            "uid": "4i4f75xy2qm5",
+                            "name": "107",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uid": "pngs3217o4ei",
+            "name": "甲子萬年：國立故宮博物院百年院慶特展",
+            "img_key_vision": {
+                "id": "mta2v4wllsw8",
+                "name": "exhibition_kv",
+                "type": "photo",
+                "alt_text": "甲子萬年：國立故宮博物院百年院慶特展主視覺圖片",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/pngs3217o4ei_kv.jpg",
+                        "media_sources": [
+                            {
+                                "width": 4000,
+                                "height": 1812,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/pngs3217o4ei_kv.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venue_locations": [
+                {
+                    "uid": "2buppawyud8v",
+                    "name": "1F",
+                    "spaces": [
+                        {
+                            "uid": "8fgmmk6t0hyd",
+                            "name": "105",
+                            "area_color": "#FFDD55"
+                        },
+                        {
+                            "uid": "4i4f75xy2qm5",
+                            "name": "107",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uid": "21lsxrf1aznj",
+            "name": "看得見的紅樓夢",
+            "img_key_vision": {
+                "id": "pvdzggzydh1y",
+                "name": "exhibition_kv",
+                "type": "photo",
+                "alt_text": "看得見的紅樓夢主視覺圖片",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/21lsxrf1aznj_kv.jpg",
+                        "media_sources": [
+                            {
+                                "width": 1920,
+                                "height": 870,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/21lsxrf1aznj_kv.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venue_locations": [
+                {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uid": "9sukyibvka40",
+            "name": "華麗魔法屋─故宮的洛可可珍藏",
+            "img_key_vision": {
+                "id": "vj6tsb9voqq5",
+                "name": "exhibition_kv",
+                "type": "photo",
+                "alt_text": "華麗魔法屋─故宮的洛可可珍藏主視覺圖片",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg",
+                        "media_sources": [
+                            {
+                                "width": 1280,
+                                "height": 720,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venue_locations": [
+                {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        },
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "themes": [
+        {
+            "uid": "337io8e4t2ax",
+            "name": "經典巡禮-精華導覽",
+            "img_key_vision": {
+                "id": "ba2c081fbc07",
+                "name": "exhibition_kv",
+                "type": "photo",
+                "alt_text": "經典巡禮-精華導覽",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/337io8e4t2ax_kv.png",
+                        "media_sources": [
+                            {
+                                "width": 2752,
+                                "height": 1536,
+                                "format": "png",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/337io8e4t2ax_kv.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "duration_sec": 3600,
+            "num_works": 0,
+            "target_audience": "adult_student"
+        },
+        {
+            "uid": "d0w6xe0v3rso",
+            "name": "經典巡禮-深度導覽",
+            "img_key_vision": {
+                "id": "10fc49416209",
+                "name": "exhibition_kv",
+                "type": "photo",
+                "alt_text": "經典巡禮-深度導覽",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/d0w6xe0v3rso_kv.png",
+                        "media_sources": [
+                            {
+                                "width": 2752,
+                                "height": 1536,
+                                "format": "png",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/d0w6xe0v3rso_kv.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "duration_sec": 6000,
+            "num_works": 0,
+            "target_audience": "adult_student"
+        },
+        {
+            "uid": "46j3udxxxfto",
+            "name": "皇帝的玩具箱",
+            "img_key_vision": {
+                "id": "2d571cc3d217",
+                "name": "exhibition_kv",
+                "type": "photo",
+                "alt_text": "皇帝的玩具箱",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/46j3udxxxfto_kv.png",
+                        "media_sources": [
+                            {
+                                "width": 2752,
+                                "height": 1536,
+                                "format": "png",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/46j3udxxxfto_kv.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "duration_sec": 1800,
+            "num_works": 0,
+            "target_audience": "adult_student"
+        },
+        {
+            "uid": "qznbhsko6vqh",
+            "name": "尋寶趣",
+            "img_key_vision": {
+                "id": "8a9ca4fcc3b6",
+                "name": "exhibition_kv",
+                "type": "photo",
+                "alt_text": "尋寶趣",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/qznbhsko6vqh_kv.png",
+                        "media_sources": [
+                            {
+                                "width": 2752,
+                                "height": 1536,
+                                "format": "png",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/qznbhsko6vqh_kv.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "duration_sec": 4800,
+            "num_works": 0,
+            "target_audience": "kids_family"
+        }
+    ],
+    "works": [
+        {
+            "uid": "vsv5r2kehmn0",
+            "name": "唐　三彩馬球仕女俑",
+            "img_key_vision": {
+                "id": "5f7fd08399c9",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "唐 三彩馬球仕女俑：畫面是一件陶塑雕像，呈現一名騎乘在馬背上的人物。整體造型比例端正，色彩以黃色、綠色和褐色為主。馬身站立筆直，四腿分開支撐，頭微低。騎者坐在馬背中央，身形纖細，頭戴高束的髮髻，雙手放在身前似握著韁繩。人物與馬匹的表面都有釉色流動的光澤，展現平穩靜止的姿態。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2244,
+                                "height": 2992,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venue_location": {
+                "uid": "r5rl5xpwb35k",
+                "name": "2F",
+                "spaces": [
+                    {
+                        "uid": "um1n8c94iy53",
+                        "name": "201",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            }
+        },
+        {
+            "uid": "112o46mlffpc",
+            "name": "南宋　官窯　青瓷貫耳壺",
+            "img_key_vision": {
+                "id": "df9c2570906e",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "南宋　官窯　青瓷貫耳壺：這是一件淡青色釉面的陶瓷瓶，瓶身略呈球形，上方接出較窄的頸部與外張的口沿。器表覆蓋細密的開片紋。瓶身兩側各附有一個短而外突的管狀把手，位置對稱。底部略微外擴，形成穩固的圓形底座。整體造型對稱、簡潔。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 300,
+                                "height": 400,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venue_location": {
+                "uid": "r5rl5xpwb35k",
+                "name": "2F",
+                "spaces": [
+                    {
+                        "uid": "um1n8c94iy53",
+                        "name": "201",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            }
+        },
+        {
+            "uid": "2o6awyzgkatu",
+            "name": "南宋　龍泉窯　青瓷鳳耳瓶",
+            "img_key_vision": {
+                "id": "dc85bc19fcc5",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "南宋 龍泉窯　青瓷鳳耳瓶：這是一件淡青色釉面的陶瓷瓶，造型筆直對稱。瓶身下半部呈圓柱狀，上方收束成短頸，並外展成寬而平的瓶口。頸部兩側各附有一個裝飾性的柄，形狀如彎曲的動物或雲紋線條，呈鏤空的對稱造型。整體表面光滑，釉色均勻。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "venue_location": {
+                "uid": "r5rl5xpwb35k",
+                "name": "2F",
+                "spaces": [
+                    {
+                        "uid": "um1n8c94iy53",
+                        "name": "201",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            }
+        }
+    ]
+}

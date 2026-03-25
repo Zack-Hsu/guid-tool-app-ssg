@@ -1,0 +1,1621 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "cdoirk5wxrn9",
+        "name": "摶泥幻化—院藏陶瓷精華展",
+        "start_date": "2025-01-01T00:00:00.000Z",
+        "end_date": "2025-12-31T23:59:59.000Z",
+        "description": "陶瓷就像一種會變身的魔法！\n一開始，它只是揉起來軟軟的泥巴，\n經過「搓一搓、拉一拉、上顏色、畫花紋」，\n最後進到超級熱的魔法窯烤箱裡，\n就變成又硬又漂亮的陶瓷寶物啦！\n\n每一件陶瓷都有自己的故事：\n有人負責做泥巴、有人設計形狀、有人畫上色彩，\n還有皇帝和使用它的人，都一起讓陶瓷變得特別。\n\n陶瓷最神奇的地方是——\n它們不只能告訴我們很久以前發生的事情，\n還偷偷記錄了不同文化、不同地方\n是怎麼互相認識、互相影響的。\n\n陶瓷就像穿越時空的小小信使，\n把古老的故事一路帶到我們面前！",
+        "img_key_vision": {
+            "id": "3eojte26ta53",
+            "name": "exhibition_kv",
+            "type": "photo",
+            "alt_text": "摶泥幻化—院藏陶瓷精華展主視覺圖片",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg",
+                    "media_sources": [
+                        {
+                            "width": 1920,
+                            "height": 870,
+                            "format": "jpeg",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "medias": [
+            {
+                "id": "e4f4dbfefbee",
+                "name": "相關影片",
+                "type": "youtube",
+                "alt_text": "相關影片",
+                "info": [
+                    {
+                        "type": "youtube",
+                        "value": "https://youtu.be/g3LaH_v1PRw?si=ohyXejJNvafZAL_y",
+                        "media_sources": []
+                    }
+                ]
+            }
+        ],
+        "venue_locations": [
+            {
+                "uid": "r5rl5xpwb35k",
+                "name": "2F",
+                "spaces": [
+                    {
+                        "uid": "um1n8c94iy53",
+                        "name": "201",
+                        "area_color": "#FFDD55"
+                    },
+                    {
+                        "uid": "ilajxhwztl86",
+                        "name": "205",
+                        "area_color": "#FFDD55"
+                    },
+                    {
+                        "uid": "2x5uxgoagswe",
+                        "name": "207",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            },
+            {
+                "uid": "2buppawyud8v",
+                "name": "1F",
+                "spaces": [
+                    {
+                        "uid": "8fgmmk6t0hyd",
+                        "name": "105",
+                        "area_color": "#FFDD55"
+                    },
+                    {
+                        "uid": "4i4f75xy2qm5",
+                        "name": "107",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            }
+        ],
+        "categories": [
+            {
+                "uid": "4q1maofs61mp",
+                "name": "摶泥幻化"
+            },
+            {
+                "uid": "spw8cb6azox0",
+                "name": "陶瓷精華"
+            }
+        ],
+        "work_binding": [
+            {
+                "uid": "vsv5r2kehmn0",
+                "name": "唐　三彩馬球仕女俑",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "大雅可觀"
+                }
+            },
+            {
+                "uid": "zvxc0dzh2z8s",
+                "name": "唐　灰陶加彩仕女俑",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "大雅可觀"
+                }
+            },
+            {
+                "uid": "kkif0v0692c3",
+                "name": "唐　邢窯　白瓷穿帶壺",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "大雅可觀"
+                }
+            },
+            {
+                "uid": "u1aa0k42shqh",
+                "name": "五代　越窯　秘色青瓷洗",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "大雅可觀"
+                }
+            },
+            {
+                "uid": "keduinnnj85j",
+                "name": "北宋　定窯　白瓷嬰兒枕",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "大雅可觀"
+                }
+            },
+            {
+                "uid": "u9q1z9zhax8a",
+                "name": "北宋　定窯　白瓷劃花蓮紋梅瓶",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "大雅可觀"
+                }
+            },
+            {
+                "uid": "2wyugdl3h5ij",
+                "name": "南宋　官窯　青瓷弦紋樽",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "大雅可觀"
+                }
+            },
+            {
+                "uid": "112o46mlffpc",
+                "name": "南宋　官窯　青瓷貫耳壺",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "大雅可觀"
+                }
+            },
+            {
+                "uid": "1ozevenhi0ma",
+                "name": "宋　建窯　黑釉兔毫盞",
+                "category": {
+                    "uid": "spw8cb6azox0",
+                    "name": "異物奇貨"
+                }
+            },
+            {
+                "uid": "2o6awyzgkatu",
+                "name": "南宋　龍泉窯　青瓷鳳耳瓶",
+                "category": {
+                    "uid": "spw8cb6azox0",
+                    "name": "異物奇貨"
+                }
+            },
+            {
+                "uid": "e2bkzvk26ic2",
+                "name": "元　霽青單把杯盤",
+                "category": {
+                    "uid": "spw8cb6azox0",
+                    "name": "異物奇貨"
+                }
+            },
+            {
+                "uid": "ozy68rnni7yh",
+                "name": "元　鈞窯　天藍釉紫斑盂",
+                "category": {
+                    "uid": "spw8cb6azox0",
+                    "name": "異物奇貨"
+                }
+            }
+        ],
+        "works": [
+            {
+                "uid": "vsv5r2kehmn0",
+                "exhibit_number": "501",
+                "name": "唐　三彩馬球仕女俑",
+                "description": "唐代婦女以健康為美，因此喜愛穿著翻領窄袖軟靴的胡衫，裝束輕便地從事多種馬上活動。波斯的馬球很受唐代上層社會的歡迎，墓葬中也常出土各種彩繪陶或三彩的打馬球俑。此件作品為正在打馬球的時髦仕女。女子側轉身、頭微前傾，左手近馬首如勒韁繩，右手屈起作握桿擊球狀。胸前留有鮮豔的紅色，是貴重的色料。",
+                "order": 1,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1311,
+                    "y": -0.0539
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": true,
+                "medias": [
+                    {
+                        "id": "5f7fd08399c9",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "唐 三彩馬球仕女俑：畫面是一件陶塑雕像，呈現一名騎乘在馬背上的人物。整體造型比例端正，色彩以黃色、綠色和褐色為主。馬身站立筆直，四腿分開支撐，頭微低。騎者坐在馬背中央，身形纖細，頭戴高束的髮髻，雙手放在身前似握著韁繩。人物與馬匹的表面都有釉色流動的光澤，展現平穩靜止的姿態。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2244,
+                                        "height": 2992,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "3c3cd908a601",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/3c3cd908a601.mp3",
+                                "transcript": "唐代婦女以健康為美，因此喜愛穿著翻領窄袖軟靴的胡衫，裝束輕便地從事多種馬上活動。波斯的馬球很受唐代上層社會的歡迎，墓葬中也常出土各種彩繪陶或三彩的打馬球俑。此件作品為正在打馬球的時髦仕女。女子側轉身、頭微前傾，左手近馬首如勒韁繩，右手屈起作握桿擊球狀。胸前留有鮮豔的紅色，是貴重的色料。",
+                                "caption_url": null,
+                                "duration": 39132
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "2a6983b2733a",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "592693246707",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/592693246707.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 40647
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "21aca35d2a6e",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "zvxc0dzh2z8s",
+                "exhibit_number": "502",
+                "name": "唐　灰陶加彩仕女俑",
+                "description": "唐代陪葬的俑類明器中，除了人人朗朗上口的「唐三彩」之外，還有延續時間更長，數量也更多的各式加彩俑。這些彩繪陶俑大多以紅陶或灰陶土為胎，合模翻制後，經過精心修飾，入窯燒造，再加飾彩繪。以本件仕女俑來說，就是以燒成的灰陶為底，敷上白色化妝土，化妝土之上，再以紅、綠、黑等各色顏料彩繪其上而成。只可惜傳世至今原來鮮亮的的彩繪絕大多數都已脫落，不復製成時的亮麗面貌。 本院典藏有兩件唐代灰陶加彩仕女俑（另一件為贈瓷000550），皆為八世紀長安地區作品，由此可見時人生活的一個側面。八世紀中期的長安貴族女子，面頰豐潤飽滿，秀髮左右雙鬢如蟬翼向外擴展，體態豐腴厚實，身著開領襦裙，雙腳於曳地長裙之上，斜斜露出花履尖頭。襦裙雖然寬大，但由袖子部分衣摺的垂墜，以及雙足之間裙擺的聚攏，仍可於曲線流動間感覺出裙袍之下肢體的渾圓厚實，充分展現了盛唐氣象之下女子的雍容大度與自信神彩。",
+                "order": 2,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1277,
+                    "y": -0.0704
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "d5125c241eed",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "唐 灰陶加彩仕女俑：這是一尊立姿的陶塑女性像。她身體筆直站立，雙臂自然下垂，一手微微抬起，袖口垂落形成柔和的弧線。人物穿著長袍，衣褶從肩部一路垂直向下。臉部圓潤，五官刻畫簡潔，表情平和。頭頂梳著高高的髮髻，造型對稱。整體呈現淡雅、略帶磨損的土色質感。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2290,
+                                        "height": 3053,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8183fb58b9b0",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "唐 灰陶加彩仕女俑",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2290,
+                                        "height": 3053,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "99c9ef8da2ea",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "唐 灰陶加彩仕女俑",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_03.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 800,
+                                        "height": 533,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_03.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "1327a188c6f5",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/1327a188c6f5.mp3",
+                                "transcript": "唐代陪葬的俑類明器中，除了人人朗朗上口的「唐三彩」之外，還有延續時間更長，數量也更多的各式加彩俑。這些彩繪陶俑大多以紅陶或灰陶土為胎，合模翻制後，經過精心修飾，入窯燒造，再加飾彩繪。以本件仕女俑來說，就是以燒成的灰陶為底，敷上白色化妝土，化妝土之上，再以紅、綠、黑等各色顏料彩繪其上而成。只可惜傳世至今原來鮮亮的的彩繪絕大多數都已脫落，不復製成時的亮麗面貌。 本院典藏有兩件唐代灰陶加彩仕女俑（另一件為贈瓷000550），皆為八世紀長安地區作品，由此可見時人生活的一個側面。八世紀中期的長安貴族女子，面頰豐潤飽滿，秀髮左右雙鬢如蟬翼向外擴展，體態豐腴厚實，身著開領襦裙，雙腳於曳地長裙之上，斜斜露出花履尖頭。襦裙雖然寬大，但由袖子部分衣摺的垂墜，以及雙足之間裙擺的聚攏，仍可於曲線流動間感覺出裙袍之下肢體的渾圓厚實，充分展現了盛唐氣象之下女子的雍容大度與自信神彩。",
+                                "caption_url": null,
+                                "duration": 101564
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "4e4f7aa7c07b",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "7d02223d031d",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/7d02223d031d.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 39341
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "365c709a89cb",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "kkif0v0692c3",
+                "exhibit_number": "503",
+                "name": "唐　邢窯　白瓷穿帶壺",
+                "description": "這件白瓷壺器形仿自金屬或皮革材質的穿帶水壺。器外壁及外底施白釉，釉色瑩亮，積釉處微閃見湖水青色，器內施釉不及半，露出灰白色胎。侈圓口、短頸、圈足，筒狀圓長腹的兩側微凹，上下各貼有二個絆繫耳，使繩索能夠穿繫，很類似遊牧民族隨騎攜帶的水壺。唐朝時各種不同材質的器物經常會相互模仿，院藏另一件白瓷印花魚紋杯成四瓣花型，器形即源於作為酒器使用的薩珊式金銀多曲長杯。",
+                "order": 3,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.13,
+                    "y": -0.0874
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "6b3f7e1fe51a",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "唐　邢窯　白瓷穿帶壺：這是一件白色陶瓷瓶，通體光滑、沒有彩繪。瓶身略呈橢圓柱形，上窄下寬，肩部微微外張。瓶口較大，向外翻開成簡潔的圓形邊緣。瓶肩與下部各有幾個小型的凸起耳飾，形狀簡約。整體外觀樸素，線條平穩，呈現淡雅的白色光澤。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2294,
+                                        "height": 3049,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "21c8fa18240b",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "唐　邢窯　白瓷穿帶壺",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 708,
+                                        "height": 472,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "6987d1166728",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/6987d1166728.mp3",
+                                "transcript": "這件白瓷壺器形仿自金屬或皮革材質的穿帶水壺。器外壁及外底施白釉，釉色瑩亮，積釉處微閃見湖水青色，器內施釉不及半，露出灰白色胎。侈圓口、短頸、圈足，筒狀圓長腹的兩側微凹，上下各貼有二個絆繫耳，使繩索能夠穿繫，很類似遊牧民族隨騎攜帶的水壺。唐朝時各種不同材質的器物經常會相互模仿，院藏另一件白瓷印花魚紋杯成四瓣花型，器形即源於作為酒器使用的薩珊式金銀多曲長杯。",
+                                "caption_url": null,
+                                "duration": 52010
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "0f51f28990e1",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9e61eab56dc4",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9e61eab56dc4.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 41091
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "1b8a83d07538",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "u1aa0k42shqh",
+                "exhibit_number": "504",
+                "name": "五代　越窯　秘色青瓷洗",
+                "description": "這件青瓷洗口緣外翻成一道折沿，斜弧壁深腹，平底，外底中心微微向內凹陷，底緣燒造留下的墊痕，清晰可見，墊痕周邊無釉處，露出灰色的胎骨。通體施罩青釉，釉色灰青，釉層薄而均勻，外壁局部出現淡色漬點。民國初年在諸多考古證據未發現前，此件作品被清室善後委員會負責點查的專家人員認為是汝窯作品，故在器內墨書寫上「汝窯撇口果洗一件」，從中或可略窺當年與今人陶瓷鑑賞觀念之差異。院藏本件越窯「秘色青瓷洗」，釉質細緻溫潤，器形端整大方與五代墓葬出土青瓷洗相似，因此或可視為是五代上層階級使用的佳器。",
+                "order": 4,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1319,
+                    "y": -0.0709
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "c09ee3e38337",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "五代 越窯　秘色青瓷洗：這是一只淺口的陶瓷碗，外形呈寬而開放的圓形。碗口外緣略向外展開，邊緣圓滑。整體覆蓋淡淡的青綠色釉面，表面平整，帶有些微自然斑點。碗身由口沿向下逐漸收縮，底部較小。整體給人簡潔沉穩的感受。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/u1aa0k42shqh_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1501,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/u1aa0k42shqh_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "60bf6b265fb8",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/60bf6b265fb8.mp3",
+                                "transcript": "這件青瓷洗口緣外翻成一道折沿，斜弧壁深腹，平底，外底中心微微向內凹陷，底緣燒造留下的墊痕，清晰可見，墊痕周邊無釉處，露出灰色的胎骨。通體施罩青釉，釉色灰青，釉層薄而均勻，外壁局部出現淡色漬點。民國初年在諸多考古證據未發現前，此件作品被清室善後委員會負責點查的專家人員認為是汝窯作品，故在器內墨書寫上「汝窯撇口果洗一件」，從中或可略窺當年與今人陶瓷鑑賞觀念之差異。院藏本件越窯「秘色青瓷洗」，釉質細緻溫潤，器形端整大方與五代墓葬出土青瓷洗相似，因此或可視為是五代上層階級使用的佳器。",
+                                "caption_url": null,
+                                "duration": 69329
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "eaa72f1786a0",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "0c1d46bdd9ec",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/0c1d46bdd9ec.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 37799
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "27cf769f6266",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "keduinnnj85j",
+                "exhibit_number": "505",
+                "name": "北宋　定窯　白瓷嬰兒枕",
+                "description": "這件做嬰孩伏臥榻上的白瓷枕展現了定窯瓷器在塑形及裝飾上的高超技術。定窯燒製的作品以白瓷為主，成型工藝精良，釉質細潤光滑，釉色白中帶微黃，裝飾技法有淺劃、深刻、印花等。本件嬰兒枕的釉色牙白溫潤，頭部與身體分別由左右合模相接後，並將身、首接合，再剔刻面容。同時，充分發揮定窯不同的裝飾技巧，長衣下擺的朵花、背心上的球形紋以及榻座上雲螭紋是以模印技法呈現，後背則刻以纏枝牡丹，印花紋樣清晰，刻花線條流暢，二者搭配自如得宜。另外，底部刻有御製詩一首，可以發現乾隆皇帝將此類比為警枕，不僅警惕自勵自己宵旰勤勞，配合其他詠定窯孩兒枕御製詩來看，顯示出期盼如武丁於夢中尋到輔國賢臣的意圖。類似造型的嬰兒目前可見有三，其中二件收藏於本院，另一件見於北京故宮博物院。",
+                "order": 5,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1325,
+                    "y": -0.1153
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "0c1d46bdd9ec",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "北宋　定窯　白瓷嬰兒枕：這是一件陶塑的孩童形象。造型呈現一名嬰孩側躺在長方形墊座上，頭部微抬，雙手抱在臉前作倚靠姿。孩童面龐圓潤，表情帶著安靜的微笑。身上穿著有細緻紋飾的衣物，衣褶與圖案刻畫清楚。整體釉色淡雅，呈淺灰白色光澤，表面平滑。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/keduinnnj85j_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/keduinnnj85j_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "a65d8a4211b0",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/a65d8a4211b0.mp3",
+                                "transcript": "這件做嬰孩伏臥榻上的白瓷枕展現了定窯瓷器在塑形及裝飾上的高超技術。定窯燒製的作品以白瓷為主，成型工藝精良，釉質細潤光滑，釉色白中帶微黃，裝飾技法有淺劃、深刻、印花等。本件嬰兒枕的釉色牙白溫潤，頭部與身體分別由左右合模相接後，並將身、首接合，再剔刻面容。同時，充分發揮定窯不同的裝飾技巧，長衣下擺的朵花、背心上的球形紋以及榻座上雲螭紋是以模印技法呈現，後背則刻以纏枝牡丹，印花紋樣清晰，刻花線條流暢，二者搭配自如得宜。另外，底部刻有御製詩一首，可以發現乾隆皇帝將此類比為警枕，不僅警惕自勵自己宵旰勤勞，配合其他詠定窯孩兒枕御製詩來看，顯示出期盼如武丁於夢中尋到輔國賢臣的意圖。類似造型的嬰兒目前可見有三，其中二件收藏於本院，另一件見於北京故宮博物院。",
+                                "caption_url": null,
+                                "duration": 96209
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d91e694d1494",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "058ea97a1461",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/058ea97a1461.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36781
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "60df49b273fd",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "u9q1z9zhax8a",
+                "exhibit_number": "506",
+                "name": "北宋　定窯　白瓷劃花蓮紋梅瓶",
+                "description": "梅瓶，小口圓唇，短頸，聳圓肩，腹修長，上豐下斂，近底處略微張，底內挖為圈足。器身以劃花為飾。上部蓮瓣短而橢圓並排；下部蓮瓣細長，以雙線重覆勾形；中腹前後各以一折枝蓮花為主紋，兩側勾勒簡單的荷葉。通體施牙白釉，有淚痕流敞，足緣無釉。",
+                "order": 6,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1336,
+                    "y": -0.1356
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "e0a3b984dd1d",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "北宋 定窯　白瓷劃花蓮紋梅瓶：這是一件高身的白色陶瓷瓶，外形呈上寬下窄的曲線輪廓。瓶口小而外翻，頸部短。瓶身表面覆蓋細緻的刻紋，圖案多為葉片與卷草的線條，分布均勻但不突出於表面。整體釉色柔和，呈淡米白色光澤，造型修長而端正。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 2541,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "f9e6e8b86a02",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "北宋 定窯　白瓷劃花蓮紋梅瓶",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 800,
+                                        "height": 534,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "cba350e01943",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/cba350e01943.mp3",
+                                "transcript": "梅瓶，小口圓唇，短頸，聳圓肩，腹修長，上豐下斂，近底處略微張，底內挖為圈足。器身以劃花為飾。上部蓮瓣短而橢圓並排；下部蓮瓣細長，以雙線重覆勾形；中腹前後各以一折枝蓮花為主紋，兩側勾勒簡單的荷葉。通體施牙白釉，有淚痕流敞，足緣無釉。",
+                                "caption_url": null,
+                                "duration": 43102
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "8524399f0569",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "af8e61f3ee4c",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/af8e61f3ee4c.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36702
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "612d1cd52660",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "2wyugdl3h5ij",
+                "exhibit_number": "507",
+                "name": "南宋　官窯　青瓷弦紋樽",
+                "description": "圓直腹筒形器身，口沿內帶一道唇邊，深週壁，三獸蹄足，足底無釉。本件作品造形端莊穩重，釉色青而滋潤，開片紋疊疊層層，而直腹弦紋三足尊之器形乃傳承自北宋的汝窯及定窯。器身外底寬平，周有支釘痕十二枚，釘痕粗大，露灰黑色胎。器外壁飾弦紋三層，每層各三道。全器施粉青色釉，釉質濃潤，釉汁垂流使弦紋凸稜處微現黑褐色，口沿邊稜釉薄處微呈淺紅褐色，釉面滿佈層層冰裂的開片紋。浙江杭州郊壇下官窯和老虎洞窯址都出土類似的標本殘件。",
+                "order": 7,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1282,
+                    "y": -0.1018
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "2c4c3e5d0364",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "南宋 官窯　青瓷弦紋樽：這是一件圓形的陶瓷器底部朝上展示。表面覆蓋淡青色釉，帶有細密的開片紋理。圓面上均勻分布多個小突點，呈深褐色，略為凸起。圓緣外側有三個短小的柱狀支點，均為相同釉色。整體呈現平整的圓盤形。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2003,
+                                        "height": 1502,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "a55d0ced4de5",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "南宋 官窯　青瓷弦紋樽",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2003,
+                                        "height": 1502,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "0a872f5e851e",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "南宋 官窯　青瓷弦紋樽",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_03.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1505,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_03.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "edf0cf1b05d1",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/edf0cf1b05d1.mp3",
+                                "transcript": "圓直腹筒形器身，口沿內帶一道唇邊，深週壁，三獸蹄足，足底無釉。本件作品造形端莊穩重，釉色青而滋潤，開片紋疊疊層層，而直腹弦紋三足尊之器形乃傳承自北宋的汝窯及定窯。器身外底寬平，周有支釘痕十二枚，釘痕粗大，露灰黑色胎。器外壁飾弦紋三層，每層各三道。全器施粉青色釉，釉質濃潤，釉汁垂流使弦紋凸稜處微現黑褐色，口沿邊稜釉薄處微呈淺紅褐色，釉面滿佈層層冰裂的開片紋。浙江杭州郊壇下官窯和老虎洞窯址都出土類似的標本殘件。",
+                                "caption_url": null,
+                                "duration": 64732
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "558652b1cfac",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "39106da430a9",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/39106da430a9.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36336
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "f319797015bd",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "112o46mlffpc",
+                "exhibit_number": "508",
+                "name": "南宋　官窯　青瓷貫耳壺",
+                "description": "壺，圓口微撇，短頸，兩貫耳，碩腹，平底，矮圈足。頸飾凸弦紋二道。胎骨厚重，全器施青釉，釉色濃潤。釉面滿佈淺褐色紋片，略有砂眼。圈足端露胎，塗赭色汁。",
+                "order": 8,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1259,
+                    "y": -0.1345
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": true,
+                "medias": [
+                    {
+                        "id": "df9c2570906e",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "南宋　官窯　青瓷貫耳壺：這是一件淡青色釉面的陶瓷瓶，瓶身略呈球形，上方接出較窄的頸部與外張的口沿。器表覆蓋細密的開片紋。瓶身兩側各附有一個短而外突的管狀把手，位置對稱。底部略微外擴，形成穩固的圓形底座。整體造型對稱、簡潔。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 300,
+                                        "height": 400,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "12c6076e4899",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/12c6076e4899.mp3",
+                                "transcript": "壺，圓口微撇，短頸，兩貫耳，碩腹，平底，矮圈足。頸飾凸弦紋二道。胎骨厚重，全器施青釉，釉色濃潤。釉面滿佈淺褐色紋片，略有砂眼。圈足端露胎，塗赭色汁。",
+                                "caption_url": null,
+                                "duration": 27768
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "868d111231b9",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "722baa57f21a",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/722baa57f21a.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 34926
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "890b036a865f",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "1ozevenhi0ma",
+                "exhibit_number": "509",
+                "name": "宋　建窯　黑釉兔毫盞",
+                "description": "弇口碗，口沿外緣向內束收，深腹、小圈足。釉施不及底，旦露深褐色粗厚的器胎。足外壁無釉，足內則淺凹，並深刻一「律」字楷書。釉色鳥黑濃稠且流動性大，外壁垂淌至近足處，內底積厚釉，口緣則薄釉而形成特徵的「褐口邊」。碗身裡外均有結晶析出的青黃色細密線條，隨釉流動，深茂相雜，宛如秋兔的毫毛，故宋人稱之為「兔毫盞」。",
+                "order": 9,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1251,
+                    "y": -0.1092
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "8aae9bf5df7a",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "宋 建窯　黑釉兔毫盞：這是一件小型陶瓷器物，畫面呈現其底部朝上。器底外圈為深色釉面，光滑且略帶反光。中央是一個未上釉的淺灰色圓形底座，周圍附著深褐色的窯燒痕跡。底座中央刻有一個單獨的漢字，線條清晰。整體造型規整，呈低矮的圓盤狀。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "fc4b31dbe1a2",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "宋 建窯　黑釉兔毫盞",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "87bbc1ade767",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "宋 建窯　黑釉兔毫盞",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_03.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_03.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "4eb455a66dbf",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/4eb455a66dbf.mp3",
+                                "transcript": "弇口碗，口沿外緣向內束收，深腹、小圈足。釉施不及底，旦露深褐色粗厚的器胎。足外壁無釉，足內則淺凹，並深刻一「律」字楷書。釉色鳥黑濃稠且流動性大，外壁垂淌至近足處，內底積厚釉，口緣則薄釉而形成特徵的「褐口邊」。碗身裡外均有結晶析出的青黃色細密線條，隨釉流動，深茂相雜，宛如秋兔的毫毛，故宋人稱之為「兔毫盞」。",
+                                "caption_url": null,
+                                "duration": 47047
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d946f060177e",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "3921eb02bf24",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/3921eb02bf24.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 37799
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "c237c794e0b8",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "2o6awyzgkatu",
+                "exhibit_number": "510",
+                "name": "南宋　龍泉窯　青瓷鳳耳瓶",
+                "description": "青瓷鳳耳瓶直腹、長頸、盤口，長頸兩側貼飾鳳形耳，器形端整大方，是南宋時期龍泉窯的代表作之一。龍泉窯位於浙江南部，瓷場分佈廣泛，產品種類多樣，南宋之後，成為供應海內外器用的重要窯場。不僅在許多宋、元時期的墓葬及窖藏中頻繁出現，在海外的貿易遺址也經常可見其蹤跡。長頸盤口瓶由北宋汝窯首度燒造，南宋官窯的作品中也多所繼承，可以說是官方瓷器喜愛的瓷瓶樣式。龍泉窯開始，則在長頸兩側加上魚形耳或鳳形耳。這件龍泉窯鳳耳青瓷瓶的雙耳印紋細緻，鳳紋的頭部及羽翅清晰可見。釉色粉青，釉質瑩潤光亮，勻淨無瑕，與日本所藏受到天皇勅銘「千聲」、「萬聲」的青瓷鳳耳瓶相似，都是龍泉窯中最精美絕倫的作品。",
+                "order": 10,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1287,
+                    "y": -0.0713
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": true,
+                "medias": [
+                    {
+                        "id": "dc85bc19fcc5",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "南宋 龍泉窯　青瓷鳳耳瓶：這是一件淡青色釉面的陶瓷瓶，造型筆直對稱。瓶身下半部呈圓柱狀，上方收束成短頸，並外展成寬而平的瓶口。頸部兩側各附有一個裝飾性的柄，形狀如彎曲的動物或雲紋線條，呈鏤空的對稱造型。整體表面光滑，釉色均勻。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6f4149791ac5",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "南宋 龍泉窯　青瓷鳳耳瓶",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "9aa2e67c120d",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/9aa2e67c120d.mp3",
+                                "transcript": "青瓷鳳耳瓶直腹、長頸、盤口，長頸兩側貼飾鳳形耳，器形端整大方，是南宋時期龍泉窯的代表作之一。龍泉窯位於浙江南部，瓷場分佈廣泛，產品種類多樣，南宋之後，成為供應海內外器用的重要窯場。不僅在許多宋、元時期的墓葬及窖藏中頻繁出現，在海外的貿易遺址也經常可見其蹤跡。長頸盤口瓶由北宋汝窯首度燒造，南宋官窯的作品中也多所繼承，可以說是官方瓷器喜愛的瓷瓶樣式。龍泉窯開始，則在長頸兩側加上魚形耳或鳳形耳。這件龍泉窯鳳耳青瓷瓶的雙耳印紋細緻，鳳紋的頭部及羽翅清晰可見。釉色粉青，釉質瑩潤光亮，勻淨無瑕，與日本所藏受到天皇勅銘「千聲」、「萬聲」的青瓷鳳耳瓶相似，都是龍泉窯中最精美絕倫的作品。",
+                                "caption_url": null,
+                                "duration": 86178
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "e56ec971d53a",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "050d0b2bed9d",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 30041
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "8aece7d49cae",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "e2bkzvk26ic2",
+                "exhibit_number": "511",
+                "name": "元　霽青單把杯",
+                "description": "此杯呈漏斗狀，口沿鑲金屬釦。斜腹，一側帶環扣把。底部內挖成臥足，無釉，滿塗黃褐色護胎汁。除器底外通體施鈷藍釉，釉面隱約可見已脫落的金彩或銀箔裝飾紋樣。杯內口沿下有一圈菱形方格圖案，底心為十二星芒團花，外壁環繞一折枝梅。",
+                "order": 11,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "ilajxhwztl86",
+                            "name": "205",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.3779,
+                    "y": 0.3638
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "61e9e2384d96",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "元　霽青單把杯：這是一只深藍色釉面的淺碗，外形呈倒截圓錐形，上寬下窄。碗口略微外張，邊緣帶有金屬色的細邊裝飾。碗身一側附有一個小把手，把手呈短而扁的矩形開口造型。整體色調濃郁，表面光滑。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "3942337718ea",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/3942337718ea.mp3",
+                                "transcript": "此杯呈漏斗狀，口沿鑲金屬釦。斜腹，一側帶環扣把。底部內挖成臥足，無釉，滿塗黃褐色護胎汁。除器底外通體施鈷藍釉，釉面隱約可見已脫落的金彩或銀箔裝飾紋樣。杯內口沿下有一圈菱形方格圖案，底心為十二星芒團花，外壁環繞一折枝梅。",
+                                "caption_url": null,
+                                "duration": 34926
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "77ab090a6a87",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "33e7c462eb5e",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/33e7c462eb5e.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 28291
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "c0b8827d5958",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "ozy68rnni7yh",
+                "exhibit_number": "512",
+                "name": "元　鈞窯　天藍釉紫斑盂",
+                "description": "斂圓口，深弧形壁，尖底並有矮圈足。釉色裏外不一致，內壁釉色為天藍色，底部中心處無釉，留有一塊三杈形的支痕。外壁釉色為天藍色但釉層中泛出猶如彩霞的紫色斑紋，口沿一道赭紅邊。圈足底緣修飾不完整，足底、圈足外壁及內周壁無釉處，皆露赭土色胎，外底心微凸，施天藍色釉彩。",
+                "order": 12,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "ilajxhwztl86",
+                            "name": "205",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.3487,
+                    "y": 0.2585
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "740b0cf35be9",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "元　鈞窯　天藍釉紫斑盂：這是一只圓形的陶瓷茶碗，外表呈柔和的漸層色彩，由淡藍、紫色與青綠色交融而成。碗口略微外展，邊緣呈細細的棕色線條。碗身飽滿、近乎球形，下方接一個小而圓的底座。表面光滑，色彩呈現雲霧般的過渡。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1c434a29c894",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "元　鈞窯　天藍釉紫斑盂",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "18abaa3a6c2d",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/18abaa3a6c2d.mp3",
+                                "transcript": "斂圓口，深弧形壁，尖底並有矮圈足。釉色裏外不一致，內壁釉色為天藍色，底部中心處無釉，留有一塊三杈形的支痕。外壁釉色為天藍色但釉層中泛出猶如彩霞的紫色斑紋，口沿一道赭紅邊。圈足底緣修飾不完整，足底、圈足外壁及內周壁無釉處，皆露赭土色胎，外底心微凸，施天藍色釉彩。",
+                                "caption_url": null,
+                                "duration": 44931
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d5500bc880b3",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "aa08cc1b0cc2",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/aa08cc1b0cc2.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36807
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "1984559e9453",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

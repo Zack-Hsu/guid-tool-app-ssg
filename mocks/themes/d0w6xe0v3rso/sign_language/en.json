@@ -1,0 +1,614 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "d0w6xe0v3rso",
+        "name": "Classic Tour – In-Depth Guide",
+        "start_date": "2020-01-01T00:00:00.000Z",
+        "end_date": "2050-01-01T00:00:00.000Z",
+        "description": "If you are interested in various types of cultural artifacts and wish to experience the evolution of Chinese history through these objects, this tour route is recommended. Beginning on the third floor and ending on the first, it guides you through 26 highlight pieces from the National Palace Museum’s permanent collection.",
+        "target_audience": "adult_student",
+        "duration_sec": 6000,
+        "img_key_vision": {
+            "id": "10fc49416209",
+            "name": "exhibition_kv",
+            "type": "photo",
+            "alt_text": "Classic Tour – In-Depth Guide",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/d0w6xe0v3rso_kv.png",
+                    "media_sources": [
+                        {
+                            "width": 2752,
+                            "height": 1536,
+                            "format": "png",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/d0w6xe0v3rso_kv.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        "medias": [
+            {
+                "id": "74dc2c6149f5",
+                "name": "Related Video",
+                "type": "youtube",
+                "alt_text": "Related Video",
+                "info": [
+                    {
+                        "type": "youtube",
+                        "value": "https://youtu.be/gcwiMdhwkcw?si=4O7pp2npEfTXnFN2",
+                        "media_sources": []
+                    }
+                ]
+            }
+        ],
+        "categories": [
+            {
+                "uid": "zgf5e6t4kmjf",
+                "name": "Classic Tour"
+            },
+            {
+                "uid": "we9o6or4vl6b",
+                "name": "In-Depth Guide"
+            }
+        ],
+        "work_binding": [
+            {
+                "uid": "y3qguke0s1i6",
+                "name": "Memorial Requesting Imperial Peace and Summoning Cao Yin, Jiangning Weaving Commissioner, to the Capital",
+                "category": {
+                    "uid": "zgf5e6t4kmjf",
+                    "name": "Classic Tour"
+                }
+            },
+            {
+                "uid": "unrlx51h5scy",
+                "name": "Illustrated Scenes from Dream of the Red Chamber",
+                "category": {
+                    "uid": "zgf5e6t4kmjf",
+                    "name": "Classic Tour"
+                }
+            },
+            {
+                "uid": "ji9heodooe28",
+                "name": "Qing Dynasty, Qianlong Reign — Gold and East Pearl Adorned Court Lady’s Headdress Finial with Cat’s-Eye Stone",
+                "category": {
+                    "uid": "we9o6or4vl6b",
+                    "name": "In-Depth Guide"
+                }
+            },
+            {
+                "uid": "3r4vuoy3hxto",
+                "name": "Late Ming to Qing — Bronze Censer, Vase, and Box with Kui Dragon Motifs",
+                "category": {
+                    "uid": "we9o6or4vl6b",
+                    "name": "In-Depth Guide"
+                }
+            },
+            {
+                "uid": "xe75pn1ho6th",
+                "name": "Echoes of the Song Dynasty — Ru Ware and Ding Ware",
+                "category": {
+                    "uid": "we9o6or4vl6b",
+                    "name": "In-Depth Guide"
+                }
+            }
+        ],
+        "works": [
+            {
+                "uid": "y3qguke0s1i6",
+                "exhibit_number": "611",
+                "name": "Memorial to the Throne Requesting Imperial Well-being and Reporting Audiences with Cao Yin, Superintendent of the Jiangning Imperial Weaving Office",
+                "description": "Dated July 29, 1704 (the 43rd year of the Kangxi reign, Qing dynasty)\nNational Palace Museum catalog no. 002712\nHeight: 20.5 cm; Width: 48.2 cm\n\nThe phrase “a family of poetry, ritual, and noble rank” refers to aristocratic households devoted to classical learning and Confucian etiquette across generations. Cao Xueqin, author of *Dream of the Red Chamber*, was born into such a distinguished literary family. His grandfather, Cao Yin, excelled in poetry and textual collations, and was commissioned to edit the *Imperially Commissioned Complete Tang Poems*. Beginning with Cao Yin’s grandfather, Cao Xi, the Cao family held—over three generations and four appointments—the prestigious post of Jiangning Imperial Weaving Superintendent. This position, entrusted only to those close to the emperor, was responsible for producing and procuring textiles and items required by the imperial household, including the silk robes for the *Dragon Canon*.\n\nThese unique life experiences profoundly shaped Cao Xueqin. The refined poetry, elegant musical compositions, and exquisite descriptions of objects found throughout *Dream of the Red Chamber* reflect the cultural richness and material sophistication inherited from his family background.",
+                "order": 1,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2392,
+                    "y": -0.2321
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "f41bce3216af",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Memorial to the Throne by Cao Yin, Superintendent of the Jiangning Imperial Weaving Office: A horizontal scroll composed mainly of written text. Black characters arranged vertically from right to left dominate the composition. A column of red ink text appears beside them, with a small red seal stamped at the far left. The layout is simple with generous blank space.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/y3qguke0s1i6_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "d56fafb84550",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/d56fafb84550.mp3",
+                                "transcript": "Dated July 29, 1704 (the 43rd year of the Kangxi reign, Qing dynasty)\nNational Palace Museum catalog no. 002712\nHeight: 20.5 cm; Width: 48.2 cm\n\nThe phrase “a family of poetry, ritual, and noble rank” refers to aristocratic households devoted to classical learning and Confucian etiquette across generations. Cao Xueqin, author of *Dream of the Red Chamber*, was born into such a distinguished literary family. His grandfather, Cao Yin, excelled in poetry and textual collations, and was commissioned to edit the *Imperially Commissioned Complete Tang Poems*. Beginning with Cao Yin’s grandfather, Cao Xi, the Cao family held—over three generations and four appointments—the prestigious post of Jiangning Imperial Weaving Superintendent. This position, entrusted only to those close to the emperor, was responsible for producing and procuring textiles and items required by the imperial household, including the silk robes for the *Dragon Canon*.\n\nThese unique life experiences profoundly shaped Cao Xueqin. The refined poetry, elegant musical compositions, and exquisite descriptions of objects found throughout *Dream of the Red Chamber* reflect the cultural richness and material sophistication inherited from his family background.",
+                                "caption_url": null,
+                                "duration": 66900
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "f8fa07b3046c",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "da13a1a9dced",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/da13a1a9dced.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 41091
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "4a7faa2f3e79",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "unrlx51h5scy",
+                "exhibit_number": "612",
+                "name": "Illustrated Poems of *Dream of the Red Chamber*",
+                "description": "Written by Gai Qi, Qing dynasty\nIllustrated woodblock-printed book, published in the 5th year of the Guangxu reign (1879)\nNational Palace Museum catalog nos. 003571—003574\nHeight: 22.5 cm; Width: 15 cm\n\nMuch about Cao Xueqin remains shrouded in mystery. After the Cao family fell from power and its property was confiscated, Cao Xueqin—overwhelmed by sorrow—returned to Beijing. In 1762, on New Year's Eve of the renwu year (the 27th year of the Qianlong reign), he passed away “before reaching the age of fifty, his tears exhausted while the book remained unfinished.” Our understanding of his short life and his incomplete *Dream of the Red Chamber* is often fragmentary, as if his very existence were a riddle.\n\nYet the novel’s unfinished state has never diminished its allure. If anything, its open-endedness inspired generations of readers, giving rise to numerous editions, commentaries, and pictorial interpretations such as this illustrated work.",
+                "order": 2,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1292,
+                    "y": -0.2858
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "8fe2f14b202b",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Illustrated Poems of Dream of the Red Chamber: A book cover design featuring a fine-line drawing of two figures in traditional attire standing beside a large rock. To the right runs a vertical title strip with black characters framed by decorative triangular corners. The layout clearly separates the illustration on the left from the title panel on the right.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "dc2accd6633b",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/dc2accd6633b.mp3",
+                                "transcript": "Written by Gai Qi, Qing dynasty\nIllustrated woodblock-printed book, published in the 5th year of the Guangxu reign (1879)\nNational Palace Museum catalog nos. 003571—003574\nHeight: 22.5 cm; Width: 15 cm\n\nMuch about Cao Xueqin remains shrouded in mystery. After the Cao family fell from power and its property was confiscated, Cao Xueqin—overwhelmed by sorrow—returned to Beijing. In 1762, on New Year",
+                                "caption_url": null,
+                                "duration": 70217
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d630a2e60cb0",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "16cbbcf3579c",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/16cbbcf3579c.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 38217
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "870cf486c883",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "ji9heodooe28",
+                "exhibit_number": "613",
+                "name": "Gold Headdress Finial Set with Eastern Pearls and Cat’s-Eye Stone for an Imperial Consort, Qing dynasty, Qianlong reign",
+                "description": "NPM collection no. 4837\nHeight: 16 cm; Base diameter: 4.8 cm\n\nYuanfei, whose formal name is Jia Yuanchun, is the elder sister of Jia Baoyu. Entering the palace at the age of thirteen or fourteen, she later rose to the rank of Imperial Consort, bringing the Jia family to the height of its glory. The practice of \"returning home to observe filial piety\" allowed imperial consorts to leave the palace temporarily to visit their parents and elders. To welcome Yuanchun on such an occasion, the Jia family constructed the Grand View Garden.\n\nThe Grand View Garden becomes many things at once: a fleeting paradise where Yuanchun briefly reunites with her family yet remains forever separated from her youth; a secluded world where Baoyu and the young maidens live under the protective shadow of her imperial status; and, ultimately, a lost eden—Cao Xueqin’s elegy for a bygone age of prosperity and tenderness.\n",
+                "order": 3,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1651,
+                    "y": -0.199
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "4043c7406cd7",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Qianlong-period gold headdress finial with layered openwork design; the hemispherical gold base is adorned with intricate patterns, supporting multiple tiers of curled and pierced gold elements in bird and foliage motifs. Set with round Eastern pearls throughout, topped by an oval cat’s-eye gemstone of warm yellow-brown hue.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7bc0c3f38dac",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7bc0c3f38dac.mp3",
+                                "transcript": "NPM collection no. 4837\nHeight: 16 cm; Base diameter: 4.8 cm\n\nYuanfei, whose formal name is Jia Yuanchun, is the elder sister of Jia Baoyu. Entering the palace at the age of thirteen or fourteen, she later rose to the rank of Imperial Consort, bringing the Jia family to the height of its glory.",
+                                "caption_url": null,
+                                "duration": 60500
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "06e983c12619",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "84d5766879b6",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/84d5766879b6.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 48640
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "3208d4039051",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "3r4vuoy3hxto",
+                "exhibit_number": "614",
+                "name": "Bronze Censer, Vase, and Box with Gui Motifs, Late Ming to Qing dynasty",
+                "description": "NPM collection nos. 1565, 1820, 1819\nCenser height: 15 cm; Vase height: 13.8 cm; Box height: 7.9 cm\n\nA faint thread of fragrance seems to drift through every page of *Dream of the Red Chamber*. Incense is burned not only in grand ceremonies, but also during the Jia household’s daily routines. When the Imperial Consort Yuanchun returns home for her ceremonial visit, lilies are burned in great braziers throughout the Grand View Garden. At family banquets, the Jia clan sets out the elegant trio of censer, vase, and box on the table, using them to burn the imperial “Lily Palace Incense.”\n\nThis set of three—censer, incense box, and utensil vase—forms a complete ensemble. The censer is used for burning incense; the box stores incense; and the vase holds tools such as tongs and scoops. Arranged with the censer in the center and the box and vase to either side, the censer takes pride of place. The censer mentioned in the novel, known as the *Wenwang ding*, derives from bronze ritual vessels used in ceremonies honoring King Wen of Zhou. Frequently imitated in the Ming and Qing periods, such archaistic pieces were treasured as refined objects suited to the contemplative atmosphere of the scholar’s studio.",
+                "order": 4,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2101,
+                    "y": -0.264
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "23e5509f2bc6",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Bronze censer, vase, and box set on a carved wooden stand. The vase at left has a slender neck and holds incense tools; the central tripod censer features gilded surfaces with blue-green geometric bands; and the round lidded box at right displays matching decoration. The three pieces form a ritual-like arrangement reminiscent of traditional incense sets.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "ebe3b3d62263",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ebe3b3d62263.mp3",
+                                "transcript": "NPM collection nos. 1565, 1820, 1819\nCenser height: 15 cm; Vase height: 13.8 cm; Box height: 7.9 cm\n\nA faint thread of fragrance seems to drift through every page of *Dream of the Red Chamber*. Incense is burned not only in grand ceremonies, but also during the Jia household’s daily routines. When the Imperial Consort Yuanchun returns home for her ceremonial visit, lilies are burned in great braziers throughout the Grand View Garden. At family banquets, the Jia clan sets out the elegant trio of censer, vase, and box on the table, using them to burn the imperial “Lily Palace Incense.”\n\nThis set of three—censer, incense box, and utensil vase—forms a complete ensemble. The censer is used for burning incense; the box stores incense; and the vase holds tools such as tongs and scoops. Arranged with the censer in the center and the box and vase to either side, the censer takes pride of place. The censer mentioned in the novel, known as the *Wenwang ding*, derives from bronze ritual vessels used in ceremonies honoring King Wen of Zhou. Frequently imitated in the Ming and Qing periods, such archaistic pieces were treasured as refined objects suited to the contemplative atmosphere of the scholar’s studio.",
+                                "caption_url": null,
+                                "duration": 64757
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "17718020bde3",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9d407ef2c546",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9d407ef2c546.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 55850
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "ea904d2cb846",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "xe75pn1ho6th",
+                "exhibit_number": "615",
+                "name": "In the Style of the Song: Ru Ware and Ding Ware",
+                "description": "NPM collection no. 17854\nMouth diameter: 15.7 cm; Height: 3.7 cm\n\nPorcelain used in everyday life throughout *Dream of the Red Chamber* frequently evokes the celebrated kilns of the Song dynasty—Ru ware and Ding ware—as well as renowned imperial kilns of the Ming, such as Xuande and Chenghua. These refined objects embellish both the Jia household and the Grand View Garden. For Cao Xueqin, such elegance was embedded in memory: exquisite antique ceramics, alongside Qing-period archaistic wares, form the backdrop of the world he reimagined.\n\nRu ware—“as precious as the morning star”—appears repeatedly in the novel in the form of dishes, vases, and flower vessels. Ding ware—“the finest white under heaven”—is likewise present: at Baoyu’s birthday banquet, forty Ding ware dishes are used to serve delicacies and seasonal fruits. Quietly luxurious yet understated, these porcelains leave a lasting impression of the refined daily life they once adorned.",
+                "order": 5,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2284,
+                    "y": -0.3495
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "aa8c95984f71",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "A shallow circular dish coated in a soft bluish-grey glaze. The surface is covered with fine crackle patterns, and the gently rounded rim and neatly carved foot give the piece an elegant, understated presence characteristic of Song-inspired ware.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "47ce022bd381",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/47ce022bd381.mp3",
+                                "transcript": "NPM collection no. 17854\nMouth diameter: 15.7 cm; Height: 3.7 cm\n\nPorcelain used in everyday life throughout *Dream of the Red Chamber* frequently evokes the celebrated kilns of the Song dynasty—Ru ware and Ding ware—as well as renowned imperial kilns of the Ming, such as Xuande and Chenghua. These refined objects embellish both the Jia household and the Grand View Garden. For Cao Xueqin, such elegance was embedded in memory: exquisite antique ceramics, alongside Qing-period archaistic wares, form the backdrop of the world he reimagined.\n\nRu ware—“as precious as the morning star”—appears repeatedly in the novel in the form of dishes, vases, and flower vessels. Ding ware—“the finest white under heaven”—is likewise present: at Baoyu’s birthday banquet, forty Ding ware dishes are used to serve delicacies and seasonal fruits. Quietly luxurious yet understated, these porcelains leave a lasting impression of the refined daily life they once adorned.",
+                                "caption_url": null,
+                                "duration": 58253
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "a596886e1fb5",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9b1af276d469",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9b1af276d469.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 30981
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "3a25d587df6c",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

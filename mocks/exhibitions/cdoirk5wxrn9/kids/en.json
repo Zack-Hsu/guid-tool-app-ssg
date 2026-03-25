@@ -1,0 +1,1621 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "cdoirk5wxrn9",
+        "name": "Shaping Clay into Wonders — Highlights from the Museum's Ceramic Collection",
+        "start_date": "2025-01-01T00:00:00.000Z",
+        "end_date": "2025-12-31T23:59:59.000Z",
+        "description": "Ceramics are like magical treasures from long, long ago. Imagine starting with soft, squishy clay made from rocks. Then people roll it, shape it on a spinning wheel, paint it with bright colors, add pretty patterns, and finally put it into a super-hot magical oven called a kiln. When it comes out, the soft clay has transformed into a shiny, hard ceramic—just like a caterpillar turning into a butterfly!",
+        "img_key_vision": {
+            "id": "3eojte26ta53",
+            "name": "exhibition_kv",
+            "type": "photo",
+            "alt_text": "Key visual image of the exhibition 'Shaping Clay into Wonders — Highlights from the Museum's Ceramic Collection'",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg",
+                    "media_sources": [
+                        {
+                            "width": 1920,
+                            "height": 870,
+                            "format": "jpeg",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/cdoirk5wxrn9_kv.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "medias": [
+            {
+                "id": "e4f4dbfefbee",
+                "name": "Related Video",
+                "type": "youtube",
+                "alt_text": "Related video",
+                "info": [
+                    {
+                        "type": "youtube",
+                        "value": "https://youtu.be/g3LaH_v1PRw?si=ohyXejJNvafZAL_y",
+                        "media_sources": []
+                    }
+                ]
+            }
+        ],
+        "venue_locations": [
+            {
+                "uid": "r5rl5xpwb35k",
+                "name": "2F",
+                "spaces": [
+                    {
+                        "uid": "um1n8c94iy53",
+                        "name": "201",
+                        "area_color": "#FFDD55"
+                    },
+                    {
+                        "uid": "ilajxhwztl86",
+                        "name": "205",
+                        "area_color": "#FFDD55"
+                    },
+                    {
+                        "uid": "2x5uxgoagswe",
+                        "name": "207",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            },
+            {
+                "uid": "2buppawyud8v",
+                "name": "1F",
+                "spaces": [
+                    {
+                        "uid": "8fgmmk6t0hyd",
+                        "name": "105",
+                        "area_color": "#FFDD55"
+                    },
+                    {
+                        "uid": "4i4f75xy2qm5",
+                        "name": "107",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            }
+        ],
+        "categories": [
+            {
+                "uid": "4q1maofs61mp",
+                "name": "Shaping Clay into Wonders"
+            },
+            {
+                "uid": "spw8cb6azox0",
+                "name": "Ceramic Highlights"
+            }
+        ],
+        "work_binding": [
+            {
+                "uid": "vsv5r2kehmn0",
+                "name": "Tang Dynasty — Tri-colored Polo Lady Figurine",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "Elegant and Admirable"
+                }
+            },
+            {
+                "uid": "zvxc0dzh2z8s",
+                "name": "Tang Dynasty — Painted Grey Pottery Lady Figurine",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "Elegant and Admirable"
+                }
+            },
+            {
+                "uid": "kkif0v0692c3",
+                "name": "Tang Dynasty — Xing Kiln White Glazed Belt-Handled Ewer",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "Elegant and Admirable"
+                }
+            },
+            {
+                "uid": "u1aa0k42shqh",
+                "name": "Five Dynasties — Yue Kiln Secret-Color Celadon Basin",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "Elegant and Admirable"
+                }
+            },
+            {
+                "uid": "keduinnnj85j",
+                "name": "Northern Song — Ding Ware White Porcelain Baby Pillow",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "Elegant and Admirable"
+                }
+            },
+            {
+                "uid": "u9q1z9zhax8a",
+                "name": "Northern Song — Ding Ware White Porcelain Meiping Vase with Lotus Decoration",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "Elegant and Admirable"
+                }
+            },
+            {
+                "uid": "2wyugdl3h5ij",
+                "name": "Southern Song — Guan Ware Celadon Ribbed Vessel",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "Elegant and Admirable"
+                }
+            },
+            {
+                "uid": "112o46mlffpc",
+                "name": "Southern Song — Guan Ware Celadon Hu-shaped Vase with Handles",
+                "category": {
+                    "uid": "4q1maofs61mp",
+                    "name": "Elegant and Admirable"
+                }
+            },
+            {
+                "uid": "1ozevenhi0ma",
+                "name": "Song Dynasty — Jian Ware Black Glazed Tea Bowl with Hare’s Fur Pattern",
+                "category": {
+                    "uid": "spw8cb6azox0",
+                    "name": "Exotic and Remarkable"
+                }
+            },
+            {
+                "uid": "2o6awyzgkatu",
+                "name": "Southern Song — Longquan Celadon Vase with Phoenix-shaped Handles",
+                "category": {
+                    "uid": "spw8cb6azox0",
+                    "name": "Exotic and Remarkable"
+                }
+            },
+            {
+                "uid": "e2bkzvk26ic2",
+                "name": "Yuan Dynasty — Blue-and-White Cup and Saucer",
+                "category": {
+                    "uid": "spw8cb6azox0",
+                    "name": "Exotic and Remarkable"
+                }
+            },
+            {
+                "uid": "ozy68rnni7yh",
+                "name": "Yuan Dynasty — Jun Ware Sky-Blue Glazed Bowl with Purple Splashes",
+                "category": {
+                    "uid": "spw8cb6azox0",
+                    "name": "Exotic and Remarkable"
+                }
+            }
+        ],
+        "works": [
+            {
+                "uid": "vsv5r2kehmn0",
+                "exhibit_number": "501",
+                "name": "Tang Dynasty: Sancai Polo Lady Figurine",
+                "description": "During the Tang dynasty, women admired a healthy and active appearance. They often wore narrow-sleeved jackets with turned-down collars and soft boots—light and practical outfits suitable for various equestrian activities. Polo, introduced from Persia, was especially popular among the upper classes of Tang society, and many tombs have yielded painted pottery or sancai figurines depicting polo players. This piece portrays a fashionable lady engaged in a polo match. She turns her torso to the side, her head leaning slightly forward. Her left hand is raised near the horse’s head as if holding the reins, while her right arm bends as though grasping a stick to strike the ball. A vivid red pigment remains on her chest, indicating the use of precious coloring materials.",
+                "order": 1,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1311,
+                    "y": -0.0539
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": true,
+                "medias": [
+                    {
+                        "id": "5f7fd08399c9",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Tang Dynasty Sancai Polo Lady Figurine: A ceramic sculpture of a mounted female rider. The composition is balanced, with dominant hues of yellow, green, and brown. The horse stands firmly with legs apart and head slightly lowered. The rider sits upright at the center, with a high coiffed hairstyle and hands positioned as if holding reins. The flowing sancai glazes create a glossy surface, giving the figure a calm and steady presence.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2244,
+                                        "height": 2992,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/vsv5r2kehmn0_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "3c3cd908a601",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/3c3cd908a601.mp3",
+                                "transcript": "During the Tang dynasty, women admired a healthy and active appearance. They often wore narrow-sleeved jackets with turned-down collars and soft boots—light and practical outfits suitable for various equestrian activities. Polo, introduced from Persia, was especially popular among the upper classes of Tang society, and many tombs have yielded painted pottery or sancai figurines depicting polo players. This piece portrays a fashionable lady engaged in a polo match. She turns her torso to the side, her head leaning slightly forward. Her left hand is raised near the horse’s head as if holding the reins, while her right arm bends as though grasping a stick to strike the ball. A vivid red pigment remains on her chest, indicating the use of precious coloring materials.",
+                                "caption_url": null,
+                                "duration": 39132
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "2a6983b2733a",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "592693246707",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/592693246707.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 40647
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "21aca35d2a6e",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "zvxc0dzh2z8s",
+                "exhibit_number": "502",
+                "name": "Tang Dynasty: Painted Gray-Earthenware Lady Figurine",
+                "description": "Among the mingqi figurines buried as tomb objects in the Tang dynasty, the well-known “Tang sancai” is only one category. Even more numerous—and produced over a longer period—were various types of painted earthenware figurines. These figures were typically molded using red or gray clay, refined by hand, fired in a kiln, and then decorated with painted pigments. In the case of this lady figurine, the piece was first shaped and fired in gray clay, then coated with a layer of white slip, on top of which red, green, black, and other pigments were applied. Unfortunately, most of the original vibrant colors have flaked away over time, leaving only faint traces of its once-brilliant appearance. The National Palace Museum holds two Tang painted gray-earthenware lady figurines (the other catalogued as Gift Porcelain 000550), both made in the Chang’an region during the eighth century and offering a glimpse into contemporary life. Noblewomen in mid-eighth-century Chang’an were characterized by full, rounded faces and elaborate hairstyles extending outward like cicada wings. Their figures were plump and graceful. They wore open-collared jackets and long skirts that grazed the ground, with the pointed tips of embroidered shoes peeking out from beneath. Although the skirt is voluminous, the draping folds of the sleeves and the gathered fabric between the feet reveal the soft, rounded form of the body beneath, fully expressing the elegant confidence and majestic beauty associated with women of the High Tang period.",
+                "order": 2,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1277,
+                    "y": -0.0704
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "d5125c241eed",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Tang Painted Gray-Earthenware Lady Figurine: A standing ceramic female figure. She stands upright with arms lowered naturally, one hand slightly raised, her long sleeves forming gentle curves. She wears a long robe with vertical folds falling from the shoulders. Her face is full and rounded with simply defined features and a calm expression. The symmetrical high coiffure is neatly arranged. The overall surface shows a soft, earthy tone with signs of age.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2290,
+                                        "height": 3053,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8183fb58b9b0",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Tang Painted Gray-Earthenware Lady Figurine",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2290,
+                                        "height": 3053,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "99c9ef8da2ea",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Tang Painted Gray-Earthenware Lady Figurine",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_03.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 800,
+                                        "height": 533,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/zvxc0dzh2z8s_03.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "1327a188c6f5",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/1327a188c6f5.mp3",
+                                "transcript": "Among the mingqi figurines buried as tomb objects in the Tang dynasty, the well-known “Tang sancai” is only one category. Even more numerous—and produced over a longer period—were various types of painted earthenware figurines. These figures were typically molded using red or gray clay, refined by hand, fired in a kiln, and then decorated with painted pigments. In the case of this lady figurine, the piece was first shaped and fired in gray clay, then coated with a layer of white slip, on top of which red, green, black, and other pigments were applied. Unfortunately, most of the original vibrant colors have flaked away over time, leaving only faint traces of its once-brilliant appearance. The National Palace Museum holds two Tang painted gray-earthenware lady figurines (the other catalogued as Gift Porcelain 000550), both made in the Chang’an region during the eighth century and offering a glimpse into contemporary life. Noblewomen in mid-eighth-century Chang’an were characterized by full, rounded faces and elaborate hairstyles extending outward like cicada wings. Their figures were plump and graceful. They wore open-collared jackets and long skirts that grazed the ground, with the pointed tips of embroidered shoes peeking out from beneath. Although the skirt is voluminous, the draping folds of the sleeves and the gathered fabric between the feet reveal the soft, rounded form of the body beneath, fully expressing the elegant confidence and majestic beauty associated with women of the High Tang period.",
+                                "caption_url": null,
+                                "duration": 101564
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "4e4f7aa7c07b",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "7d02223d031d",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/7d02223d031d.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 39341
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "365c709a89cb",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "kkif0v0692c3",
+                "exhibit_number": "503",
+                "name": "Tang Dynasty — Xing Kiln White-Glazed Flask with Strap Loops",
+                "description": "This white-glazed flask imitates the form of water containers made from metal or leather, often used by nomadic peoples. The exterior walls and base are covered in a glossy white glaze, with pooled areas showing a slight bluish tint reminiscent of lake water. The glaze inside the vessel covers less than half, revealing the grayish-white clay body beneath. The vessel features a flared round mouth, short neck, ring foot, and a long cylindrical body with slightly indented sides. Pairs of strap loops are attached to the upper and lower sections, allowing cords to pass through—much like flasks carried on horseback. During the Tang dynasty, objects made from different materials often imitated one another. Another example in the museum’s collection is a white-glazed molded cup with fish motifs, shaped like a four-petaled flower, which derives from the multi-lobed metal drinking cups of the Sasanian tradition.",
+                "order": 3,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.13,
+                    "y": -0.0874
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "6b3f7e1fe51a",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Tang Dynasty — Xing Kiln White-Glazed Flask with Strap Loops: A smooth, unpainted white ceramic flask. The body is slightly elongated and cylindrical, narrowing toward the top with gently flaring shoulders. The mouth is wide with a simple outward-curving rim. Small, understated strap loops are attached to the upper and lower sections. The flask has a clean, elegant silhouette with a soft white sheen.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2294,
+                                        "height": 3049,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "21c8fa18240b",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Tang Dynasty — Xing Kiln White-Glazed Flask with Strap Loops",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 708,
+                                        "height": 472,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/kkif0v0692c3_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "6987d1166728",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/6987d1166728.mp3",
+                                "transcript": "This white-glazed flask imitates the form of water containers made from metal or leather, often used by nomadic peoples. The exterior walls and base are covered in a glossy white glaze, with pooled areas showing a slight bluish tint reminiscent of lake water. The glaze inside the vessel covers less than half, revealing the grayish-white clay body beneath. The vessel features a flared round mouth, short neck, ring foot, and a long cylindrical body with slightly indented sides. Pairs of strap loops are attached to the upper and lower sections, allowing cords to pass through—much like flasks carried on horseback. During the Tang dynasty, objects made from different materials often imitated one another. Another example in the museum’s collection is a white-glazed molded cup with fish motifs, shaped like a four-petaled flower, which derives from the multi-lobed metal drinking cups of the Sasanian tradition.",
+                                "caption_url": null,
+                                "duration": 52010
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "0f51f28990e1",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9e61eab56dc4",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9e61eab56dc4.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 41091
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "1b8a83d07538",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "u1aa0k42shqh",
+                "exhibit_number": "504",
+                "name": "Five Dynasties — Yue Ware Secret-Color Celadon Basin",
+                "description": "This celadon basin features an outward-flaring rim with a folded edge, a slanted curved wall, deep rounded belly, and a flat base. The center of the underside is slightly concave, and firing marks remain clearly visible along the footring, where the unglazed areas reveal the gray clay body. The piece is covered in a translucent celadon glaze of grayish-green tone. The glaze is thin and evenly applied, with a few pale speckled patches on the outer wall. Before archaeological discoveries in the early Republic of China period clarified kiln attributions, experts from the Qing Court Aftercare Committee mistakenly identified this piece as a Ru ware product and inscribed inside the basin: “One Ru ware flared-rim fruit wash.” This inscription reflects how historical and modern approaches to ceramic connoisseurship may differ. The museum’s Yue ware ‘secret-color’ celadon basin is finely glazed, elegant in form, and closely resembles celadon basins unearthed from Five Dynasties tombs, suggesting it may have been used by members of the upper class during that period.",
+                "order": 4,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1319,
+                    "y": -0.0709
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "c09ee3e38337",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Five Dynasties — Yue Ware Secret-Color Celadon Basin: A shallow ceramic basin with a wide circular opening. The rim flares gently outward with smooth edges. Covered in a soft greenish celadon glaze, the surface is even with subtle natural speckling. The body tapers downward toward a smaller flat base, giving the vessel a simple and composed appearance.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/u1aa0k42shqh_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1501,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/u1aa0k42shqh_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "60bf6b265fb8",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/60bf6b265fb8.mp3",
+                                "transcript": "This celadon basin features an outward-flaring rim with a folded edge, a slanted curved wall, deep rounded belly, and a flat base. The center of the underside is slightly concave, and firing marks remain clearly visible along the footring, where the unglazed areas reveal the gray clay body. The piece is covered in a translucent celadon glaze of grayish-green tone. The glaze is thin and evenly applied, with a few pale speckled patches on the outer wall. Before archaeological discoveries in the early Republic of China period clarified kiln attributions, experts from the Qing Court Aftercare Committee mistakenly identified this piece as a Ru ware product and inscribed inside the basin: “One Ru ware flared-rim fruit wash.” This inscription reflects how historical and modern approaches to ceramic connoisseurship may differ. The museum’s Yue ware ‘secret-color’ celadon basin is finely glazed, elegant in form, and closely resembles celadon basins unearthed from Five Dynasties tombs, suggesting it may have been used by members of the upper class during that period.",
+                                "caption_url": null,
+                                "duration": 69329
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "eaa72f1786a0",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "0c1d46bdd9ec",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/0c1d46bdd9ec.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 37799
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "27cf769f6266",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "keduinnnj85j",
+                "exhibit_number": "505",
+                "name": "Northern Song — Ding Ware White-Glazed Baby Pillow",
+                "description": "This white-glazed ceramic pillow shaped as a reclining infant exemplifies the refined modeling and decorative techniques of Ding ware. Ding kilns primarily produced white porcelains noted for their precise craftsmanship, smooth and lustrous glaze, and ivory-tinged color. Decorative methods included shallow carving, deep engraving, and molded designs. On this pillow, the creamy white glaze appears warm and mellow. The head and body were each formed in two joined halves, assembled together, and then finely carved to define the facial features. Various decorative techniques were skillfully combined: the floral motifs along the hem of the long garment, the spherical patterns on the vest, and the cloud-and-chilong designs on the platform are all rendered through molding, while the peony scrolls on the back are carved. The molded patterns are crisp, and the carved lines flow naturally, achieving a harmonious balance. On the underside is an imperial poem composed by the Qianlong Emperor, in which he likens such pillows to ‘warning pillows’—objects reminding him to remain diligent. When read together with other imperial poems on Ding ware child pillows, it also reveals his wish, like King Wu Ding in ancient times, to find virtuous ministers through dreams. Only three surviving examples of this baby-pillow form are known today, two housed in this museum and the third in the Palace Museum, Beijing.",
+                "order": 5,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1325,
+                    "y": -0.1153
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "0c1d46bdd9ec",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Northern Song — Ding Ware White-Glazed Baby Pillow: A ceramic figure of an infant lying sideways on a rectangular platform. The child lifts its head slightly, with both hands resting beneath the cheek. The rounded face shows a calm, gentle smile. The clothing bears delicate patterns, with folds and motifs clearly rendered. The glaze is soft and pale, with a smooth, ivory-white sheen.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/keduinnnj85j_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/keduinnnj85j_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "a65d8a4211b0",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/a65d8a4211b0.mp3",
+                                "transcript": "This white-glazed ceramic pillow shaped as a reclining infant exemplifies the refined modeling and decorative techniques of Ding ware. Ding kilns primarily produced white porcelains noted for their precise craftsmanship, smooth and lustrous glaze, and ivory-tinged color. Decorative methods included shallow carving, deep engraving, and molded designs. On this pillow, the creamy white glaze appears warm and mellow. The head and body were each formed in two joined halves, assembled together, and then finely carved to define the facial features. Various decorative techniques were skillfully combined: the floral motifs along the hem of the long garment, the spherical patterns on the vest, and the cloud-and-chilong designs on the platform are all rendered through molding, while the peony scrolls on the back are carved. The molded patterns are crisp, and the carved lines flow naturally, achieving a harmonious balance. On the underside is an imperial poem composed by the Qianlong Emperor, in which he likens such pillows to ‘warning pillows’—objects reminding him to remain diligent. When read together with other imperial poems on Ding ware child pillows, it also reveals his wish, like King Wu Ding in ancient times, to find virtuous ministers through dreams. Only three surviving examples of this baby-pillow form are known today, two housed in this museum and the third in the Palace Museum, Beijing.",
+                                "caption_url": null,
+                                "duration": 96209
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d91e694d1494",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "058ea97a1461",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/058ea97a1461.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36781
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "60df49b273fd",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "u9q1z9zhax8a",
+                "exhibit_number": "506",
+                "name": "Northern Song — Ding Ware White-Glazed Meiping with Incised Lotus Design",
+                "description": "This meiping vase features a small mouth with a rounded lip, a short neck, high rounded shoulders, and an elongated body that tapers gracefully downward before flaring slightly near the base. The recessed base forms a ring foot. The vessel is decorated with incised motifs. Short, oval lotus petals are arranged in rows around the upper section, while the lower section features slender, elongated petals outlined with double incised lines. At the center of the body, front and back, appear sprays of branching lotus blossoms, accompanied on each side by simple outlines of lotus leaves. The entire vase is covered in an ivory-white glaze that drips lightly in places, forming characteristic tear marks. The footrim is left unglazed.",
+                "order": 6,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1336,
+                    "y": -0.1356
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "e0a3b984dd1d",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Northern Song — Ding Ware White-Glazed Meiping with Incised Lotus Design: A tall white porcelain vase with a gently curving silhouette that tapers toward the base. The small flared mouth and short neck lead into rounded shoulders. Fine incised patterns, including leaf and scrolling motifs, cover the surface without protruding. The glaze is soft and creamy white, giving the vase an elegant, elongated form.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 2541,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "f9e6e8b86a02",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Northern Song — Ding Ware White-Glazed Meiping with Incised Lotus Design",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 800,
+                                        "height": 534,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/u9q1z9zhax8a_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "cba350e01943",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/cba350e01943.mp3",
+                                "transcript": "This meiping vase features a small mouth with a rounded lip, a short neck, high rounded shoulders, and an elongated body that tapers gracefully downward before flaring slightly near the base. The recessed base forms a ring foot. The vessel is decorated with incised motifs. Short, oval lotus petals are arranged in rows around the upper section, while the lower section features slender, elongated petals outlined with double incised lines. At the center of the body, front and back, appear sprays of branching lotus blossoms, accompanied on each side by simple outlines of lotus leaves. The entire vase is covered in an ivory-white glaze that drips lightly in places, forming characteristic tear marks. The footrim is left unglazed.",
+                                "caption_url": null,
+                                "duration": 43102
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "8524399f0569",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "af8e61f3ee4c",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/af8e61f3ee4c.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36702
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "612d1cd52660",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "2wyugdl3h5ij",
+                "exhibit_number": "507",
+                "name": "Southern Song — Guan Ware Celadon Zun with String-Pattern Decoration",
+                "description": "This vessel features a cylindrical body with straight sides, an inner rim forming a raised lip, deep vertical walls, and three beast-shaped feet left unglazed on the underside. The form is stately and balanced, with a rich bluish-green glaze characteristic of Guan ware. The dense network of crackles appears in layered patterns, while the shape itself derives from earlier Northern Song forms seen in Ru and Ding ware zun vessels with string-pattern bands. The broad and flat base bears twelve large spur marks revealing the dark gray clay body beneath. The exterior wall is decorated with three tiers of string patterns, each composed of three horizontal raised lines. The entire piece is coated in a thick, lustrous pale blue glaze. Where the glaze pools and thins around the ridges, the string-pattern relief appears slightly darkened in brownish tones. Along the rim, the thinner glaze reveals subtle reddish-brown hues. The surface is covered in intricate, ice-crackle patterns. Similar fragments have been unearthed at the Jiaotanxia and Laohudong Guan kiln sites in Hangzhou, Zhejiang.",
+                "order": 7,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1282,
+                    "y": -0.1018
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "2c4c3e5d0364",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Southern Song — Guan Ware Celadon Zun with String-Pattern Decoration: A circular vessel shown upside down. The pale celadon glaze displays dense crackle patterns. Multiple pronounced spur marks appear across the base, in dark brown tones. Three short supporting feet of matching glaze emerge around the edge, giving the object a stable, disc-like appearance.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2003,
+                                        "height": 1502,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "a55d0ced4de5",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Southern Song — Guan Ware Celadon Zun with String-Pattern Decoration",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2003,
+                                        "height": 1502,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "0a872f5e851e",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Southern Song — Guan Ware Celadon Zun with String-Pattern Decoration",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_03.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1505,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_03.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "edf0cf1b05d1",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/edf0cf1b05d1.mp3",
+                                "transcript": "This vessel features a cylindrical body with straight sides, an inner rim forming a raised lip, deep vertical walls, and three beast-shaped feet left unglazed on the underside. The form is stately and balanced, with a rich bluish-green glaze characteristic of Guan ware. The dense network of crackles appears in layered patterns, while the shape itself derives from earlier Northern Song forms seen in Ru and Ding ware zun vessels with string-pattern bands. The broad and flat base bears twelve large spur marks revealing the dark gray clay body beneath. The exterior wall is decorated with three tiers of string patterns, each composed of three horizontal raised lines. The entire piece is coated in a thick, lustrous pale blue glaze. Where the glaze pools and thins around the ridges, the string-pattern relief appears slightly darkened in brownish tones. Along the rim, the thinner glaze reveals subtle reddish-brown hues. The surface is covered in intricate, ice-crackle patterns. Similar fragments have been unearthed at the Jiaotanxia and Laohudong Guan kiln sites in Hangzhou, Zhejiang.",
+                                "caption_url": null,
+                                "duration": 64732
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "558652b1cfac",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "39106da430a9",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/39106da430a9.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36336
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "f319797015bd",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "112o46mlffpc",
+                "exhibit_number": "508",
+                "name": "Southern Song — Guan Ware Celadon Vase with Tube Handles",
+                "description": "This vase features a slightly flared round mouth, a short neck, and a pair of tubular handles attached symmetrically to the shoulders. The body is full and rounded, tapering to a flat base supported by a low ring foot. Two raised string lines encircle the neck. The clay body is thick and substantial, and the entire vessel is coated in a rich celadon glaze. The surface is covered with fine crackle lines in pale brown tones, with occasional tiny pinholes. The edge of the ring foot reveals the unglazed clay body, brushed with an iron-brown slip.",
+                "order": 8,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1259,
+                    "y": -0.1345
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": true,
+                "medias": [
+                    {
+                        "id": "df9c2570906e",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Southern Song — Guan Ware Celadon Vase with Tube Handles: A pale celadon-glazed vase with a rounded body, narrow neck, and flared rim. The surface is covered in fine crackle patterns. Two short tubular handles extend symmetrically from the shoulders. The foot flares gently outward to form a stable circular base. The overall shape is harmonious and understated.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 300,
+                                        "height": 400,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/112o46mlffpc_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "12c6076e4899",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/12c6076e4899.mp3",
+                                "transcript": "This vase features a slightly flared round mouth, a short neck, and a pair of tubular handles attached symmetrically to the shoulders. The body is full and rounded, tapering to a flat base supported by a low ring foot. Two raised string lines encircle the neck. The clay body is thick and substantial, and the entire vessel is coated in a rich celadon glaze. The surface is covered with fine crackle lines in pale brown tones, with occasional tiny pinholes. The edge of the ring foot reveals the unglazed clay body, brushed with an iron-brown slip.",
+                                "caption_url": null,
+                                "duration": 27768
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "868d111231b9",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "722baa57f21a",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/722baa57f21a.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 34926
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "890b036a865f",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "1ozevenhi0ma",
+                "exhibit_number": "509",
+                "name": "Song Dynasty — Jian Ware Black-Glazed “Hare’s Fur” Tea Bowl",
+                "description": "This tea bowl features a contracted rim with a gently inward-curving lip, deep rounded walls, and a small ring foot. The glaze does not extend to the base, leaving the thick, coarse, dark brown clay exposed. The exterior of the foot is unglazed, while the recessed inner foot bears an incised character, 律 (“lü”), in regular script. The glaze is a dense, flowing jet-black that drips down the outer wall near the foot and pools thickly at the interior center. Around the rim, the thinner glaze forms the characteristic warm brown “hare’s fur mouth.” Both the interior and exterior surfaces display fine streaks of blue-yellow crystalline patterns created during firing. These streaks flow with the glaze, interweaving in rich layers reminiscent of the glossy fur of an autumn hare—hence the name “hare’s fur bowl,” as used in the Song dynasty.",
+                "order": 9,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1251,
+                    "y": -0.1092
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "8aae9bf5df7a",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Song Dynasty Jian Ware Hare’s Fur Bowl: Base view showing a dark glossy glaze surrounding an unglazed gray circular foot with carved character. The overall shape is compact and symmetrical.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "fc4b31dbe1a2",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Song Dynasty Jian Ware Hare’s Fur Bowl",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "87bbc1ade767",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Song Dynasty Jian Ware Hare’s Fur Bowl",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_03.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/1ozevenhi0ma_03.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "4eb455a66dbf",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/4eb455a66dbf.mp3",
+                                "transcript": "This tea bowl features a contracted rim with a gently inward-curving lip, deep rounded walls, and a small ring foot. The glaze does not extend to the base, leaving the thick, coarse, dark brown clay exposed. The exterior of the foot is unglazed, while the recessed inner foot bears an incised character, 律 (“lü”), in regular script. The glaze is a dense, flowing jet-black that drips down the outer wall near the foot and pools thickly at the interior center. Around the rim, the thinner glaze forms the characteristic warm brown “hare’s fur mouth.” Both the interior and exterior surfaces display fine streaks of blue-yellow crystalline patterns created during firing. These streaks flow with the glaze, interweaving in rich layers reminiscent of the glossy fur of an autumn hare—hence the name “hare’s fur bowl,” as used in the Song dynasty.",
+                                "caption_url": null,
+                                "duration": 47047
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d946f060177e",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "3921eb02bf24",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/3921eb02bf24.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 37799
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "c237c794e0b8",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "2o6awyzgkatu",
+                "exhibit_number": "510",
+                "name": "Southern Song Dynasty — Longquan Celadon Vase with Phoenix Handles",
+                "description": "This celadon vase features a straight body, long neck, and dish-shaped mouth. Phoenix-shaped handles are applied to both sides of the neck, giving the piece an elegant and dignified silhouette. It is one of the representative works of the Longquan kilns during the Southern Song dynasty. Located in southern Zhejiang, Longquan was a vast ceramic-production region known for its diverse output. After the Southern Song period, it became a major supplier of ceramics both domestically and internationally, with its wares frequently discovered in Song and Yuan tombs, hoards, and archaeological sites along overseas trade routes. The long-necked, dish-lipped vase type was first produced by the Northern Song Ru kilns and later adopted by Southern Song official kilns, becoming a favored form among imperial ceramics. Longquan potters then introduced variations by adding fish- or phoenix-shaped handles. On this vase, the phoenix handles are crisply molded, with clearly defined heads and feathers. The glaze is a luminous powder-green celadon, smooth, even, and free of flaws. It closely resembles the celebrated Longquan phoenix-ear vases preserved in Japan, inscribed by imperial decree with the names “Senshō” and “Banshō,” and ranks among the finest examples of Longquan ware.",
+                "order": 10,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "um1n8c94iy53",
+                            "name": "201",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1287,
+                    "y": -0.0713
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": true,
+                "medias": [
+                    {
+                        "id": "dc85bc19fcc5",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Southern Song Dynasty Longquan Celadon Phoenix-Ear Vase: A pale green celadon vase with a straight, symmetrical form. The cylindrical lower body transitions into a long neck and wide flat mouth. Decorative phoenix-shaped handles appear on both sides. The glaze is smooth and evenly applied.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6f4149791ac5",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Southern Song Dynasty Longquan Celadon Phoenix-Ear Vase",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/2o6awyzgkatu_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "9aa2e67c120d",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/9aa2e67c120d.mp3",
+                                "transcript": "This celadon vase features a straight body, long neck, and dish-shaped mouth. Phoenix-shaped handles are applied to both sides of the neck, giving the piece an elegant and dignified silhouette. It is one of the representative works of the Longquan kilns during the Southern Song dynasty. Located in southern Zhejiang, Longquan was a vast ceramic-production region known for its diverse output. After the Southern Song period, it became a major supplier of ceramics both domestically and internationally, with its wares frequently discovered in Song and Yuan tombs, hoards, and archaeological sites along overseas trade routes. The long-necked, dish-lipped vase type was first produced by the Northern Song Ru kilns and later adopted by Southern Song official kilns, becoming a favored form among imperial ceramics. Longquan potters then introduced variations by adding fish- or phoenix-shaped handles. On this vase, the phoenix handles are crisply molded, with clearly defined heads and feathers. The glaze is a luminous powder-green celadon, smooth, even, and free of flaws. It closely resembles the celebrated Longquan phoenix-ear vases preserved in Japan, inscribed by imperial decree with the names “Senshō” and “Banshō,” and ranks among the finest examples of Longquan ware.",
+                                "caption_url": null,
+                                "duration": 86178
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "e56ec971d53a",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "050d0b2bed9d",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 30041
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "8aece7d49cae",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "e2bkzvk26ic2",
+                "exhibit_number": "511",
+                "name": "Yuan Dynasty — Cobalt-Blue Cup with Single Handle",
+                "description": "This cup has a funnel-shaped form with a metal rim at the mouth. The slanted body features a ring-shaped handle on one side. The base is carved into a recessed foot, left unglazed and coated with a yellowish-brown slip for protection. Except for the base, the entire surface is covered in a cobalt-blue glaze. Traces of once-present gold or silver foil decoration can still be faintly seen on the glaze. Below the inner rim is a band of lozenge-patterned squares, while the center of the interior displays a twelve-pointed star rosette. A single branch of plum blossoms encircles the exterior wall.",
+                "order": 11,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "ilajxhwztl86",
+                            "name": "205",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.3779,
+                    "y": 0.3638
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "61e9e2384d96",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Yuan Dynasty Cobalt-Blue Single-Handled Cup: A deep-blue, funnel-shaped cup with a slightly flared rim edged in metal. One side features a small rectangular loop handle. The glaze is smooth and richly colored.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "3942337718ea",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/3942337718ea.mp3",
+                                "transcript": "This cup has a funnel-shaped form with a metal rim at the mouth. The slanted body features a ring-shaped handle on one side. The base is carved into a recessed foot, left unglazed and coated with a yellowish-brown slip for protection. Except for the base, the entire surface is covered in a cobalt-blue glaze. Traces of once-present gold or silver foil decoration can still be faintly seen on the glaze. Below the inner rim is a band of lozenge-patterned squares, while the center of the interior displays a twelve-pointed star rosette. A single branch of plum blossoms encircles the exterior wall.",
+                                "caption_url": null,
+                                "duration": 34926
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "77ab090a6a87",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "33e7c462eb5e",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/33e7c462eb5e.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 28291
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "c0b8827d5958",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "ozy68rnni7yh",
+                "exhibit_number": "512",
+                "name": "Yuan Dynasty — Jun Ware Bowl with Sky-Blue Glaze and Purple Splashes",
+                "description": "This bowl features a slightly constricted, round mouth, deep curving walls, and a pointed base with a short ring foot. The glaze differs between the interior and exterior. Inside, the glaze is a sky-blue color, with the unglazed area at the base center showing a three-pronged support mark. The exterior is also sky-blue but displays cloud-like purple splashes within the glaze layer, resembling rosy clouds. The rim is accented with a band of reddish-brown. Parts of the ring foot are roughly finished, and the unglazed areas on the foot base, foot wall, and inner rim reveal the reddish earthen body. The slightly convex base is coated with sky-blue glaze.",
+                "order": 12,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "ilajxhwztl86",
+                            "name": "205",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.3487,
+                    "y": 0.2585
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "740b0cf35be9",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Yuan Dynasty Jun Ware Bowl with Sky-Blue Glaze and Purple Splashes: A round ceramic bowl featuring soft gradient hues blending light blue, violet, and green. The rim slightly flares outward with a fine brown edge. The body is full and rounded with a small circular foot.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1c434a29c894",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "Yuan Dynasty Jun Ware Bowl with Sky-Blue Glaze and Purple Splashes",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "18abaa3a6c2d",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/18abaa3a6c2d.mp3",
+                                "transcript": "斂圓口，深弧形壁，尖底並有矮圈足。釉色裏外不一致，內壁釉色為天藍色，底部中心處無釉，留有一塊三杈形的支痕。外壁釉色為天藍色但釉層中泛出猶如彩霞的紫色斑紋，口沿一道赭紅邊。圈足底緣修飾不完整，足底、圈足外壁及內周壁無釉處，皆露赭土色胎，外底心微凸，施天藍色釉彩。",
+                                "caption_url": null,
+                                "duration": 44931
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d5500bc880b3",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "aa08cc1b0cc2",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/aa08cc1b0cc2.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36807
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "1984559e9453",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "6qid5gpesqjp",
+        "exhibit_number": "719",
+        "name": "放大鏡｜英國 約1760-1770年｜故雜103",
+        "description": "西洋製，可開闔，雙片式目鏡，瑪瑙鑲雕金花外框為柄，二片圓形透明玻璃鏡片可自兩側展開。金色鏤空紋飾具歐洲巴洛克式裝飾風格，線條迴旋律動且對稱呼應，整體設計精巧華美。",
+        "order": 4,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "y2clxyjxromp",
+                    "name": "300",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.0026,
+            "y": 0.0679
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "33d6eb6882fc",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "放大鏡：這是一件金屬製的細長工具，外形帶有精緻裝飾。上端是一個圓形的開口框，與下方手柄以兩條細長的金屬線條相連。手柄部分呈水滴形，中央填有藍色底板，外覆金色鏤空花葉與卷草圖案。底部收成尖端狀。整體造型纖細優雅，裝飾華麗。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg",
+                        "media_sources": [
+                            {
+                                "width": 450,
+                                "height": 600,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "fc6352b0b68a",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/fc6352b0b68a.mp3",
+                        "transcript": "西洋製，可開闔，雙片式目鏡，瑪瑙鑲雕金花外框為柄，二片圓形透明玻璃鏡片可自兩側展開。金色鏤空紋飾具歐洲巴洛克式裝飾風格，線條迴旋律動且對稱呼應，整體設計精巧華美。",
+                        "caption_url": null,
+                        "duration": 25287
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "46037cc5675d",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "42cfb3360963",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/42cfb3360963.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 33567
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "bd95fcbdb64d",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

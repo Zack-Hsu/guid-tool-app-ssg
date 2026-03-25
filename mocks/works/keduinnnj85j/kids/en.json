@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "keduinnnj85j",
+        "exhibit_number": "505",
+        "name": "Northern Song — Ding Ware White-Glazed Baby Pillow",
+        "description": "This white-glazed ceramic pillow shaped as a reclining infant exemplifies the refined modeling and decorative techniques of Ding ware. Ding kilns primarily produced white porcelains noted for their precise craftsmanship, smooth and lustrous glaze, and ivory-tinged color. Decorative methods included shallow carving, deep engraving, and molded designs. On this pillow, the creamy white glaze appears warm and mellow. The head and body were each formed in two joined halves, assembled together, and then finely carved to define the facial features. Various decorative techniques were skillfully combined: the floral motifs along the hem of the long garment, the spherical patterns on the vest, and the cloud-and-chilong designs on the platform are all rendered through molding, while the peony scrolls on the back are carved. The molded patterns are crisp, and the carved lines flow naturally, achieving a harmonious balance. On the underside is an imperial poem composed by the Qianlong Emperor, in which he likens such pillows to ‘warning pillows’—objects reminding him to remain diligent. When read together with other imperial poems on Ding ware child pillows, it also reveals his wish, like King Wu Ding in ancient times, to find virtuous ministers through dreams. Only three surviving examples of this baby-pillow form are known today, two housed in this museum and the third in the Palace Museum, Beijing.",
+        "order": 5,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1325,
+            "y": -0.1153
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "0c1d46bdd9ec",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Northern Song — Ding Ware White-Glazed Baby Pillow: A ceramic figure of an infant lying sideways on a rectangular platform. The child lifts its head slightly, with both hands resting beneath the cheek. The rounded face shows a calm, gentle smile. The clothing bears delicate patterns, with folds and motifs clearly rendered. The glaze is soft and pale, with a smooth, ivory-white sheen.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/keduinnnj85j_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 3053,
+                                "height": 2290,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/keduinnnj85j_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "a65d8a4211b0",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/a65d8a4211b0.mp3",
+                        "transcript": "This white-glazed ceramic pillow shaped as a reclining infant exemplifies the refined modeling and decorative techniques of Ding ware. Ding kilns primarily produced white porcelains noted for their precise craftsmanship, smooth and lustrous glaze, and ivory-tinged color. Decorative methods included shallow carving, deep engraving, and molded designs. On this pillow, the creamy white glaze appears warm and mellow. The head and body were each formed in two joined halves, assembled together, and then finely carved to define the facial features. Various decorative techniques were skillfully combined: the floral motifs along the hem of the long garment, the spherical patterns on the vest, and the cloud-and-chilong designs on the platform are all rendered through molding, while the peony scrolls on the back are carved. The molded patterns are crisp, and the carved lines flow naturally, achieving a harmonious balance. On the underside is an imperial poem composed by the Qianlong Emperor, in which he likens such pillows to ‘warning pillows’—objects reminding him to remain diligent. When read together with other imperial poems on Ding ware child pillows, it also reveals his wish, like King Wu Ding in ancient times, to find virtuous ministers through dreams. Only three surviving examples of this baby-pillow form are known today, two housed in this museum and the third in the Palace Museum, Beijing.",
+                        "caption_url": null,
+                        "duration": 96209
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "d91e694d1494",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "058ea97a1461",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/058ea97a1461.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 36781
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "60df49b273fd",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

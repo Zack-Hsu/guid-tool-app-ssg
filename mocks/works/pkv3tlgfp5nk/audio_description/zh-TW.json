@@ -1,0 +1,108 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "pkv3tlgfp5nk",
+        "exhibit_number": "718",
+        "name": "鑲金玻璃香水瓶｜英國倫敦 約1760年｜故雜1658",
+        "description": "長形切割玻璃扁瓶，外鑲刻渦捲式花葉紋金框，有玻璃蓋，外有雕金花旋紐蓋。瓶蓋口緣白色琺瑯金字法文「VOTRE AMITIÉ ENRETOUR」。這類多曲線且華麗的鑲金框玻璃小瓶，多為英皇喬治三世時製品。",
+        "order": 3,
+        "venue_location": {
+            "uid": "m4z9jsudiugf",
+            "name": "3F",
+            "spaces": [
+                {
+                    "uid": "y2clxyjxromp",
+                    "name": "300",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.0089,
+            "y": 0.0643
+        },
+        "exhibition_uid": "9sukyibvka40",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "2d74b579d2a3",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "鑲金玻璃香水瓶：這是一件透明容器外加金屬包飾的小瓶。瓶身由清透材質構成，外層覆有繁複的金色金屬框架，形成卷草、花朵與欄杆般的裝飾線條。瓶頸部分包覆金屬雕飾，瓶蓋呈圓頂形，帶有細密紋樣，頸部環繞一圈小型飾帶。整體外觀華麗精巧，突顯金屬工藝的細緻。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 375,
+                                "height": 500,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "ff96b4a4caf1",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ff96b4a4caf1.mp3",
+                        "transcript": "長形切割玻璃扁瓶，外鑲刻渦捲式花葉紋金框，有玻璃蓋，外有雕金花旋紐蓋。瓶蓋口緣白色琺瑯金字法文「VOTRE AMITIÉ ENRETOUR」。這類多曲線且華麗的鑲金框玻璃小瓶，多為英皇喬治三世時製品。",
+                        "caption_url": null,
+                        "duration": 24581
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "95983dfe4a5a",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                        "duration": 8400
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "6a37913e266c",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/6a37913e266c.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 38087
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "dc0744a283c9",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

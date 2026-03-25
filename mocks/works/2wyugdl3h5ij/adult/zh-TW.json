@@ -1,0 +1,148 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "2wyugdl3h5ij",
+        "exhibit_number": "507",
+        "name": "南宋　官窯　青瓷弦紋樽",
+        "description": "圓直腹筒形器身，口沿內帶一道唇邊，深週壁，三獸蹄足，足底無釉。本件作品造形端莊穩重，釉色青而滋潤，開片紋疊疊層層，而直腹弦紋三足尊之器形乃傳承自北宋的汝窯及定窯。器身外底寬平，周有支釘痕十二枚，釘痕粗大，露灰黑色胎。器外壁飾弦紋三層，每層各三道。全器施粉青色釉，釉質濃潤，釉汁垂流使弦紋凸稜處微現黑褐色，口沿邊稜釉薄處微呈淺紅褐色，釉面滿佈層層冰裂的開片紋。浙江杭州郊壇下官窯和老虎洞窯址都出土類似的標本殘件。",
+        "order": 7,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "um1n8c94iy53",
+                    "name": "201",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.1282,
+            "y": -0.1018
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "2c4c3e5d0364",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "南宋 官窯　青瓷弦紋樽：這是一件圓形的陶瓷器底部朝上展示。表面覆蓋淡青色釉，帶有細密的開片紋理。圓面上均勻分布多個小突點，呈深褐色，略為凸起。圓緣外側有三個短小的柱狀支點，均為相同釉色。整體呈現平整的圓盤形。",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2003,
+                                "height": 1502,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "a55d0ced4de5",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "南宋 官窯　青瓷弦紋樽",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2003,
+                                "height": 1502,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "0a872f5e851e",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "南宋 官窯　青瓷弦紋樽",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_03.jpg",
+                        "media_sources": [
+                            {
+                                "width": 2000,
+                                "height": 1505,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/2wyugdl3h5ij_03.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "edf0cf1b05d1",
+                "name": "語音導覽",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/edf0cf1b05d1.mp3",
+                        "transcript": "圓直腹筒形器身，口沿內帶一道唇邊，深週壁，三獸蹄足，足底無釉。本件作品造形端莊穩重，釉色青而滋潤，開片紋疊疊層層，而直腹弦紋三足尊之器形乃傳承自北宋的汝窯及定窯。器身外底寬平，周有支釘痕十二枚，釘痕粗大，露灰黑色胎。器外壁飾弦紋三層，每層各三道。全器施粉青色釉，釉質濃潤，釉汁垂流使弦紋凸稜處微現黑褐色，口沿邊稜釉薄處微呈淺紅褐色，釉面滿佈層層冰裂的開片紋。浙江杭州郊壇下官窯和老虎洞窯址都出土類似的標本殘件。",
+                        "caption_url": null,
+                        "duration": 64732
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "558652b1cfac",
+                "name": "手語影片",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "39106da430a9",
+                "name": "口述影像音檔",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/39106da430a9.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 36336
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "f319797015bd",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

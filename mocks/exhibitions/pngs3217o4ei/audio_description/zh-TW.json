@@ -1,0 +1,760 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "pngs3217o4ei",
+        "name": "甲子萬年：國立故宮博物院百年院慶特展",
+        "start_date": "2026-10-04T00:00:00.000Z",
+        "end_date": "2027-01-04T23:59:59.000Z",
+        "description": "國立故宮博物院所承載的不僅是文物，更是一段跨越時代的集體記憶。2025年，是故宮發展歷程中的重要時刻——自1925年從皇家典藏轉型為全民共享的博物館已屆百年；自1950年遷臺並入北溝庫房保存文物屆滿75年；自1965年以「國立故宮博物院」之名在臺落地生根亦邁入第60年；同時也是南部院區自2015年開館至今的第10年。值此百年交會、甲子傳承的重要時刻，本院特別推出「甲子萬年：國立故宮博物院百年院慶特展」，回顧過去六十年的足跡，並以百年底蘊展望未來無限可能。",
+        "img_key_vision": {
+            "id": "mta2v4wllsw8",
+            "name": "exhibition_kv",
+            "type": "photo",
+            "alt_text": "甲子萬年：國立故宮博物院百年院慶特展主視覺圖片",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/pngs3217o4ei_kv.jpg",
+                    "media_sources": [
+                        {
+                            "width": 4000,
+                            "height": 1812,
+                            "format": "jpeg",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/pngs3217o4ei_kv.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "medias": [
+            {
+                "id": "9d2f12a8f23a",
+                "name": "相關影片",
+                "type": "youtube",
+                "alt_text": "相關影片",
+                "info": [
+                    {
+                        "type": "youtube",
+                        "value": "https://youtu.be/FKk1hbxylLU?si=yjLOky4JdoLWi5iv",
+                        "media_sources": []
+                    }
+                ]
+            }
+        ],
+        "venue_locations": [
+            {
+                "uid": "2buppawyud8v",
+                "name": "1F",
+                "spaces": [
+                    {
+                        "uid": "8fgmmk6t0hyd",
+                        "name": "105",
+                        "area_color": "#FFDD55"
+                    },
+                    {
+                        "uid": "4i4f75xy2qm5",
+                        "name": "107",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            }
+        ],
+        "categories": [
+            {
+                "uid": "lal5mgbd1vcf",
+                "name": "甲子萬年"
+            },
+            {
+                "uid": "864c41m63x7q",
+                "name": "百年院慶"
+            }
+        ],
+        "work_binding": [
+            {
+                "uid": "unrlx51h5scy",
+                "name": "紅樓夢圖詠",
+                "category": {
+                    "uid": "lal5mgbd1vcf",
+                    "name": "甲子萬年"
+                }
+            },
+            {
+                "uid": "ji9heodooe28",
+                "name": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂",
+                "category": {
+                    "uid": "lal5mgbd1vcf",
+                    "name": "甲子萬年"
+                }
+            },
+            {
+                "uid": "3r4vuoy3hxto",
+                "name": "明晚期至清 銅夔紋爐、瓶、盒",
+                "category": {
+                    "uid": "lal5mgbd1vcf",
+                    "name": "甲子萬年"
+                }
+            },
+            {
+                "uid": "xe75pn1ho6th",
+                "name": "以宋為韻—汝窯與定窯",
+                "category": {
+                    "uid": "lal5mgbd1vcf",
+                    "name": "甲子萬年"
+                }
+            },
+            {
+                "uid": "e2bkzvk26ic2",
+                "name": "元　霽青單把杯盤",
+                "category": {
+                    "uid": "864c41m63x7q",
+                    "name": "百年院慶"
+                }
+            },
+            {
+                "uid": "ozy68rnni7yh",
+                "name": "元　鈞窯　天藍釉紫斑盂",
+                "category": {
+                    "uid": "864c41m63x7q",
+                    "name": "百年院慶"
+                }
+            }
+        ],
+        "works": [
+            {
+                "uid": "unrlx51h5scy",
+                "exhibit_number": "612",
+                "name": "紅樓夢圖詠",
+                "description": "清 改琦撰\n清 光緒五年（1879）刊圖繪本\n故觀003571—003574\n高22.5公分 寬15公分\n\n關於曹雪芹，有許多解不開的謎。曹家經抄滅敗亡，曹雪芹陷溺於悲痛之中返回北京，及至乾隆二十七年（1762）「壬午除夕，書未成，芹為淚盡而逝。」對於他「年未五旬而卒」短暫的一生，對於他未完成的《紅樓夢》，認識與理解往往是破碎且殘缺的，彷彿他的存在本身就是一個謎。《紅樓夢》未完，不減其迷人之處。或許也正因未完，而產生了許多的版本、點評乃至圖詠。",
+                "order": 2,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1292,
+                    "y": -0.2858
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "8fe2f14b202b",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "紅樓夢圖詠：這是一幅書冊封面式的作品。畫面中央偏左是一幅細筆線描圖，描繪兩名身著古代服飾的人物站立在一塊大石旁，姿態端靜。右側是一條直立的標籤欄，背景為淺色，四角帶有黑色三角形裝飾。欄內以黑字書寫書名和卷次，排列自上而下。整體布局左為人物插畫，右為題簽，構圖清楚分明。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/unrlx51h5scy_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "dc2accd6633b",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/dc2accd6633b.mp3",
+                                "transcript": "清 改琦撰\n清 光緒五年（1879）刊圖繪本\n故觀003571—003574\n高22.5公分 寬15公分\n\n關於曹雪芹，有許多解不開的謎。曹家經抄滅敗亡，曹雪芹陷溺於悲痛之中返回北京，及至乾隆二十七年（1762）「壬午除夕，書未成，芹為淚盡而逝。」對於他「年未五旬而卒」短暫的一生，對於他未完成的《紅樓夢》，認識與理解往往是破碎且殘缺的，彷彿他的存在本身就是一個謎。《紅樓夢》未完，不減其迷人之處。或許也正因未完，而產生了許多的版本、點評乃至圖詠。",
+                                "caption_url": null,
+                                "duration": 70217
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d630a2e60cb0",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "16cbbcf3579c",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/16cbbcf3579c.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 38217
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "870cf486c883",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "ji9heodooe28",
+                "exhibit_number": "613",
+                "name": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂",
+                "description": "故雜4837\n長16公分 座徑4.8公分\n\n元妃，本名賈元春，是賈寶玉的長姊。十三、四歲時入宮，後晉封為貴妃，使賈府的榮耀達到鼎盛；省親，宮裡嬪妃獲准返家，探望父母或其他尊親，以盡孝道。賈府為了迎接元妃歸來，特別修建了省親別院—大觀園。大觀園，是元妃失去青春、與家人短暫相聚的樂園，也是賈寶玉與眾金釵們，在其權力的庇護下，彷彿遺世獨立的青春樂園，也是曹雪芹緬懷過去，繁華已逝的失樂園。",
+                "order": 3,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1651,
+                    "y": -0.199
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "4043c7406cd7",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "清 乾隆 金鑲東珠貓睛石嬪妃朝冠頂：這是一件以金質為主的立體飾件，自底座向上呈層層堆疊的構造。底部為半球形的金色基座，表面密布細緻的花紋。其上伸出多層細工打造的鳥形與枝葉造型，金片以鏤空與捲曲方式組成，層次複雜。作品上點綴多顆圓形白色珍珠，排列於各層之間。最頂端是一顆橢圓形的光滑寶石，色澤偏棕黃。整體造型輕盈繁複，向上呈開展姿態。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ji9heodooe28_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7bc0c3f38dac",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7bc0c3f38dac.mp3",
+                                "transcript": "故雜4837\n長16公分 座徑4.8公分\n\n元妃，本名賈元春，是賈寶玉的長姊。十三、四歲時入宮，後晉封為貴妃，使賈府的榮耀達到鼎盛；省親，宮裡嬪妃獲准返家，探望父母或其他尊親，以盡孝道。賈府為了迎接元妃歸來，特別修建了省親別院—大觀園。大觀園，是元妃失去青春、與家人短暫相聚的樂園，也是賈寶玉與眾金釵們，在其權力的庇護下，彷彿遺世獨立的青春樂園，也是曹雪芹緬懷過去，繁華已逝的失樂園。",
+                                "caption_url": null,
+                                "duration": 60500
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "06e983c12619",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "84d5766879b6",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/84d5766879b6.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 48640
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "3208d4039051",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "3r4vuoy3hxto",
+                "exhibit_number": "614",
+                "name": "明晚期至清 銅夔紋爐、瓶、盒",
+                "description": "中銅1565、1820、1819\n爐高15公分 瓶高13.8公分 盒高7.9公分\n\n《紅樓夢》總是透著一縷幽香。重要儀式場合焚香，日常起居坐臥也焚香。元妃省親，大觀園內鼎焚百合之香；賈府家宴，几上設爐瓶三事，焚御賜百合宮香。爐瓶三事，以香爐、香盒及箸瓶組成。爐以焚香，盒以貯香，瓶以置箸與匙。爐置中，盒、瓶置側，顯見爐為主角。小說中提到的香爐—文王鼎，源自周公祭祀周文王的祭器，明清時期多有模仿，是仿古風雅之器，宜齋室清賞。",
+                "order": 4,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2101,
+                    "y": -0.264
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "23e5509f2bc6",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "明晚期至清 銅夔紋爐、瓶、盒：畫面展示一組擺放在木座上的金屬器物。木座呈弧形，表面雕有細緻的紋飾。上方依序擺放三件器物：左側是一件細頸的器具，頸口插著三根細棒與一片圓形的金屬葉片；器身以金與綠色相間的裝飾構成。中央是一個三足的小型鼎形容器，金色外表並帶有藍綠色的幾何紋帶。右側是一件帶蓋的小圓盒，蓋面中央有一個小握鈕，盒身同樣帶有藍綠色裝飾。整組器物呈現禮器般的對稱陳列。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/3r4vuoy3hxto_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "ebe3b3d62263",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ebe3b3d62263.mp3",
+                                "transcript": "中銅1565、1820、1819\n爐高15公分 瓶高13.8公分 盒高7.9公分\n\n《紅樓夢》總是透著一縷幽香。重要儀式場合焚香，日常起居坐臥也焚香。元妃省親，大觀園內鼎焚百合之香；賈府家宴，几上設爐瓶三事，焚御賜百合宮香。爐瓶三事，以香爐、香盒及箸瓶組成。爐以焚香，盒以貯香，瓶以置箸與匙。爐置中，盒、瓶置側，顯見爐為主角。小說中提到的香爐—文王鼎，源自周公祭祀周文王的祭器，明清時期多有模仿，是仿古風雅之器，宜齋室清賞。",
+                                "caption_url": null,
+                                "duration": 64757
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "17718020bde3",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9d407ef2c546",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9d407ef2c546.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 55850
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "ea904d2cb846",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "xe75pn1ho6th",
+                "exhibit_number": "615",
+                "name": "以宋為韻—汝窯與定窯",
+                "description": "故瓷17854\n口徑15.7公分 高3.7公分\n\n《紅樓夢》居家生活瓷器的描述，提到宋代名窯，像汝窯，像定窯，也提到明代官窯，像宣窯，像成窯，妝點著賈府、大觀園的日常。曹雪芹將這份日常，包裹在精緻講究的古董瓷器裡，以及清代仿古的當代瓷器中。汝窯，「晨星真可貴」，卻數次出現於書中，有盤、美人觚與花囊；定窯，「顏色天下白」，寶玉生日開夜宴，就以四十個定窯碟盛酒饌果菜。低調奢華，令人印象深刻。",
+                "order": 5,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "06953b4mgzad",
+                            "name": "203",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.2284,
+                    "y": -0.3495
+                },
+                "exhibition_uid": "21lsxrf1aznj",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "aa8c95984f71",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "以宋為韻—汝窯與定窯：這是一件淺盤式的陶瓷器。盤面寬而平緩，中央略向下凹。整體覆蓋淡青灰色釉，表面佈滿細密的開片紋。盤緣圓滑，外側曲線簡潔。底部呈圈足狀，使盤身略微墊起。整體外觀清雅端整。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 740,
+                                        "height": 986,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/xe75pn1ho6th_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "47ce022bd381",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/47ce022bd381.mp3",
+                                "transcript": "故瓷17854\n口徑15.7公分 高3.7公分\n\n《紅樓夢》居家生活瓷器的描述，提到宋代名窯，像汝窯，像定窯，也提到明代官窯，像宣窯，像成窯，妝點著賈府、大觀園的日常。曹雪芹將這份日常，包裹在精緻講究的古董瓷器裡，以及清代仿古的當代瓷器中。汝窯，「晨星真可貴」，卻數次出現於書中，有盤、美人觚與花囊；定窯，「顏色天下白」，寶玉生日開夜宴，就以四十個定窯碟盛酒饌果菜。低調奢華，令人印象深刻。",
+                                "caption_url": null,
+                                "duration": 58253
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "a596886e1fb5",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "9b1af276d469",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9b1af276d469.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 30981
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "3a25d587df6c",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "e2bkzvk26ic2",
+                "exhibit_number": "511",
+                "name": "元　霽青單把杯",
+                "description": "此杯呈漏斗狀，口沿鑲金屬釦。斜腹，一側帶環扣把。底部內挖成臥足，無釉，滿塗黃褐色護胎汁。除器底外通體施鈷藍釉，釉面隱約可見已脫落的金彩或銀箔裝飾紋樣。杯內口沿下有一圈菱形方格圖案，底心為十二星芒團花，外壁環繞一折枝梅。",
+                "order": 11,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "ilajxhwztl86",
+                            "name": "205",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.3779,
+                    "y": 0.3638
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "61e9e2384d96",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "元　霽青單把杯：這是一只深藍色釉面的淺碗，外形呈倒截圓錐形，上寬下窄。碗口略微外張，邊緣帶有金屬色的細邊裝飾。碗身一側附有一個小把手，把手呈短而扁的矩形開口造型。整體色調濃郁，表面光滑。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 2000,
+                                        "height": 1500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/e2bkzvk26ic2_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "3942337718ea",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/3942337718ea.mp3",
+                                "transcript": "此杯呈漏斗狀，口沿鑲金屬釦。斜腹，一側帶環扣把。底部內挖成臥足，無釉，滿塗黃褐色護胎汁。除器底外通體施鈷藍釉，釉面隱約可見已脫落的金彩或銀箔裝飾紋樣。杯內口沿下有一圈菱形方格圖案，底心為十二星芒團花，外壁環繞一折枝梅。",
+                                "caption_url": null,
+                                "duration": 34926
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "77ab090a6a87",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "33e7c462eb5e",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/33e7c462eb5e.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 28291
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "c0b8827d5958",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "ozy68rnni7yh",
+                "exhibit_number": "512",
+                "name": "元　鈞窯　天藍釉紫斑盂",
+                "description": "斂圓口，深弧形壁，尖底並有矮圈足。釉色裏外不一致，內壁釉色為天藍色，底部中心處無釉，留有一塊三杈形的支痕。外壁釉色為天藍色但釉層中泛出猶如彩霞的紫色斑紋，口沿一道赭紅邊。圈足底緣修飾不完整，足底、圈足外壁及內周壁無釉處，皆露赭土色胎，外底心微凸，施天藍色釉彩。",
+                "order": 12,
+                "venue_location": {
+                    "uid": "r5rl5xpwb35k",
+                    "name": "2F",
+                    "spaces": [
+                        {
+                            "uid": "ilajxhwztl86",
+                            "name": "205",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.3487,
+                    "y": 0.2585
+                },
+                "exhibition_uid": "cdoirk5wxrn9",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "740b0cf35be9",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "元　鈞窯　天藍釉紫斑盂：這是一只圓形的陶瓷茶碗，外表呈柔和的漸層色彩，由淡藍、紫色與青綠色交融而成。碗口略微外展，邊緣呈細細的棕色線條。碗身飽滿、近乎球形，下方接一個小而圓的底座。表面光滑，色彩呈現雲霧般的過渡。",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1c434a29c894",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "元　鈞窯　天藍釉紫斑盂",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_02.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 3053,
+                                        "height": 2290,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_02.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "18abaa3a6c2d",
+                        "name": "語音導覽",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/18abaa3a6c2d.mp3",
+                                "transcript": "斂圓口，深弧形壁，尖底並有矮圈足。釉色裏外不一致，內壁釉色為天藍色，底部中心處無釉，留有一塊三杈形的支痕。外壁釉色為天藍色但釉層中泛出猶如彩霞的紫色斑紋，口沿一道赭紅邊。圈足底緣修飾不完整，足底、圈足外壁及內周壁無釉處，皆露赭土色胎，外底心微凸，施天藍色釉彩。",
+                                "caption_url": null,
+                                "duration": 44931
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "d5500bc880b3",
+                        "name": "手語影片",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "aa08cc1b0cc2",
+                        "name": "口述影像音檔",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/aa08cc1b0cc2.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36807
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "1984559e9453",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

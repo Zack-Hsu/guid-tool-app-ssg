@@ -1,0 +1,128 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "ozy68rnni7yh",
+        "exhibit_number": "512",
+        "name": "Yuan Dynasty — Jun Ware Bowl with Sky-Blue Glaze and Purple Splashes",
+        "description": "This bowl features a slightly constricted, round mouth, deep curving walls, and a pointed base with a short ring foot. The glaze differs between the interior and exterior. Inside, the glaze is a sky-blue color, with the unglazed area at the base center showing a three-pronged support mark. The exterior is also sky-blue but displays cloud-like purple splashes within the glaze layer, resembling rosy clouds. The rim is accented with a band of reddish-brown. Parts of the ring foot are roughly finished, and the unglazed areas on the foot base, foot wall, and inner rim reveal the reddish earthen body. The slightly convex base is coated with sky-blue glaze.",
+        "order": 12,
+        "venue_location": {
+            "uid": "r5rl5xpwb35k",
+            "name": "2F",
+            "spaces": [
+                {
+                    "uid": "ilajxhwztl86",
+                    "name": "205",
+                    "area_color": "#FFDD55"
+                }
+            ]
+        },
+        "map_location": {
+            "id": "gorh24dfzp7y",
+            "x": 0.3487,
+            "y": 0.2585
+        },
+        "exhibition_uid": "cdoirk5wxrn9",
+        "is_popular": false,
+        "medias": [
+            {
+                "id": "740b0cf35be9",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Yuan Dynasty Jun Ware Bowl with Sky-Blue Glaze and Purple Splashes: A round ceramic bowl featuring soft gradient hues blending light blue, violet, and green. The rim slightly flares outward with a fine brown edge. The body is full and rounded with a small circular foot.",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_01.jpg",
+                        "media_sources": [
+                            {
+                                "width": 3053,
+                                "height": 2290,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_01.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "1c434a29c894",
+                "name": "work_image_main",
+                "type": "photo",
+                "alt_text": "Yuan Dynasty Jun Ware Bowl with Sky-Blue Glaze and Purple Splashes",
+                "info": [
+                    {
+                        "type": "jpeg",
+                        "value": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_02.jpg",
+                        "media_sources": [
+                            {
+                                "width": 3053,
+                                "height": 2290,
+                                "format": "jpeg",
+                                "url": "https://media.artogo.tw/test/npm_package_data/images/ozy68rnni7yh_02.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "media_audio_guidances": [
+            {
+                "id": "18abaa3a6c2d",
+                "name": "Audio Guide",
+                "audio_files": [
+                    {
+                        "lang": "zh-TW",
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/18abaa3a6c2d.mp3",
+                        "transcript": "斂圓口，深弧形壁，尖底並有矮圈足。釉色裏外不一致，內壁釉色為天藍色，底部中心處無釉，留有一塊三杈形的支痕。外壁釉色為天藍色但釉層中泛出猶如彩霞的紫色斑紋，口沿一道赭紅邊。圈足底緣修飾不完整，足底、圈足外壁及內周壁無釉處，皆露赭土色胎，外底心微凸，施天藍色釉彩。",
+                        "caption_url": null,
+                        "duration": 44931
+                    }
+                ]
+            }
+        ],
+        "media_sign_language_guidances": [
+            {
+                "id": "d5500bc880b3",
+                "name": "Sign Video",
+                "video_files": [
+                    {
+                        "width": 480,
+                        "height": 270,
+                        "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                        "duration": 8534
+                    }
+                ]
+            }
+        ],
+        "media_audio_descriptions": [
+            {
+                "id": "aa08cc1b0cc2",
+                "name": "Image Description Audio",
+                "audio_files": [
+                    {
+                        "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/aa08cc1b0cc2.mp3",
+                        "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                        "duration": 36807
+                    }
+                ]
+            }
+        ],
+        "model_3ds": [
+            {
+                "id": "1984559e9453",
+                "name": "lightroom_model",
+                "model_files": [
+                    {
+                        "type": "glb",
+                        "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                        "payload": null
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "zwzvu0e5juh1",
+        "name": "故宮博物院",
+        "title": "歡迎使用\n故宮第一展覽館語音導覽",
+        "sub_title": "在這裡，你可以體驗到多條動線導覽或者自由探索展品！",
+        "img_key_vision": {
+            "id": "h4ma2icajpyz",
+            "name": "主視覺",
+            "type": "photo",
+            "alt_text": "國立故宮博物院建築物外觀",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/npm.jpeg",
+                    "media_sources": [
+                        {
+                            "width": 1024,
+                            "height": 683,
+                            "format": "original",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/npm.jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "overview": [
+            {
+                "id": "0yglrjhxlun7",
+                "type": "content",
+                "layout": "venue_info",
+                "title": "簡介",
+                "content": "正式進入館內參觀，在入口右側看到展覽總說與平面圖，《引領產業：工研院的洞見與創新》展覽展示工研院蒐藏的技術資產，闡述工研院作為產業先鋒者，如何開拓、創造臺灣的產業發展。展覽分為11個單元，在平面圖中，標示英文字母A、B、C、D單元，主要以多媒體展示手法，表達工研院的起源、產業大事紀以及組織文化；而標示數字1到7的單元，主要展示工研院典藏的文物，依序為半導體、資通訊、材化、車輛、精密機械、生醫、永續等7大產業，透過物件了解工研院帶來的產業影響力。",
+                "media_files": []
+            },
+            {
+                "id": "7cfriki6d10h",
+                "type": "content",
+                "layout": "venue_info",
+                "title": "典藏類別",
+                "content": "販售故宮出版之書籍、文物複製品及精美的文物衍生性商品等。本院內設有多處博物館商店，分別位於正館B1、2F，方便來院參觀民眾選購。提供外國人退稅服務。",
+                "media_files": [
+                    {
+                        "id": "2ik9uvbdvxs7",
+                        "name": "gallery_space_a",
+                        "type": "photo",
+                        "url": "https://media.artogo.tw/test/npm_package_data/images/venue-info_01.jpg",
+                        "alt_text": "展品 1"
+                    },
+                    {
+                        "id": "39f8hmv46eo4",
+                        "name": "gallery_space_b",
+                        "type": "photo",
+                        "url": "https://media.artogo.tw/test/npm_package_data/images/venue-info_02.jpg",
+                        "alt_text": "展品 2"
+                    },
+                    {
+                        "id": "i823eiehn25l",
+                        "name": "gallery_space_c",
+                        "type": "photo",
+                        "url": "https://media.artogo.tw/test/npm_package_data/images/venue-info_03.jpg",
+                        "alt_text": "展品 3"
+                    }
+                ]
+            }
+        ],
+        "contact_info": "電話：(02) 2881-2021",
+        "opening_hours": {
+            "id": "cc109fea220d",
+            "extra_description": "配合「從印象派到現代主義─美國大都會博物館名作展」（2025-6-14~10-12）週一開館；10/13 起恢復週一休館。\n2025年週一特別開放參觀日：1/27、2/24、3/3、3/17、4/7、5/5、5/19、6/16、6/23、6/30、7/7、7/14、7/21、7/28、8/4、8/11、8/18、8/25、9/1、9/8、9/15、9/22、9/29、10/6、10/20、11/17、12/1、12/29。",
+            "open_hour_items": [
+                {
+                    "day_range": "週一至週日",
+                    "time_range": "09:00~17:00",
+                    "note": [
+                        "(16:30停止售票及票券兌換)"
+                    ]
+                }
+            ]
+        },
+        "ticket_info": [
+            {
+                "id": "5atgrb9vd398",
+                "price": "NT$350",
+                "ticket_type": "普通參觀券（外籍人士）",
+                "note": []
+            },
+            {
+                "id": "uou8vluvoi1k",
+                "price": "NT$320",
+                "ticket_type": "外籍團體參觀券",
+                "note": [
+                    "10人以上團體（團體票券每人320元，另加收語音導覽系統租金30元）",
+                    "凡購買團體參觀券者依規定使用團體語音導覽系統"
+                ]
+            },
+            {
+                "id": "fa9oqx3busro",
+                "price": "NT$150",
+                "ticket_type": "國人優惠參觀券",
+                "note": [
+                    "國人憑身分證件（團體亦同）、持中華民國外僑永久居留證者",
+                    "持國際學生證者（ISIC,international student identity card）",
+                    "個人、團體優惠票價相同，10人以上團體，另加收團體語音導覽系統租金30元"
+                ]
+            },
+            {
+                "id": "qhly0ia8e8p5",
+                "price": "免費",
+                "ticket_type": "免費",
+                "note": [
+                    "年齡未滿18歲者。（不分國籍）",
+                    "身心障礙者及其陪同者一人。（不分國籍）",
+                    "65歲以上長者、低收入戶(憑證)免費參觀。（本國籍）",
+                    "本國學生（持「教育部立案學校有效學生證」者）",
+                    "美國博物館協會(AAM)、國際博物館學會(ICOM)會員",
+                    "持中華民國博物館學會會員證者",
+                    "志工憑本國「志願服務榮譽卡」者"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,850 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "uid": "9sukyibvka40",
+        "name": "The Enchanted House of Elegance — Rococo Treasures from the National Palace Museum",
+        "start_date": "2021-12-24T00:00:00.000Z",
+        "end_date": "2050-12-24T23:59:59.000Z",
+        "description": "Here, “decoration” becomes a kind of magic—one that breathes life into seemingly ordinary scenes and objects. This magic is known as “Rococo,” a style that draws inspiration from nature. Light, playful, and fantastical, it transformed—and continues to transform—the aesthetics of the everyday.",
+        "img_key_vision": {
+            "id": "vj6tsb9voqq5",
+            "name": "exhibition_kv",
+            "type": "photo",
+            "alt_text": "Key visual for the exhibition 'The Enchanted House of Elegance — Rococo Treasures from the National Palace Museum'",
+            "info": [
+                {
+                    "type": "jpeg",
+                    "value": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg",
+                    "media_sources": [
+                        {
+                            "width": 1280,
+                            "height": 720,
+                            "format": "jpeg",
+                            "url": "https://media.artogo.tw/test/npm_package_data/images/9sukyibvka40_kv.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        "medias": [
+            {
+                "id": "q7dvwg1w9gmr",
+                "name": "hall_view",
+                "type": "youtube",
+                "alt_text": "",
+                "info": [
+                    {
+                        "type": "youtube",
+                        "value": "https://youtu.be/GuXZ20q4J0I?si=YYFVRy2MkmNobRSN",
+                        "media_sources": []
+                    }
+                ]
+            }
+        ],
+        "venue_locations": [
+            {
+                "uid": "m4z9jsudiugf",
+                "name": "3F",
+                "spaces": [
+                    {
+                        "uid": "y2clxyjxromp",
+                        "name": "300",
+                        "area_color": "#FFDD55"
+                    },
+                    {
+                        "uid": "viskg39sf8ko",
+                        "name": "301",
+                        "area_color": "#FFDD55"
+                    }
+                ]
+            }
+        ],
+        "categories": [
+            {
+                "uid": "d83eoge0l945",
+                "name": "Extraordinary Treasures"
+            },
+            {
+                "uid": "0wc0w438sejb",
+                "name": "Magnificent Splendor"
+            }
+        ],
+        "work_binding": [
+            {
+                "uid": "a54lijv97e5g",
+                "name": "Clock | Made by William Carpenter | London, England, 1770–1805 | NPM Misc. 726",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "Extraordinary Treasures"
+                }
+            },
+            {
+                "uid": "czk3olxxvffo",
+                "name": "Porcelain Sugar Bowl | Sèvres Porcelain Manufactory | France, 1783",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "Extraordinary Treasures"
+                }
+            },
+            {
+                "uid": "pkv3tlgfp5nk",
+                "name": "Gilt-Mounted Glass Perfume Bottle | London, England, ca. 1760 | NPM Misc. 1658",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "Extraordinary Treasures"
+                }
+            },
+            {
+                "uid": "6qid5gpesqjp",
+                "name": "Magnifying Glass | England, ca. 1760–1770 | NPM Misc. 103",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "Extraordinary Treasures"
+                }
+            },
+            {
+                "uid": "5xy30hyye6vu",
+                "name": "Gilt-Mounted Agate Snuffbox | Europe, 18th century | NPM Misc. 1634",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "Extraordinary Treasures"
+                }
+            },
+            {
+                "uid": "8ltp57y7v4gw",
+                "name": "Toilet Case | Europe, 18th century | NPM Enamel 000902",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "Extraordinary Treasures"
+                }
+            },
+            {
+                "uid": "pzf8t3dn6bsv",
+                "name": "Enamel Perfume Bottle | Europe, 18th century | NPM Enamel 94",
+                "category": {
+                    "uid": "d83eoge0l945",
+                    "name": "Extraordinary Treasures"
+                }
+            }
+        ],
+        "works": [
+            {
+                "uid": "a54lijv97e5g",
+                "exhibit_number": "716",
+                "name": "Clock | William Carpenter, London (1770–1805) | NPM Collection No. 726",
+                "description": "This ornate clock features a circular dial with Roman numerals for the hours and Arabic numerals marking the minutes and seconds. Encircled by radiant sunburst ornamentation, the face is protected beneath an oval glass cover. The oval case itself is bordered with petal-like motifs, while the top is embellished with a quiver of arrows, a torch, and fluttering ribbons—classical symbols of enlightenment and refined taste.\n\nBelow, scrolling acanthus leaves support the clock, which stands on a two-tiered base: the upper platform rests on four eagle-shaped feet, and the lower tier is adorned with floral designs. On the reverse appears the inscription “Willm Carpenter London,” along with a scale regulating speed—“FASTER,” “1–9,” “SLOWER.” Two original winding keys accompany the piece.\n\nElegant, intricate, and richly symbolic, the clock reflects the craftsmanship and decorative vocabulary of late eighteenth-century London, embodying both precision timekeeping and the aesthetic ideals of its age.",
+                "order": 1,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0567,
+                    "y": 0.0398
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "2aab5cb38027",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "An ornate gold-colored mantel clock with an oval case. The white dial displays Roman numerals and is surrounded by sunburst rays. Decorative motifs—including ribbons, foliage, and scrolls—adorn the top and base, which rests on intricately formed feet. The overall design is lavish and highly detailed.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 1028,
+                                        "height": 1371,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/a54lijv97e5g_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7712f22491dd",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7712f22491dd.mp3",
+                                "transcript": "This ornate clock features a circular dial with Roman numerals for the hours and Arabic numerals marking the minutes and seconds. Encircled by radiant sunburst ornamentation, the face is protected beneath an oval glass cover. The oval case itself is bordered with petal-like motifs, while the top is embellished with a quiver of arrows, a torch, and fluttering ribbons—classical symbols of enlightenment and refined taste.\n\nBelow, scrolling acanthus leaves support the clock, which stands on a two-tiered base: the upper platform rests on four eagle-shaped feet, and the lower tier is adorned with floral designs. On the reverse appears the inscription “Willm Carpenter London,” along with a scale regulating speed—“FASTER,” “1–9,” “SLOWER.” Two original winding keys accompany the piece.\n\nElegant, intricate, and richly symbolic, the clock reflects the craftsmanship and decorative vocabulary of late eighteenth-century London, embodying both precision timekeeping and the aesthetic ideals of its age.",
+                                "caption_url": null,
+                                "duration": 53212
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "c23079d9217f",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "d819db635fc2",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/d819db635fc2.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 40124
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "db1280f81153",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "czk3olxxvffo",
+                "exhibit_number": "717",
+                "name": "Porcelain Sugar Bowl | Sèvres Manufactory, France, 1783",
+                "description": "This luminous sugar bowl—its white glaze adorned with delicate gold decoration—bears traces of a long and distinguished journey. On its underside remain both the Sèvres factory marks and an original retail label, preserving the story of how it was made, sold, and eventually carried across continents.\n\nAt the center of its marks is the pair of crossed “L”s, the emblem used by the Sèvres manufactory in honor of the French kings Louis XIV and Louis XV. Inside the intertwined letters appears a small double “f,” a date letter indicating the year of manufacture. By comparing this mark to factory records, the bowl can be firmly dated to 1783—placing it within the reign of Louis XV, as the crossed “L”s here suggest.\n\nIn its early years Sèvres could produce only soft-paste porcelain, but by the 1770s the factory had finally mastered hard-paste—considered in Europe the equal of prized Chinese porcelain. The gilded crown painted above the mark is the factory’s proud signifier of true hard-paste ware. The initials “LF” at the bottom identify the decorator, the skilled painter La France, who in the spring of 1783 embellished not only this bowl but also matching teapots, milk jugs, and cups with the same refined motifs.\n\nDuring the latter half of the eighteenth century, Sèvres was overseen by France’s prime minister, Henry Leonard Jean-Baptiste Bertin, a statesman deeply fascinated by distant China. Hoping to express goodwill toward the Qianlong Emperor, Bertin purchased this sugar bowl for 18 livres and arranged for it to be delivered across great distance to the Qing court. The surviving retail label—still legible today—quietly preserves this once-forgotten story of diplomacy, craftsmanship, and the global travels of a single porcelain piece.",
+                "order": 2,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0174,
+                    "y": 0.0582
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "731f9bfeb050",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "A white porcelain sugar bowl decorated with fine gilded floral patterns. The rounded body and matching lid are accented with gold detailing, including a small gilded knop at the top. Elegant, restrained, and luminous in contrast between white glaze and gold lines.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/czk3olxxvffo_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 600,
+                                        "height": 450,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/czk3olxxvffo_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "1d9f80b52861",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/1d9f80b52861.mp3",
+                                "transcript": "This luminous sugar bowl—its white glaze adorned with delicate gold decoration—bears traces of a long and distinguished journey. On its underside remain both the Sèvres factory marks and an original retail label, preserving the story of how it was made, sold, and eventually carried across continents.\n\nAt the center of its marks is the pair of crossed “L”s, the emblem used by the Sèvres manufactory in honor of the French kings Louis XIV and Louis XV. Inside the intertwined letters appears a small double “f,” a date letter indicating the year of manufacture. By comparing this mark to factory records, the bowl can be firmly dated to 1783—placing it within the reign of Louis XV, as the crossed “L”s here suggest.\n\nIn its early years Sèvres could produce only soft-paste porcelain, but by the 1770s the factory had finally mastered hard-paste—considered in Europe the equal of prized Chinese porcelain. The gilded crown painted above the mark is the factory’s proud signifier of true hard-paste ware. The initials “LF” at the bottom identify the decorator, the skilled painter La France, who in the spring of 1783 embellished not only this bowl but also matching teapots, milk jugs, and cups with the same refined motifs.\n\nDuring the latter half of the eighteenth century, Sèvres was overseen by France’s prime minister, Henry Leonard Jean-Baptiste Bertin, a statesman deeply fascinated by distant China. Hoping to express goodwill toward the Qianlong Emperor, Bertin purchased this sugar bowl for 18 livres and arranged for it to be delivered across great distance to the Qing court. The surviving retail label—still legible today—quietly preserves this once-forgotten story of diplomacy, craftsmanship, and the global travels of a single porcelain piece.",
+                                "caption_url": null,
+                                "duration": 122358
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "4b8f06404206",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "0b42a96c254b",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/0b42a96c254b.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 33959
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "5738a5505f39",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "pkv3tlgfp5nk",
+                "exhibit_number": "718",
+                "name": "Gilt-Mounted Glass Perfume Bottle | London, ca. 1760",
+                "description": "This elongated, flat-sided perfume bottle is crafted from cut glass and encased in a frame of gilt metal adorned with swirling foliate scrolls. It features an inner glass stopper and an outer screw-on cap richly decorated with chased floral patterns. Along the rim of the lid, a line of white enamel bears a tender French inscription in gold: “VOTRE AMITIÉ EN RETOUR” — “Your friendship in return.”\n\nSuch bottles, celebrated for their abundance of curves and ornate gilt mounts, were fashionable luxury objects in London during the reign of King George III. Portable, intimate, and decorative, they were often exchanged as refined tokens of affection or friendship, carrying not only fragrance but also sentiment.",
+                "order": 3,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0089,
+                    "y": 0.0643
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "2d74b579d2a3",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "A flat, elongated glass bottle encased in ornate gilt metalwork. The golden framework forms scrolls, leaves, and lattice-like patterns around the transparent body. The cap is domed and richly decorated, with a small ribbon-like collar encircling the neck. The object appears delicate, intricate, and highly decorative.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg",
+                                "media_sources": [
+                                    {
+                                        "width": 375,
+                                        "height": 500,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/pkv3tlgfp5nk_01.jpg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "ff96b4a4caf1",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/ff96b4a4caf1.mp3",
+                                "transcript": "This elongated, flat-sided perfume bottle is crafted from cut glass and encased in a frame of gilt metal adorned with swirling foliate scrolls. It features an inner glass stopper and an outer screw-on cap richly decorated with chased floral patterns. Along the rim of the lid, a line of white enamel bears a tender French inscription in gold: “VOTRE AMITIÉ EN RETOUR” — “Your friendship in return.”\n\nSuch bottles, celebrated for their abundance of curves and ornate gilt mounts, were fashionable luxury objects in London during the reign of King George III. Portable, intimate, and decorative, they were often exchanged as refined tokens of affection or friendship, carrying not only fragrance but also sentiment.",
+                                "caption_url": null,
+                                "duration": 24581
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "95983dfe4a5a",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_02.mp4",
+                                "duration": 8400
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "6a37913e266c",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/6a37913e266c.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 38087
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "dc0744a283c9",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "6qid5gpesqjp",
+                "exhibit_number": "719",
+                "name": "Folding Magnifier | England, ca. 1760–1770",
+                "description": "This European-made folding magnifier features a pair of circular lenses that open outward from both sides. The handle is framed with gilt metal carved in flowing floral scrolls, while the central panel is set with polished agate, giving the piece both color and weight. The pierced gold ornamentation reflects the dynamic, symmetrical rhythms of the Baroque style, making this small optical tool as decorative as it is functional.\n\nSuch handheld magnifiers were often carried as fashionable accessories in the eighteenth century—objects that blended refinement, curiosity, and the pleasure of close looking.",
+                "order": 4,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "y2clxyjxromp",
+                            "name": "300",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.0026,
+                    "y": 0.0679
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "33d6eb6882fc",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "A slender decorative magnifier with a circular frame at the top and a teardrop-shaped handle below. The handle is filled with a deep blue panel beneath an intricate gilt openwork design of leaves and scrolls. The overall form is elegant, elongated, and richly adorned.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 450,
+                                        "height": 600,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/6qid5gpesqjp_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "fc6352b0b68a",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/fc6352b0b68a.mp3",
+                                "transcript": "This European-made folding magnifier features a pair of circular lenses that open outward from both sides. The handle is framed with gilt metal carved in flowing floral scrolls, while the central panel is set with polished agate, giving the piece both color and weight. The pierced gold ornamentation reflects the dynamic, symmetrical rhythms of the Baroque style, making this small optical tool as decorative as it is functional.\n\nSuch handheld magnifiers were often carried as fashionable accessories in the eighteenth century—objects that blended refinement, curiosity, and the pleasure of close looking.",
+                                "caption_url": null,
+                                "duration": 25287
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "46037cc5675d",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "42cfb3360963",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/42cfb3360963.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 33567
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "bd95fcbdb64d",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "5xy30hyye6vu",
+                "exhibit_number": "720",
+                "name": "Gilt-Mounted Agate Snuffbox | Europe, 18th Century",
+                "description": "This rectangular snuffbox opens from the top, revealing a compartment for powdered tobacco. Both the lid and the box are framed with gilt scrolling acanthus designs, within which slices of moss agate are set like miniature picture panels. At the hinge, silver mounts blossom into tiny leaves set with diamonds, rubies, and emeralds, adding a sparkling flourish to the opening gesture.\n\nThe underside is similarly framed with gilt decoration and inset with two agate plaques, each concealing an intimate erotic scene—a hidden luxury common in refined snuffboxes of the period. Comparable to another piece in the Museum attributed to James Cox, this box reflects the exquisite craftsmanship of late eighteenth-century England, where mechanical ingenuity and ornamental artistry often met in objects meant to be held, admired, and treasured.",
+                "order": 5,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1315,
+                    "y": -0.0742
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "44b9dee9fdf3",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "A small rectangular snuffbox framed in gilt metal. Each side and the lid are inset with translucent agate panels featuring soft cloud-like patterns and silhouettes. Delicate gold scrollwork surrounds each stone panel, and the front edge is embellished with a row of small jewels. The box appears symmetrical, refined, and luxurious in detail.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 600,
+                                        "height": 450,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/5xy30hyye6vu_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "7a348d7c4a36",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/7a348d7c4a36.mp3",
+                                "transcript": "This rectangular snuffbox opens from the top, revealing a compartment for powdered tobacco. Both the lid and the box are framed with gilt scrolling acanthus designs, within which slices of moss agate are set like miniature picture panels. At the hinge, silver mounts blossom into tiny leaves set with diamonds, rubies, and emeralds, adding a sparkling flourish to the opening gesture.\n\nThe underside is similarly framed with gilt decoration and inset with two agate plaques, each concealing an intimate erotic scene—a hidden luxury common in refined snuffboxes of the period. Comparable to another piece in the Museum attributed to James Cox, this box reflects the exquisite craftsmanship of late eighteenth-century England, where mechanical ingenuity and ornamental artistry often met in objects meant to be held, admired, and treasured.",
+                                "caption_url": null,
+                                "duration": 36572
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "283c32bee592",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "b4d4d79776c4",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/b4d4d79776c4.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 36650
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "c53241ef3411",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "8ltp57y7v4gw",
+                "exhibit_number": "721",
+                "name": "Dressing Case | Europe, 18th Century | NPM Enameled Ware 000902",
+                "description": "This compact dressing case assembles a miniature set of personal grooming tools designed for travel and daily refinement. Such cases typically contain a small mirror, glass bottles for perfumes or aromatic powders, and implements such as knives, scissors, and tweezers. The exterior is often lavishly decorated—its panels inlaid with painted enamel plaques, mother-of-pearl, agate, or multicolored gemstones—capturing the opulent aesthetic of eighteenth-century European craftsmanship. Portable yet sumptuous, these cases reflect a world in which elegance accompanied every gesture, even those performed in private.",
+                "order": 6,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1302,
+                    "y": -0.0665
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "ba0a4cd1eb38",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "A small rectangular European dressing case decorated with painted enamel panels featuring flowers and foliage. The box is framed with gilt metal mounts and rests on four tiny feet. A curved gilt handle rises elegantly from the lid, giving the piece a refined and decorative appearance.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 600,
+                                        "height": 450,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/8ltp57y7v4gw_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "71c21f4d944d",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/71c21f4d944d.mp3",
+                                "transcript": "This compact dressing case assembles a miniature set of personal grooming tools designed for travel and daily refinement. Such cases typically contain a small mirror, glass bottles for perfumes or aromatic powders, and implements such as knives, scissors, and tweezers. The exterior is often lavishly decorated—its panels inlaid with painted enamel plaques, mother-of-pearl, agate, or multicolored gemstones—capturing the opulent aesthetic of eighteenth-century European craftsmanship. Portable yet sumptuous, these cases reflect a world in which elegance accompanied every gesture, even those performed in private.",
+                                "caption_url": null,
+                                "duration": 26880
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "9e926fa418c8",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "3ca6d2adcd8f",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/3ca6d2adcd8f.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 40647
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "fc4d12615b4e",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "uid": "pzf8t3dn6bsv",
+                "exhibit_number": "722",
+                "name": "Enamel Perfume Bottle | Europe, 18th Century | NPM Enamel Ware 94",
+                "description": "Shaped like a small vase, this perfume bottle is fitted with a gilded, intricately carved lid topped with applied porcelain flowers. Petal-like bands encircle the upper and lower sections of the body. Against a soft pink enamel ground, two oval reserves present charming scenes of playful children, created using transfer-print techniques. Garlanded ribbons further embellish the surface. In its form, enameling style, and finely worked gilt details, the piece reflects the characteristics of English craftsmanship from the latter half of the eighteenth century.",
+                "order": 7,
+                "venue_location": {
+                    "uid": "m4z9jsudiugf",
+                    "name": "3F",
+                    "spaces": [
+                        {
+                            "uid": "viskg39sf8ko",
+                            "name": "301",
+                            "area_color": "#FFDD55"
+                        }
+                    ]
+                },
+                "map_location": {
+                    "id": "gorh24dfzp7y",
+                    "x": 0.1274,
+                    "y": -0.0724
+                },
+                "exhibition_uid": "9sukyibvka40",
+                "is_popular": false,
+                "medias": [
+                    {
+                        "id": "0c14f4954c88",
+                        "name": "work_image_main",
+                        "type": "photo",
+                        "alt_text": "An 18th-century enamel perfume bottle shaped like a small vase, featuring a pink enamel ground, petal-like molded bands, and gilt mounts. Two oval reserves display playful scenes of children. The lid is decorated with applied porcelain flowers in vivid colors, creating an ornate and lively appearance.",
+                        "info": [
+                            {
+                                "type": "jpeg",
+                                "value": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg",
+                                "media_sources": [
+                                    {
+                                        "width": 213,
+                                        "height": 237,
+                                        "format": "jpeg",
+                                        "url": "https://media.artogo.tw/test/npm_package_data/images/pzf8t3dn6bsv_01.jpeg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_guidances": [
+                    {
+                        "id": "9c90a898e790",
+                        "name": "Audio Guide",
+                        "audio_files": [
+                            {
+                                "lang": "zh-TW",
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_guidances/9c90a898e790.mp3",
+                                "transcript": "Shaped like a small vase, this perfume bottle is fitted with a gilded, intricately carved lid topped with applied porcelain flowers. Petal-like bands encircle the upper and lower sections of the body. Against a soft pink enamel ground, two oval reserves present charming scenes of playful children, created using transfer-print techniques. Garlanded ribbons further embellish the surface. In its form, enameling style, and finely worked gilt details, the piece reflects the characteristics of English craftsmanship from the latter half of the eighteenth century.",
+                                "caption_url": null,
+                                "duration": 26802
+                            }
+                        ]
+                    }
+                ],
+                "media_sign_language_guidances": [
+                    {
+                        "id": "4c76510dd6a0",
+                        "name": "Sign Video",
+                        "video_files": [
+                            {
+                                "width": 480,
+                                "height": 270,
+                                "url": "https://media.artogo.tw/test/npm_package_data/sign_language_guidances/sign_01.mp4",
+                                "duration": 8534
+                            }
+                        ]
+                    }
+                ],
+                "media_audio_descriptions": [
+                    {
+                        "id": "f4c4f5d3ca25",
+                        "name": "Image Description Audio",
+                        "audio_files": [
+                            {
+                                "url": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/f4c4f5d3ca25.mp3",
+                                "transcript": "https://media.artogo.tw/test/npm_package_data/audio_descriptions/9wdpanrhpfzw.txt",
+                                "duration": 34743
+                            }
+                        ]
+                    }
+                ],
+                "model_3ds": [
+                    {
+                        "id": "edd7f297e929",
+                        "name": "lightroom_model",
+                        "model_files": [
+                            {
+                                "type": "glb",
+                                "url": "https://media.artogo.tw/test/npm_package_data/models/duck.glb",
+                                "payload": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

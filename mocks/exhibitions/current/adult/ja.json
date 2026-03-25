@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "status_code": 200,
+    "status_key": "success",
+    "message": "Success with response",
+    "data": {
+        "exhibitions": []
+    }
+}
